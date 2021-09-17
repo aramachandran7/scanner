@@ -1,7 +1,7 @@
 /* Charlotte, Adi, Gabby */
 #include <Servo.h>
 
-#define ARRAY_SIZE                3
+#define ARRAY_SIZE                20
 #define TIME_TO_MAX_POS           10000
 
 /* */
@@ -38,7 +38,7 @@ void read_data_and_filter(){
     filtered_sensor_value += sensor_value[i]; 
   }
   
-  filtered_sensor_value /= 3; 
+  filtered_sensor_value /= ARRAY_SIZE; 
 }
 
 // handles async sweeping pan servo 
@@ -72,11 +72,17 @@ void setup() {
 
 void loop() {
   read_data_and_filter(); 
-  move_pan(180); 
-  move_tilt(); 
+  delay(5); 
+//  move_pan(180); 
+//  move_tilt(); 
 
 
   
-  Serial.println(filtered_sensor_value); 
+//  Serial.println(filtered_sensor_value); 
+
+  Serial.print("top:"); Serial.print(700); Serial.print(", ");
+  Serial.print("btm:"); Serial.print(50); Serial.print(", ");
+  Serial.print("data:"); Serial.print(filtered_sensor_value); Serial.print(", ");
+  Serial.println();
   
 }
