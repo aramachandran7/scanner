@@ -30,7 +30,7 @@ import keyboard
 # For Windows computers, the name is formatted like: "COM6"
 # For Apple computers, the name is formatted like: "/dev/tty.usbmodemfa141"
 #
-arduinoComPort = "/dev/ttyS4"
+arduinoComPort = "/dev/ttyACM0"
 
 
 #
@@ -53,11 +53,10 @@ serialPort = serial.Serial(arduinoComPort, baudRate, timeout=1)
 # main loop to read data from the Arduino, then display it
 #
 while True:
-
-  try:  # used try so that if user pressed other than the given key error will not be shown
+    try:  # used try so that if user pressed other than the given key error will not be shown
         if keyboard.is_pressed('q'):  # if key 'q' is pressed
             print('You Pressed A Key!')
-            break  # finishing the loop
+            # break  # finishing the loop
     except:
         #
         # ask for a line of data from the serial port, the ".decode()" converts the
@@ -69,20 +68,21 @@ while True:
         # check if data was received
         #
 
-        distance_measurement = int(lineOfData)
-        print(distance_measurement)  # if user pressed a key other than the given key the loop will continue
+        # distance_measurement = int(lineOfData)
+        # print(distance_measurement)  # if user pressed a key other than the given key the loop will continue
 
 
-  if len(lineOfData) > 0:
+    if len(lineOfData) > 0:
     #
     # data was received, convert it into 4 integers
     #
-    a, b, c, d = (int(x) for x in lineOfData.split(','))
-
+        print(lineOfData)
+    # therm_a, therm_b = (int(x) for x in lineOfData.split(','))
     #
-    # print the results
-    #
-    print("a = " + str(a), end="")
-    print(", b = " + str(b), end="")
-    print(", c = " + str(c), end="")
-    print(", d = " + str(d))
+    # #
+    # # print the results
+    # #
+    # print("a = " + str(a), end="")
+    # print(", b = " + str(b), end="")
+    # print(", c = " + str(c), end="")
+    # print(", d = " + str(d))

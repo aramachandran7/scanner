@@ -1,0 +1,7872 @@
+7, 
+
+emp_top:18.58, 
+
+temp_bottom:18.41, temp_top:18.67, 
+
+temp_bottom:18.41, temp_top:18.67, 
+
+temp_bottom:18.50, temp_top:18.67, 
+
+temp_bottom:18.50, temp_top:18.84, 
+
+temp_bottom:18.50, temp_top:18.84, 
+
+temp_bottom:18.50, temp_top:18.93, 
+
+temp_bottom:18.58, temp_top:18.93, 
+
+temp_bottom:18.58, temp_top:19.01, 
+
+temp_bottom:18.58, temp_top:19.10, 
+
+temp_bottom:18.58, temp_top:19.18, 
+
+temp_bottom:18.58, temp_top:19.18, 
+
+temp_bottom:18.67, temp_top:19.27, 
+
+temp_bottom:18.67, temp_top:19.35, 
+
+temp_bottom:18.75, temp_top:19.44, 
+
+temp_bottom:18.75, temp_top:19.44, 
+
+temp_bottom:18.75, temp_top:19.52, 
+
+temp_bottom:18.84, temp_top:19.61, 
+
+temp_bottom:18.84, temp_top:19.61, 
+
+temp_bottom:18.84, temp_top:19.70, 
+
+temp_bottom:18.93, temp_top:19.78, 
+
+temp_bottom:18.93, temp_top:19.87, 
+
+temp_bottom:18.93, temp_top:19.87, 
+
+temp_bottom:19.01, temp_top:19.95, 
+
+temp_bottom:19.01, temp_top:20.04, 
+
+temp_bottom:19.10, temp_top:20.12, 
+
+temp_bottom:19.10, temp_top:20.12, 
+
+temp_bottom:19.10, temp_top:20.21, 
+
+temp_bottom:19.18, temp_top:20.29, 
+
+temp_bottom:19.18, temp_top:20.38, 
+
+temp_bottom:19.27, temp_top:20.38, 
+
+temp_bottom:19.27, temp_top:20.47, 
+
+temp_bottom:19.27, temp_top:20.55, 
+
+temp_bottom:19.35, temp_top:20.64, 
+
+temp_bottom:19.35, temp_top:20.72, 
+
+temp_bottom:19.44, temp_top:20.72, 
+
+temp_bottom:19.44, temp_top:20.81, 
+
+temp_bottom:19.52, temp_top:20.89, 
+
+temp_bottom:19.52, temp_top:20.89, 
+
+temp_bottom:19.61, temp_top:20.98, 
+
+temp_bottom:19.61, temp_top:21.07, 
+
+temp_bottom:19.61, temp_top:21.15, 
+
+temp_bottom:19.70, temp_top:21.15, 
+
+temp_bottom:19.70, temp_top:21.24, 
+
+temp_bottom:19.78, temp_top:21.32, 
+
+temp_bottom:19.78, temp_top:21.32, 
+
+temp_bottom:19.87, temp_top:21.41, 
+
+temp_bottom:19.87, temp_top:21.49, 
+
+temp_bottom:19.95, temp_top:21.49, 
+
+temp_bottom:19.95, temp_top:21.58, 
+
+temp_bottom:20.04, temp_top:21.58, 
+
+temp_bottom:20.04, temp_top:21.67, 
+
+temp_bottom:20.12, temp_top:21.75, 
+
+temp_bottom:20.12, temp_top:21.75, 
+
+temp_bottom:20.21, temp_top:21.84, 
+
+temp_bottom:20.21, temp_top:21.92, 
+
+temp_bottom:20.29, temp_top:21.92, 
+
+temp_bottom:20.29, temp_top:22.01, 
+
+temp_bottom:20.38, temp_top:22.10, 
+
+temp_bottom:20.38, temp_top:22.10, 
+
+temp_bottom:20.47, temp_top:22.18, 
+
+temp_bottom:20.47, temp_top:22.18, 
+
+temp_bottom:20.55, temp_top:22.27, 
+
+temp_bottom:20.55, temp_top:22.27, 
+
+temp_bottom:20.64, temp_top:22.35, 
+
+temp_bottom:20.64, temp_top:22.44, 
+
+temp_bottom:20.72, temp_top:22.44, 
+
+temp_bottom:20.72, temp_top:22.53, 
+
+temp_bottom:20.81, temp_top:22.53, 
+
+temp_bottom:20.81, temp_top:22.61, 
+
+temp_bottom:20.89, temp_top:22.61, 
+
+temp_bottom:20.89, temp_top:22.70, 
+
+temp_bottom:20.98, temp_top:22.79, 
+
+temp_bottom:20.98, temp_top:22.79, 
+
+temp_bottom:21.07, temp_top:22.87, 
+
+temp_bottom:21.07, temp_top:22.87, 
+
+temp_bottom:21.15, temp_top:22.87, 
+
+temp_bottom:21.15, temp_top:22.96, 
+
+temp_bottom:21.24, temp_top:23.05, 
+
+temp_bottom:21.24, temp_top:23.05, 
+
+temp_bottom:21.32, temp_top:23.13, 
+
+temp_bottom:21.32, temp_top:23.13, 
+
+temp_bottom:21.32, temp_top:23.22, 
+
+temp_bottom:21.41, temp_top:23.30, 
+
+temp_bottom:21.49, temp_top:23.30, 
+
+temp_bottom:21.49, temp_top:23.39, 
+
+temp_bottom:21.58, temp_top:23.39, 
+
+temp_bottom:21.58, temp_top:23.48, 
+
+temp_bottom:21.67, temp_top:23.48, 
+
+temp_bottom:21.67, temp_top:23.56, 
+
+temp_bottom:21.75, temp_top:23.56, 
+
+temp_bottom:21.75, temp_top:23.65, 
+
+temp_bottom:21.84, temp_top:23.65, 
+
+temp_bottom:21.84, temp_top:23.74, 
+
+temp_bottom:21.84, temp_top:23.74, 
+
+temp_bottom:21.92, temp_top:23.82, 
+
+temp_bottom:22.01, temp_top:23.82, 
+
+temp_bottom:22.01, temp_top:23.82, 
+
+temp_bottom:22.10, temp_top:23.91, 
+
+temp_bottom:22.10, temp_top:24.00, 
+
+temp_bottom:22.10, temp_top:24.00, 
+
+temp_bottom:22.18, temp_top:24.09, 
+
+temp_bottom:22.18, temp_top:24.09, 
+
+temp_bottom:22.27, temp_top:24.17, 
+
+temp_bottom:22.27, temp_top:24.17, 
+
+temp_bottom:22.35, temp_top:24.26, 
+
+temp_bottom:22.35, temp_top:24.26, 
+
+temp_bottom:22.44, temp_top:24.35, 
+
+temp_bottom:22.44, temp_top:24.35, 
+
+temp_bottom:22.53, temp_top:24.43, 
+
+temp_bottom:22.53, temp_top:24.43, 
+
+temp_bottom:22.61, temp_top:24.52, 
+
+temp_bottom:22.61, temp_top:24.52, 
+
+temp_bottom:22.70, temp_top:24.61, 
+
+temp_bottom:22.70, temp_top:24.61, 
+
+temp_bottom:22.79, temp_top:24.69, 
+
+temp_bottom:22.79, temp_top:24.69, 
+
+temp_bottom:22.87, temp_top:24.78, 
+
+temp_bottom:22.96, temp_top:24.78, 
+
+temp_bottom:22.96, temp_top:24.78, 
+
+temp_bottom:22.96, temp_top:24.87, 
+
+temp_bottom:23.05, temp_top:24.87, 
+
+temp_bottom:23.05, temp_top:24.96, 
+
+temp_bottom:23.13, temp_top:24.96, 
+
+temp_bottom:23.13, temp_top:25.04, 
+
+temp_bottom:23.22, temp_top:25.04, 
+
+temp_bottom:23.22, temp_top:25.13, 
+
+temp_bottom:23.30, temp_top:25.13, 
+
+temp_bottom:23.30, temp_top:25.22, 
+
+temp_bottom:23.39, temp_top:25.22, 
+
+temp_bottom:23.39, temp_top:25.31, 
+
+temp_bottom:23.48, temp_top:25.31, 
+
+temp_bottom:23.48, temp_top:25.39, 
+
+temp_bottom:23.56, temp_top:25.39, 
+
+temp_bottom:23.56, temp_top:25.48, 
+
+temp_bottom:23.65, temp_top:25.48, 
+
+temp_bottom:23.65, temp_top:25.57, 
+
+temp_bottom:23.65, temp_top:25.57, 
+
+temp_bottom:23.74, temp_top:25.66, 
+
+temp_bottom:23.74, temp_top:25.66, 
+
+temp_bottom:23.82, temp_top:25.74, 
+
+temp_bottom:23.82, temp_top:25.74, 
+
+temp_bottom:23.91, temp_top:25.83, 
+
+temp_bottom:23.91, temp_top:25.83, 
+
+temp_bottom:24.00, temp_top:25.92, 
+
+temp_bottom:24.00, temp_top:25.92, 
+
+temp_bottom:24.09, temp_top:25.92, 
+
+temp_bottom:24.09, temp_top:26.01, 
+
+temp_bottom:24.17, temp_top:26.10, 
+
+temp_bottom:24.17, temp_top:26.10, 
+
+temp_bottom:24.26, temp_top:26.10, 
+
+temp_bottom:24.26, temp_top:26.18, 
+
+temp_bottom:24.35, temp_top:26.18, 
+
+temp_bottom:24.35, temp_top:26.27, 
+
+temp_bottom:24.43, temp_top:26.27, 
+
+temp_bottom:24.43, temp_top:26.36, 
+
+temp_bottom:24.52, temp_top:26.36, 
+
+temp_bottom:24.52, temp_top:26.36, 
+
+temp_bottom:24.52, temp_top:26.45, 
+
+temp_bottom:24.61, temp_top:26.45, 
+
+temp_bottom:24.61, temp_top:26.54, 
+
+temp_bottom:24.69, temp_top:26.54, 
+
+temp_bottom:24.69, temp_top:26.54, 
+
+temp_bottom:24.78, temp_top:26.63, 
+
+temp_bottom:24.78, temp_top:26.63, 
+
+temp_bottom:24.87, temp_top:26.71, 
+
+temp_bottom:24.87, temp_top:26.71, 
+
+temp_bottom:24.96, temp_top:26.71, 
+
+temp_bottom:24.96, temp_top:26.71, 
+
+temp_bottom:24.96, temp_top:26.71, 
+
+temp_bottom:25.04, temp_top:26.80, 
+
+temp_bottom:25.04, temp_top:26.80, 
+
+temp_bottom:25.13, temp_top:26.89, 
+
+temp_bottom:25.13, temp_top:26.89, 
+
+temp_bottom:25.22, temp_top:26.98, 
+
+temp_bottom:25.22, temp_top:26.98, 
+
+temp_bottom:25.31, temp_top:27.07, 
+
+temp_bottom:25.31, temp_top:27.07, 
+
+temp_bottom:25.39, temp_top:27.16, 
+
+temp_bottom:25.39, temp_top:27.16, 
+
+temp_bottom:25.39, temp_top:27.25, 
+
+temp_bottom:25.48, temp_top:27.25, 
+
+temp_bottom:25.48, temp_top:27.34, 
+
+temp_bottom:25.57, temp_top:27.34, 
+
+temp_bottom:25.57, temp_top:27.43, 
+
+temp_bottom:25.66, temp_top:27.43, 
+
+temp_bottom:25.66, temp_top:27.43, 
+
+temp_bottom:25.74, temp_top:27.51, 
+
+temp_bottom:25.74, temp_top:27.51, 
+
+temp_bottom:25.74, temp_top:27.60, 
+
+temp_bottom:25.83, temp_top:27.60, 
+
+temp_bottom:25.83, temp_top:27.60, 
+
+temp_bottom:25.92, temp_top:27.69, 
+
+temp_bottom:25.92, temp_top:27.69, 
+
+temp_bottom:26.01, temp_top:27.78, 
+
+temp_bottom:26.01, temp_top:27.78, 
+
+temp_bottom:26.01, temp_top:27.78, 
+
+temp_bottom:26.10, temp_top:27.87, 
+
+temp_bottom:26.18, temp_top:27.87, 
+
+temp_bottom:26.18, temp_top:27.96, 
+
+temp_bottom:26.27, temp_top:27.96, 
+
+temp_bottom:26.27, temp_top:28.05, 
+
+temp_bottom:26.27, temp_top:28.05, 
+
+temp_bottom:26.36, temp_top:28.14, 
+
+temp_bottom:26.36, temp_top:28.14, 
+
+temp_bottom:26.45, temp_top:28.23, 
+
+temp_bottom:26.45, temp_top:28.23, 
+
+temp_bottom:26.45, temp_top:28.23, 
+
+temp_bottom:26.54, temp_top:28.32, 
+
+temp_bottom:26.54, temp_top:28.32, 
+
+temp_bottom:26.63, temp_top:28.41, 
+
+temp_bottom:26.63, temp_top:28.41, 
+
+temp_bottom:26.71, temp_top:28.50, 
+
+temp_bottom:26.71, temp_top:28.50, 
+
+temp_bottom:26.71, temp_top:28.59, 
+
+temp_bottom:26.80, temp_top:28.59, 
+
+temp_bottom:26.80, temp_top:28.59, 
+
+temp_bottom:26.89, temp_top:28.68, 
+
+temp_bottom:26.89, temp_top:28.68, 
+
+temp_bottom:26.98, temp_top:28.68, 
+
+temp_bottom:26.98, temp_top:28.77, 
+
+temp_bottom:26.98, temp_top:28.77, 
+
+temp_bottom:27.07, temp_top:28.86, 
+
+temp_bottom:27.07, temp_top:28.86, 
+
+temp_bottom:27.16, temp_top:28.86, 
+
+temp_bottom:27.16, temp_top:28.95, 
+
+temp_bottom:27.25, temp_top:28.95, 
+
+temp_bottom:27.25, temp_top:29.04, 
+
+temp_bottom:27.25, temp_top:29.04, 
+
+temp_bottom:27.34, temp_top:29.04, 
+
+temp_bottom:27.34, temp_top:29.13, 
+
+temp_bottom:27.43, temp_top:29.13, 
+
+temp_bottom:27.43, temp_top:29.22, 
+
+temp_bottom:27.51, temp_top:29.22, 
+
+temp_bottom:27.51, temp_top:29.22, 
+
+temp_bottom:27.51, temp_top:29.31, 
+
+temp_bottom:27.60, temp_top:29.31, 
+
+temp_bottom:27.60, temp_top:29.40, 
+
+temp_bottom:27.69, temp_top:29.40, 
+
+temp_bottom:27.69, temp_top:29.40, 
+
+temp_bottom:27.78, temp_top:29.49, 
+
+temp_bottom:27.78, temp_top:29.49, 
+
+temp_bottom:27.78, temp_top:29.59, 
+
+temp_bottom:27.87, temp_top:29.59, 
+
+temp_bottom:27.87, temp_top:29.68, 
+
+temp_bottom:27.96, temp_top:29.68, 
+
+temp_bottom:27.96, temp_top:29.68, 
+
+temp_bottom:27.96, temp_top:29.77, 
+
+temp_bottom:28.05, temp_top:29.77, 
+
+temp_bottom:28.05, temp_top:29.86, 
+
+temp_bottom:28.14, temp_top:29.86, 
+
+temp_bottom:28.14, temp_top:29.86, 
+
+temp_bottom:28.14, temp_top:29.95, 
+
+temp_bottom:28.23, temp_top:29.95, 
+
+temp_bottom:28.23, temp_top:29.95, 
+
+temp_bottom:28.32, temp_top:30.04, 
+
+temp_bottom:28.32, temp_top:30.04, 
+
+temp_bottom:28.41, temp_top:30.04, 
+
+temp_bottom:28.41, temp_top:30.13, 
+
+temp_bottom:28.41, temp_top:30.13, 
+
+temp_bottom:28.50, temp_top:30.23, 
+
+temp_bottom:28.50, temp_top:30.23, 
+
+temp_bottom:28.50, temp_top:30.23, 
+
+temp_bottom:28.59, temp_top:30.32, 
+
+temp_bottom:28.59, temp_top:30.32, 
+
+temp_bottom:28.68, temp_top:30.32, 
+
+temp_bottom:28.68, temp_top:30.41, 
+
+temp_bottom:28.77, temp_top:30.41, 
+
+temp_bottom:28.77, temp_top:30.50, 
+
+temp_bottom:28.86, temp_top:30.50, 
+
+temp_bottom:28.86, temp_top:30.50, 
+
+temp_bottom:28.86, temp_top:30.59, 
+
+temp_bottom:28.95, temp_top:30.59, 
+
+temp_bottom:28.95, temp_top:30.59, 
+
+temp_bottom:29.04, temp_top:30.68, 
+
+temp_bottom:29.04, temp_top:30.68, 
+
+temp_bottom:29.04, temp_top:30.78, 
+
+temp_bottom:29.13, temp_top:30.78, 
+
+temp_bottom:29.13, temp_top:30.87, 
+
+temp_bottom:29.22, temp_top:30.87, 
+
+temp_bottom:29.22, temp_top:30.87, 
+
+temp_bottom:29.22, temp_top:30.96, 
+
+temp_bottom:29.31, temp_top:30.96, 
+
+temp_bottom:29.31, temp_top:30.96, 
+
+temp_bottom:29.31, temp_top:31.05, 
+
+temp_bottom:29.40, temp_top:31.05, 
+
+temp_bottom:29.40, temp_top:31.05, 
+
+temp_bottom:29.49, temp_top:31.05, 
+
+temp_bottom:29.49, temp_top:31.15, 
+
+temp_bottom:29.59, temp_top:31.15, 
+
+temp_bottom:29.59, temp_top:31.24, 
+
+temp_bottom:29.59, temp_top:31.24, 
+
+temp_bottom:29.68, temp_top:31.24, 
+
+temp_bottom:29.68, temp_top:31.33, 
+
+temp_bottom:29.68, temp_top:31.33, 
+
+temp_bottom:29.77, temp_top:31.33, 
+
+temp_bottom:29.77, temp_top:31.43, 
+
+temp_bottom:29.86, temp_top:31.43, 
+
+temp_bottom:29.86, temp_top:31.43, 
+
+temp_bottom:29.86, temp_top:31.43, 
+
+temp_bottom:29.86, temp_top:31.52, 
+
+temp_bottom:29.95, temp_top:31.52, 
+
+temp_bottom:29.95, temp_top:31.52, 
+
+temp_bottom:30.04, temp_top:31.61, 
+
+temp_bottom:30.04, temp_top:31.61, 
+
+temp_bottom:30.13, temp_top:31.71, 
+
+temp_bottom:30.13, temp_top:31.71, 
+
+temp_bottom:30.13, temp_top:31.71, 
+
+temp_bottom:30.23, temp_top:31.71, 
+
+temp_bottom:30.23, temp_top:31.80, 
+
+temp_bottom:30.23, temp_top:31.80, 
+
+temp_bottom:30.32, temp_top:31.80, 
+
+temp_bottom:30.32, temp_top:31.89, 
+
+temp_bottom:30.32, temp_top:31.89, 
+
+temp_bottom:30.41, temp_top:31.99, 
+
+temp_bottom:30.41, temp_top:31.99, 
+
+temp_bottom:30.50, temp_top:32.08, 
+
+temp_bottom:30.50, temp_top:32.08, 
+
+temp_bottom:30.50, temp_top:32.08, 
+
+temp_bottom:30.59, temp_top:32.08, 
+
+temp_bottom:30.59, temp_top:32.17, 
+
+temp_bottom:30.59, temp_top:32.17, 
+
+temp_bottom:30.68, temp_top:32.27, 
+
+temp_bottom:30.68, temp_top:32.27, 
+
+temp_bottom:30.78, temp_top:32.27, 
+
+temp_bottom:30.78, temp_top:32.36, 
+
+temp_bottom:30.78, temp_top:32.36, 
+
+temp_bottom:30.87, temp_top:32.46, 
+
+temp_bottom:30.87, temp_top:32.46, 
+
+temp_bottom:30.96, temp_top:32.46, 
+
+temp_bottom:30.96, temp_top:32.46, 
+
+temp_bottom:30.96, temp_top:32.55, 
+
+temp_bottom:30.96, temp_top:32.55, 
+
+temp_bottom:31.05, temp_top:32.55, 
+
+temp_bottom:31.05, temp_top:32.55, 
+
+temp_bottom:31.15, temp_top:32.55, 
+
+temp_bottom:31.15, temp_top:32.55, 
+
+temp_bottom:31.15, temp_top:32.55, 
+
+temp_bottom:31.24, temp_top:32.55, 
+
+temp_bottom:31.24, temp_top:32.55, 
+
+temp_bottom:31.24, temp_top:32.55, 
+
+temp_bottom:31.33, temp_top:32.64, 
+
+temp_bottom:31.33, temp_top:32.64, 
+
+temp_bottom:31.33, temp_top:32.64, 
+
+temp_bottom:31.43, temp_top:32.64, 
+
+temp_bottom:31.43, temp_top:32.74, 
+
+temp_bottom:31.43, temp_top:32.74, 
+
+temp_bottom:31.52, temp_top:32.74, 
+
+temp_bottom:31.52, temp_top:32.83, 
+
+temp_bottom:31.52, temp_top:32.83, 
+
+temp_bottom:31.61, temp_top:32.83, 
+
+temp_bottom:31.61, temp_top:32.83, 
+
+temp_bottom:31.71, temp_top:32.93, 
+
+temp_bottom:31.71, temp_top:32.93, 
+
+temp_bottom:31.71, temp_top:33.02, 
+
+temp_bottom:31.80, temp_top:33.02, 
+
+temp_bottom:31.80, temp_top:33.12, 
+
+temp_bottom:31.80, temp_top:33.12, 
+
+temp_bottom:31.89, temp_top:33.12, 
+
+temp_bottom:31.89, temp_top:33.21, 
+
+temp_bottom:31.89, temp_top:33.21, 
+
+temp_bottom:31.99, temp_top:33.21, 
+
+temp_bottom:31.99, temp_top:33.31, 
+
+temp_bottom:32.08, temp_top:33.31, 
+
+temp_bottom:32.08, temp_top:33.40, 
+
+temp_bottom:32.08, temp_top:33.40, 
+
+temp_bottom:32.08, temp_top:33.40, 
+
+temp_bottom:32.17, temp_top:33.50, 
+
+temp_bottom:32.17, temp_top:33.50, 
+
+temp_bottom:32.27, temp_top:33.60, 
+
+temp_bottom:32.27, temp_top:33.60, 
+
+temp_bottom:32.27, temp_top:33.60, 
+
+temp_bottom:32.36, temp_top:33.60, 
+
+temp_bottom:32.36, temp_top:33.60, 
+
+temp_bottom:32.36, temp_top:33.69, 
+
+temp_bottom:32.46, temp_top:33.69, 
+
+temp_bottom:32.46, temp_top:33.79, 
+
+temp_bottom:32.46, temp_top:33.79, 
+
+temp_bottom:32.55, temp_top:33.79, 
+
+temp_bottom:32.55, temp_top:33.88, 
+
+temp_bottom:32.55, temp_top:33.88, 
+
+temp_bottom:32.64, temp_top:33.88, 
+
+temp_bottom:32.64, temp_top:33.98, 
+
+temp_bottom:32.64, temp_top:33.98, 
+
+temp_bottom:32.74, temp_top:33.98, 
+
+temp_bottom:32.74, temp_top:34.08, 
+
+temp_bottom:32.74, temp_top:34.08, 
+
+temp_bottom:32.83, temp_top:34.08, 
+
+temp_bottom:32.83, temp_top:34.17, 
+
+temp_bottom:32.83, temp_top:34.17, 
+
+temp_bottom:32.93, temp_top:34.17, 
+
+temp_bottom:32.93, temp_top:34.17, 
+
+temp_bottom:32.93, temp_top:34.17, 
+
+temp_bottom:33.02, temp_top:34.27, 
+
+temp_bottom:33.02, temp_top:34.27, 
+
+temp_bottom:33.02, temp_top:34.37, 
+
+temp_bottom:33.12, temp_top:34.37, 
+
+temp_bottom:33.12, temp_top:34.37, 
+
+temp_bottom:33.21, temp_top:34.46, 
+
+temp_bottom:33.21, temp_top:34.46, 
+
+temp_bottom:33.21, temp_top:34.56, 
+
+temp_bottom:33.21, temp_top:34.56, 
+
+temp_bottom:33.31, temp_top:34.56, 
+
+temp_bottom:33.31, temp_top:34.66, 
+
+temp_bottom:33.31, temp_top:34.66, 
+
+temp_bottom:33.40, temp_top:34.75, 
+
+temp_bottom:33.40, temp_top:34.75, 
+
+temp_bottom:33.40, temp_top:34.75, 
+
+temp_bottom:33.50, temp_top:34.85, 
+
+temp_bottom:33.50, temp_top:34.85, 
+
+temp_bottom:33.60, temp_top:34.95, 
+
+temp_bottom:33.60, temp_top:34.95, 
+
+temp_bottom:33.60, temp_top:34.95, 
+
+temp_bottom:33.60, temp_top:35.05, 
+
+temp_bottom:33.69, temp_top:35.05, 
+
+temp_bottom:33.69, temp_top:35.15, 
+
+temp_bottom:33.69, temp_top:35.15, 
+
+temp_bottom:33.69, temp_top:35.15, 
+
+temp_bottom:33.79, temp_top:35.15, 
+
+temp_bottom:33.79, temp_top:35.24, 
+
+temp_bottom:33.88, temp_top:35.15, 
+
+temp_bottom:33.88, temp_top:35.24, 
+
+temp_bottom:33.88, temp_top:35.24, 
+
+temp_bottom:33.98, temp_top:35.24, 
+
+temp_bottom:33.98, temp_top:35.34, 
+
+temp_bottom:33.98, temp_top:35.34, 
+
+temp_bottom:34.08, temp_top:35.34, 
+
+temp_bottom:34.08, temp_top:35.44, 
+
+temp_bottom:34.08, temp_top:35.44, 
+
+temp_bottom:34.17, temp_top:35.54, 
+
+temp_bottom:34.17, temp_top:35.54, 
+
+temp_bottom:34.17, temp_top:35.54, 
+
+temp_bottom:34.27, temp_top:35.64, 
+
+temp_bottom:34.27, temp_top:35.64, 
+
+temp_bottom:34.27, temp_top:35.64, 
+
+temp_bottom:34.27, temp_top:35.74, 
+
+temp_bottom:34.37, temp_top:35.74, 
+
+temp_bottom:34.37, temp_top:35.84, 
+
+temp_bottom:34.46, temp_top:35.84, 
+
+temp_bottom:34.46, temp_top:35.84, 
+
+temp_bottom:34.46, temp_top:35.93, 
+
+temp_bottom:34.46, temp_top:35.93, 
+
+temp_bottom:34.56, temp_top:35.93, 
+
+temp_bottom:34.56, temp_top:36.03, 
+
+temp_bottom:34.56, temp_top:36.03, 
+
+temp_bottom:34.66, temp_top:36.03, 
+
+temp_bottom:34.66, temp_top:36.13, 
+
+temp_bottom:34.66, temp_top:36.13, 
+
+temp_bottom:34.75, temp_top:36.13, 
+
+temp_bottom:34.75, temp_top:36.13, 
+
+temp_bottom:34.75, temp_top:36.23, 
+
+temp_bottom:34.85, temp_top:36.23, 
+
+temp_bottom:34.85, temp_top:36.23, 
+
+temp_bottom:34.85, temp_top:36.23, 
+
+temp_bottom:34.85, temp_top:36.23, 
+
+temp_bottom:34.95, temp_top:36.33, 
+
+temp_bottom:34.95, temp_top:36.33, 
+
+temp_bottom:35.05, temp_top:36.33, 
+
+temp_bottom:35.05, temp_top:36.43, 
+
+temp_bottom:35.05, temp_top:36.43, 
+
+temp_bottom:35.15, temp_top:36.43, 
+
+temp_bottom:35.15, temp_top:36.53, 
+
+temp_bottom:35.15, temp_top:36.53, 
+
+temp_bottom:35.15, temp_top:36.53, 
+
+temp_bottom:35.24, temp_top:36.63, 
+
+temp_bottom:35.24, temp_top:36.63, 
+
+temp_bottom:35.24, temp_top:36.63, 
+
+temp_bottom:35.34, temp_top:36.73, 
+
+temp_bottom:35.34, temp_top:36.73, 
+
+temp_bottom:35.34, temp_top:36.73, 
+
+temp_bottom:35.44, temp_top:36.83, 
+
+temp_bottom:35.44, temp_top:36.83, 
+
+temp_bottom:35.44, temp_top:36.83, 
+
+temp_bottom:35.54, temp_top:36.94, 
+
+temp_bottom:35.54, temp_top:36.94, 
+
+temp_bottom:35.54, temp_top:36.94, 
+
+temp_bottom:35.54, temp_top:37.04, 
+
+temp_bottom:35.64, temp_top:37.04, 
+
+temp_bottom:35.64, temp_top:37.04, 
+
+temp_bottom:35.64, temp_top:37.04, 
+
+temp_bottom:35.74, temp_top:37.14, 
+
+temp_bottom:35.74, temp_top:37.14, 
+
+temp_bottom:35.74, temp_top:37.14, 
+
+temp_bottom:35.84, temp_top:37.24, 
+
+temp_bottom:35.84, temp_top:37.24, 
+
+temp_bottom:35.84, temp_top:37.24, 
+
+temp_bottom:35.84, temp_top:37.34, 
+
+temp_bottom:35.93, temp_top:37.34, 
+
+temp_bottom:35.93, temp_top:37.34, 
+
+temp_bottom:35.93, temp_top:37.44, 
+
+temp_bottom:36.03, temp_top:37.44, 
+
+temp_bottom:36.03, temp_top:37.44, 
+
+temp_bottom:36.03, temp_top:37.44, 
+
+temp_bottom:36.13, temp_top:37.54, 
+
+temp_bottom:36.13, temp_top:37.54, 
+
+temp_bottom:36.13, temp_top:37.54, 
+
+temp_bottom:36.23, temp_top:37.54, 
+
+temp_bottom:36.23, temp_top:37.65, 
+
+temp_bottom:36.23, temp_top:37.65, 
+
+temp_bottom:36.23, temp_top:37.65, 
+
+temp_bottom:36.33, temp_top:37.75, 
+
+temp_bottom:36.33, temp_top:37.75, 
+
+temp_bottom:36.33, temp_top:37.75, 
+
+temp_bottom:36.43, temp_top:37.75, 
+
+temp_bottom:36.43, temp_top:37.75, 
+
+temp_bottom:36.43, temp_top:37.85, 
+
+temp_bottom:36.53, temp_top:37.85, 
+
+temp_bottom:36.53, temp_top:37.85, 
+
+temp_bottom:36.53, temp_top:37.95, 
+
+temp_bottom:36.53, temp_top:37.95, 
+
+temp_bottom:36.63, temp_top:37.95, 
+
+temp_bottom:36.63, temp_top:37.95, 
+
+temp_bottom:36.63, temp_top:37.95, 
+
+temp_bottom:36.63, temp_top:38.06, 
+
+temp_bottom:36.73, temp_top:38.06, 
+
+temp_bottom:36.73, temp_top:38.06, 
+
+temp_bottom:36.73, temp_top:38.16, 
+
+temp_bottom:36.83, temp_top:38.16, 
+
+temp_bottom:36.83, temp_top:38.16, 
+
+temp_bottom:36.83, temp_top:38.16, 
+
+temp_bottom:36.94, temp_top:38.26, 
+
+temp_bottom:36.94, temp_top:38.26, 
+
+temp_bottom:36.94, temp_top:38.26, 
+
+temp_bottom:37.04, temp_top:38.26, 
+
+temp_bottom:36.94, temp_top:38.37, 
+
+temp_bottom:37.04, temp_top:38.37, 
+
+temp_bottom:37.04, temp_top:38.37, 
+
+temp_bottom:37.14, temp_top:38.37, 
+
+temp_bottom:37.14, temp_top:38.37, 
+
+temp_bottom:37.14, temp_top:38.47, 
+
+temp_bottom:37.14, temp_top:38.47, 
+
+temp_bottom:37.24, temp_top:38.47, 
+
+temp_bottom:37.24, temp_top:38.57, 
+
+temp_bottom:37.24, temp_top:38.57, 
+
+temp_bottom:37.24, temp_top:38.57, 
+
+temp_bottom:37.34, temp_top:38.68, 
+
+temp_bottom:37.34, temp_top:38.68, 
+
+temp_bottom:37.34, temp_top:38.68, 
+
+temp_bottom:37.44, temp_top:38.78, 
+
+temp_bottom:37.44, temp_top:38.78, 
+
+temp_bottom:37.44, temp_top:38.78, 
+
+temp_bottom:37.44, temp_top:38.78, 
+
+temp_bottom:37.54, temp_top:38.89, 
+
+temp_bottom:37.54, temp_top:38.89, 
+
+temp_bottom:37.54, temp_top:38.89, 
+
+temp_bottom:37.65, temp_top:38.89, 
+
+temp_bottom:37.65, temp_top:38.89, 
+
+temp_bottom:37.65, temp_top:38.89, 
+
+temp_bottom:37.65, temp_top:38.99, 
+
+temp_bottom:37.75, temp_top:38.99, 
+
+temp_bottom:37.75, temp_top:38.99, 
+
+temp_bottom:37.75, temp_top:38.99, 
+
+temp_bottom:37.75, temp_top:39.09, 
+
+temp_bottom:37.85, temp_top:39.09, 
+
+temp_bottom:37.85, temp_top:39.09, 
+
+temp_bottom:37.85, temp_top:39.20, 
+
+temp_bottom:37.85, temp_top:39.09, 
+
+temp_bottom:37.95, temp_top:39.20, 
+
+temp_bottom:37.95, temp_top:39.20, 
+
+temp_bottom:37.95, temp_top:39.20, 
+
+temp_bottom:37.95, temp_top:39.20, 
+
+temp_bottom:38.06, temp_top:39.30, 
+
+temp_bottom:38.06, temp_top:39.30, 
+
+temp_bottom:38.06, temp_top:39.30, 
+
+temp_bottom:38.06, temp_top:39.41, 
+
+temp_bottom:38.16, temp_top:39.41, 
+
+temp_bottom:38.16, temp_top:39.41, 
+
+temp_bottom:38.16, temp_top:39.52, 
+
+temp_bottom:38.26, temp_top:39.52, 
+
+temp_bottom:38.26, temp_top:39.62, 
+
+temp_bottom:38.26, temp_top:39.62, 
+
+temp_bottom:38.26, temp_top:39.62, 
+
+temp_bottom:38.37, temp_top:39.73, 
+
+temp_bottom:38.37, temp_top:39.73, 
+
+temp_bottom:38.37, temp_top:39.73, 
+
+temp_bottom:38.37, temp_top:39.73, 
+
+temp_bottom:38.47, temp_top:39.73, 
+
+temp_bottom:38.47, temp_top:39.83, 
+
+temp_bottom:38.47, temp_top:39.83, 
+
+temp_bottom:38.47, temp_top:39.83, 
+
+temp_bottom:38.57, temp_top:39.83, 
+
+temp_bottom:38.57, temp_top:39.83, 
+
+temp_bottom:38.57, temp_top:39.94, 
+
+temp_bottom:38.57, temp_top:39.94, 
+
+temp_bottom:38.68, temp_top:39.94, 
+
+temp_bottom:38.68, temp_top:39.94, 
+
+temp_bottom:38.68, temp_top:40.05, 
+
+temp_bottom:38.78, temp_top:40.05, 
+
+temp_bottom:38.78, temp_top:40.05, 
+
+temp_bottom:38.78, temp_top:40.05, 
+
+temp_bottom:38.78, temp_top:40.15, 
+
+temp_bottom:38.89, temp_top:40.15, 
+
+temp_bottom:38.89, temp_top:40.15, 
+
+temp_bottom:38.89, temp_top:40.15, 
+
+temp_bottom:38.89, temp_top:40.26, 
+
+temp_bottom:38.99, temp_top:40.26, 
+
+temp_bottom:38.99, temp_top:40.26, 
+
+temp_bottom:38.99, temp_top:40.26, 
+
+temp_bottom:38.99, temp_top:40.26, 
+
+temp_bottom:38.99, temp_top:40.37, 
+
+temp_bottom:39.09, temp_top:40.37, 
+
+temp_bottom:39.09, temp_top:40.47, 
+
+temp_bottom:39.09, temp_top:40.47, 
+
+temp_bottom:39.20, temp_top:40.47, 
+
+temp_bottom:39.20, temp_top:40.47, 
+
+temp_bottom:39.20, temp_top:40.58, 
+
+temp_bottom:39.30, temp_top:40.47, 
+
+temp_bottom:39.30, temp_top:40.58, 
+
+temp_bottom:39.30, temp_top:40.58, 
+
+temp_bottom:39.30, temp_top:40.58, 
+
+temp_bottom:39.30, temp_top:40.69, 
+
+temp_bottom:39.41, temp_top:40.69, 
+
+temp_bottom:39.41, temp_top:40.69, 
+
+temp_bottom:39.41, temp_top:40.80, 
+
+temp_bottom:39.41, temp_top:40.80, 
+
+temp_bottom:39.52, temp_top:40.80, 
+
+temp_bottom:39.52, temp_top:40.80, 
+
+temp_bottom:39.52, temp_top:40.80, 
+
+temp_bottom:39.52, temp_top:40.91, 
+
+temp_bottom:39.52, temp_top:40.91, 
+
+temp_bottom:39.62, temp_top:40.91, 
+
+temp_bottom:39.62, temp_top:41.02, 
+
+temp_bottom:39.62, temp_top:41.02, 
+
+temp_bottom:39.62, temp_top:41.02, 
+
+temp_bottom:39.73, temp_top:41.02, 
+
+temp_bottom:39.73, temp_top:41.12, 
+
+temp_bottom:39.73, temp_top:41.02, 
+
+temp_bottom:39.83, temp_top:41.12, 
+
+temp_bottom:39.83, temp_top:41.12, 
+
+temp_bottom:39.83, temp_top:41.02, 
+
+temp_bottom:39.83, temp_top:41.12, 
+
+temp_bottom:39.94, temp_top:41.12, 
+
+temp_bottom:39.94, temp_top:41.12, 
+
+temp_bottom:39.94, temp_top:41.12, 
+
+temp_bottom:39.94, temp_top:41.12, 
+
+temp_bottom:40.05, temp_top:41.12, 
+
+temp_bottom:40.05, temp_top:41.23, 
+
+temp_bottom:40.05, temp_top:41.23, 
+
+temp_bottom:40.05, temp_top:41.23, 
+
+temp_bottom:40.15, temp_top:41.34, 
+
+temp_bottom:40.15, temp_top:41.34, 
+
+temp_bottom:40.15, temp_top:41.34, 
+
+temp_bottom:40.15, temp_top:41.34, 
+
+temp_bottom:40.26, temp_top:41.34, 
+
+temp_bottom:40.15, temp_top:41.45, 
+
+temp_bottom:40.26, temp_top:41.45, 
+
+temp_bottom:40.26, temp_top:41.45, 
+
+temp_bottom:40.26, temp_top:41.45, 
+
+temp_bottom:40.37, temp_top:41.45, 
+
+temp_bottom:40.37, temp_top:41.56, 
+
+temp_bottom:40.37, temp_top:41.56, 
+
+temp_bottom:40.37, temp_top:41.67, 
+
+temp_bottom:40.47, temp_top:41.67, 
+
+temp_bottom:40.47, temp_top:41.67, 
+
+temp_bottom:40.47, temp_top:41.67, 
+
+temp_bottom:40.47, temp_top:41.67, 
+
+temp_bottom:40.47, temp_top:41.78, 
+
+temp_bottom:40.58, temp_top:41.78, 
+
+temp_bottom:40.58, temp_top:41.78, 
+
+temp_bottom:40.58, temp_top:41.89, 
+
+temp_bottom:40.58, temp_top:41.89, 
+
+temp_bottom:40.69, temp_top:41.89, 
+
+temp_bottom:40.69, temp_top:42.00, 
+
+temp_bottom:40.69, temp_top:42.00, 
+
+temp_bottom:40.69, temp_top:42.00, 
+
+temp_bottom:40.80, temp_top:42.00, 
+
+temp_bottom:40.80, temp_top:42.00, 
+
+temp_bottom:40.80, temp_top:42.11, 
+
+temp_bottom:40.80, temp_top:42.11, 
+
+temp_bottom:40.80, temp_top:42.11, 
+
+temp_bottom:40.91, temp_top:42.11, 
+
+temp_bottom:40.91, temp_top:42.23, 
+
+temp_bottom:40.91, temp_top:42.11, 
+
+temp_bottom:40.91, temp_top:42.23, 
+
+temp_bottom:41.02, temp_top:42.23, 
+
+temp_bottom:41.02, temp_top:42.23, 
+
+temp_bottom:41.02, temp_top:42.34, 
+
+temp_bottom:41.02, temp_top:42.34, 
+
+temp_bottom:41.02, temp_top:42.34, 
+
+temp_bottom:41.12, temp_top:42.34, 
+
+temp_bottom:41.02, temp_top:42.34, 
+
+temp_bottom:41.12, temp_top:42.45, 
+
+temp_bottom:41.12, temp_top:42.45, 
+
+temp_bottom:41.23, temp_top:42.45, 
+
+temp_bottom:41.23, temp_top:42.45, 
+
+temp_bottom:41.23, temp_top:42.45, 
+
+temp_bottom:41.23, temp_top:42.56, 
+
+temp_bottom:41.34, temp_top:42.56, 
+
+temp_bottom:41.34, temp_top:42.56, 
+
+temp_bottom:41.34, temp_top:42.56, 
+
+temp_bottom:41.34, temp_top:42.56, 
+
+temp_bottom:41.34, temp_top:42.56, 
+
+temp_bottom:41.45, temp_top:42.67, 
+
+temp_bottom:41.45, temp_top:42.56, 
+
+temp_bottom:41.45, temp_top:42.67, 
+
+temp_bottom:41.45, temp_top:42.67, 
+
+temp_bottom:41.56, temp_top:42.67, 
+
+temp_bottom:41.56, temp_top:42.67, 
+
+temp_bottom:41.56, temp_top:42.67, 
+
+temp_bottom:41.56, temp_top:42.67, 
+
+temp_bottom:41.67, temp_top:42.79, 
+
+temp_bottom:41.67, temp_top:42.67, 
+
+temp_bottom:41.67, temp_top:42.79, 
+
+temp_bottom:41.67, temp_top:42.79, 
+
+temp_bottom:41.67, temp_top:42.79, 
+
+temp_bottom:41.67, temp_top:42.79, 
+
+temp_bottom:41.78, temp_top:42.90, 
+
+temp_bottom:41.78, temp_top:42.90, 
+
+temp_bottom:41.78, temp_top:42.90, 
+
+temp_bottom:41.78, temp_top:42.90, 
+
+temp_bottom:41.89, temp_top:42.90, 
+
+temp_bottom:41.89, temp_top:42.90, 
+
+temp_bottom:41.89, temp_top:42.90, 
+
+temp_bottom:41.89, temp_top:43.01, 
+
+temp_bottom:41.89, temp_top:43.01, 
+
+temp_bottom:42.00, temp_top:43.01, 
+
+temp_bottom:42.00, temp_top:43.01, 
+
+temp_bottom:42.00, temp_top:43.01, 
+
+temp_bottom:42.00, temp_top:43.12, 
+
+temp_bottom:42.00, temp_top:43.12, 
+
+temp_bottom:42.11, temp_top:43.12, 
+
+temp_bottom:42.11, temp_top:43.12, 
+
+temp_bottom:42.11, temp_top:43.12, 
+
+temp_bottom:42.11, temp_top:43.12, 
+
+temp_bottom:42.23, temp_top:43.12, 
+
+temp_bottom:42.23, temp_top:43.24, 
+
+temp_bottom:42.23, temp_top:43.24, 
+
+temp_bottom:42.23, temp_top:43.24, 
+
+temp_bottom:42.23, temp_top:43.24, 
+
+temp_bottom:42.34, temp_top:43.24, 
+
+temp_bottom:42.34, temp_top:43.24, 
+
+temp_bottom:42.34, temp_top:43.24, 
+
+temp_bottom:42.34, temp_top:43.35, 
+
+temp_bottom:42.45, temp_top:43.35, 
+
+temp_bottom:42.45, temp_top:43.35, 
+
+temp_bottom:42.45, temp_top:43.35, 
+
+temp_bottom:42.45, temp_top:43.47, 
+
+temp_bottom:42.45, temp_top:43.47, 
+
+temp_bottom:42.56, temp_top:43.47, 
+
+temp_bottom:42.56, temp_top:43.47, 
+
+temp_bottom:42.56, temp_top:43.47, 
+
+temp_bottom:42.56, temp_top:43.58, 
+
+temp_bottom:42.56, temp_top:43.58, 
+
+temp_bottom:42.56, temp_top:43.58, 
+
+temp_bottom:42.67, temp_top:43.69, 
+
+temp_bottom:42.67, temp_top:43.69, 
+
+temp_bottom:42.67, temp_top:43.69, 
+
+temp_bottom:42.67, temp_top:43.69, 
+
+temp_bottom:42.79, temp_top:43.69, 
+
+temp_bottom:42.79, temp_top:43.81, 
+
+temp_bottom:42.79, temp_top:43.81, 
+
+temp_bottom:42.79, temp_top:43.81, 
+
+temp_bottom:42.79, temp_top:43.81, 
+
+temp_bottom:42.90, temp_top:43.92, 
+
+temp_bottom:42.90, temp_top:43.92, 
+
+temp_bottom:42.90, temp_top:43.92, 
+
+temp_bottom:42.90, temp_top:43.92, 
+
+temp_bottom:43.01, temp_top:44.04, 
+
+temp_bottom:42.90, temp_top:44.04, 
+
+temp_bottom:43.01, temp_top:44.04, 
+
+temp_bottom:43.01, temp_top:44.04, 
+
+temp_bottom:43.01, temp_top:44.16, 
+
+temp_bottom:43.01, temp_top:44.16, 
+
+temp_bottom:43.12, temp_top:44.16, 
+
+temp_bottom:43.12, temp_top:44.16, 
+
+temp_bottom:43.12, temp_top:44.16, 
+
+temp_bottom:43.12, temp_top:44.27, 
+
+temp_bottom:43.12, temp_top:44.27, 
+
+temp_bottom:43.24, temp_top:44.27, 
+
+temp_bottom:43.12, temp_top:44.27, 
+
+temp_bottom:43.24, temp_top:44.39, 
+
+temp_bottom:43.24, temp_top:44.39, 
+
+temp_bottom:43.35, temp_top:44.39, 
+
+temp_bottom:43.35, temp_top:44.39, 
+
+temp_bottom:43.35, temp_top:44.39, 
+
+temp_bottom:43.35, temp_top:44.39, 
+
+temp_bottom:43.35, temp_top:44.51, 
+
+temp_bottom:43.35, temp_top:44.39, 
+
+temp_bottom:43.47, temp_top:44.51, 
+
+temp_bottom:43.47, temp_top:44.51, 
+
+temp_bottom:43.47, temp_top:44.51, 
+
+temp_bottom:43.47, temp_top:44.51, 
+
+temp_bottom:43.47, temp_top:44.51, 
+
+temp_bottom:43.58, temp_top:44.51, 
+
+temp_bottom:43.58, temp_top:44.51, 
+
+temp_bottom:43.58, temp_top:44.62, 
+
+temp_bottom:43.58, temp_top:44.62, 
+
+temp_bottom:43.69, temp_top:44.62, 
+
+temp_bottom:43.69, temp_top:44.62, 
+
+temp_bottom:43.69, temp_top:44.62, 
+
+temp_bottom:43.69, temp_top:44.62, 
+
+temp_bottom:43.69, temp_top:44.74, 
+
+temp_bottom:43.69, temp_top:44.74, 
+
+temp_bottom:43.81, temp_top:44.86, 
+
+temp_bottom:43.81, temp_top:44.86, 
+
+temp_bottom:43.81, temp_top:44.86, 
+
+temp_bottom:43.81, temp_top:44.86, 
+
+temp_bottom:43.81, temp_top:44.86, 
+
+temp_bottom:43.81, temp_top:44.86, 
+
+temp_bottom:43.92, temp_top:44.97, 
+
+temp_bottom:43.92, temp_top:44.97, 
+
+temp_bottom:43.92, temp_top:44.97, 
+
+temp_bottom:43.92, temp_top:44.97, 
+
+temp_bottom:43.92, temp_top:44.97, 
+
+temp_bottom:44.04, temp_top:44.97, 
+
+temp_bottom:44.04, temp_top:44.97, 
+
+temp_bottom:44.04, temp_top:45.09, 
+
+temp_bottom:44.04, temp_top:45.09, 
+
+temp_bottom:44.04, temp_top:45.09, 
+
+temp_bottom:44.16, temp_top:45.09, 
+
+temp_bottom:44.16, temp_top:45.09, 
+
+temp_bottom:44.16, temp_top:45.09, 
+
+temp_bottom:44.16, temp_top:45.21, 
+
+temp_bottom:44.16, temp_top:45.21, 
+
+temp_bottom:44.16, temp_top:45.21, 
+
+temp_bottom:44.27, temp_top:45.21, 
+
+temp_bottom:44.27, temp_top:45.21, 
+
+temp_bottom:44.27, temp_top:45.21, 
+
+temp_bottom:44.27, temp_top:45.21, 
+
+temp_bottom:44.27, temp_top:45.33, 
+
+temp_bottom:44.39, temp_top:45.33, 
+
+temp_bottom:44.39, temp_top:45.33, 
+
+temp_bottom:44.39, temp_top:45.45, 
+
+temp_bottom:44.39, temp_top:45.45, 
+
+temp_bottom:44.39, temp_top:45.45, 
+
+temp_bottom:44.51, temp_top:45.45, 
+
+temp_bottom:44.51, temp_top:45.45, 
+
+temp_bottom:44.51, temp_top:45.57, 
+
+temp_bottom:44.51, temp_top:45.57, 
+
+temp_bottom:44.51, temp_top:45.57, 
+
+temp_bottom:44.51, temp_top:45.57, 
+
+temp_bottom:44.51, temp_top:45.57, 
+
+temp_bottom:44.62, temp_top:45.57, 
+
+temp_bottom:44.62, temp_top:45.57, 
+
+temp_bottom:44.62, temp_top:45.69, 
+
+temp_bottom:44.62, temp_top:45.57, 
+
+temp_bottom:44.74, temp_top:45.57, 
+
+temp_bottom:44.74, temp_top:45.69, 
+
+temp_bottom:44.74, temp_top:45.69, 
+
+temp_bottom:44.74, temp_top:45.69, 
+
+temp_bottom:44.74, temp_top:45.69, 
+
+temp_bottom:44.74, temp_top:45.69, 
+
+temp_bottom:44.86, temp_top:45.69, 
+
+temp_bottom:44.86, temp_top:45.81, 
+
+temp_bottom:44.86, temp_top:45.81, 
+
+temp_bottom:44.86, temp_top:45.81, 
+
+temp_bottom:44.86, temp_top:45.81, 
+
+temp_bottom:44.86, temp_top:45.81, 
+
+temp_bottom:44.97, temp_top:45.81, 
+
+temp_bottom:44.97, temp_top:45.93, 
+
+temp_bottom:44.97, temp_top:45.81, 
+
+temp_bottom:44.97, temp_top:45.93, 
+
+temp_bottom:44.97, temp_top:45.93, 
+
+temp_bottom:44.97, temp_top:45.93, 
+
+temp_bottom:45.09, temp_top:45.93, 
+
+temp_bottom:45.09, temp_top:46.05, 
+
+temp_bottom:45.09, temp_top:46.05, 
+
+temp_bottom:45.09, temp_top:46.05, 
+
+temp_bottom:45.21, temp_top:46.05, 
+
+temp_bottom:45.21, temp_top:46.05, 
+
+temp_bottom:45.21, temp_top:46.05, 
+
+temp_bottom:45.21, temp_top:46.17, 
+
+temp_bottom:45.21, temp_top:46.05, 
+
+temp_bottom:45.21, temp_top:46.17, 
+
+temp_bottom:45.21, temp_top:46.17, 
+
+temp_bottom:45.33, temp_top:46.17, 
+
+temp_bottom:45.33, temp_top:46.17, 
+
+temp_bottom:45.33, temp_top:46.17, 
+
+temp_bottom:45.33, temp_top:46.17, 
+
+temp_bottom:45.45, temp_top:46.29, 
+
+temp_bottom:45.33, temp_top:46.17, 
+
+temp_bottom:45.45, temp_top:46.29, 
+
+temp_bottom:45.45, temp_top:46.29, 
+
+temp_bottom:45.45, temp_top:46.29, 
+
+temp_bottom:45.45, temp_top:46.29, 
+
+temp_bottom:45.45, temp_top:46.29, 
+
+temp_bottom:45.57, temp_top:46.41, 
+
+temp_bottom:45.57, temp_top:46.41, 
+
+temp_bottom:45.57, temp_top:46.41, 
+
+temp_bottom:45.57, temp_top:46.41, 
+
+temp_bottom:45.57, temp_top:46.41, 
+
+temp_bottom:45.57, temp_top:46.54, 
+
+temp_bottom:45.57, temp_top:46.54, 
+
+temp_bottom:45.69, temp_top:46.54, 
+
+temp_bottom:45.69, temp_top:46.66, 
+
+temp_bottom:45.69, temp_top:46.54, 
+
+temp_bottom:45.69, temp_top:46.66, 
+
+temp_bottom:45.69, temp_top:46.66, 
+
+temp_bottom:45.69, temp_top:46.66, 
+
+temp_bottom:45.81, temp_top:46.66, 
+
+temp_bottom:45.81, temp_top:46.66, 
+
+temp_bottom:45.81, temp_top:46.66, 
+
+temp_bottom:45.81, temp_top:46.66, 
+
+temp_bottom:45.81, temp_top:46.78, 
+
+temp_bottom:45.81, temp_top:46.78, 
+
+temp_bottom:45.93, temp_top:46.78, 
+
+temp_bottom:45.93, temp_top:46.78, 
+
+temp_bottom:45.93, temp_top:46.78, 
+
+temp_bottom:45.93, temp_top:46.90, 
+
+temp_bottom:45.93, temp_top:46.90, 
+
+temp_bottom:45.93, temp_top:46.78, 
+
+temp_bottom:45.93, temp_top:46.90, 
+
+temp_bottom:46.05, temp_top:46.90, 
+
+temp_bottom:46.05, temp_top:46.90, 
+
+temp_bottom:46.05, temp_top:47.03, 
+
+temp_bottom:46.05, temp_top:47.03, 
+
+temp_bottom:46.17, temp_top:47.03, 
+
+temp_bottom:46.17, temp_top:47.03, 
+
+temp_bottom:46.17, temp_top:47.03, 
+
+temp_bottom:46.05, temp_top:47.03, 
+
+temp_bottom:46.17, temp_top:47.03, 
+
+temp_bottom:46.17, temp_top:47.03, 
+
+temp_bottom:46.17, temp_top:47.15, 
+
+temp_bottom:46.17, temp_top:47.15, 
+
+temp_bottom:46.29, temp_top:47.15, 
+
+temp_bottom:46.29, temp_top:47.15, 
+
+temp_bottom:46.29, temp_top:47.27, 
+
+temp_bottom:46.29, temp_top:47.27, 
+
+temp_bottom:46.29, temp_top:47.27, 
+
+temp_bottom:46.29, temp_top:47.27, 
+
+temp_bottom:46.41, temp_top:47.27, 
+
+temp_bottom:46.41, temp_top:47.40, 
+
+temp_bottom:46.41, temp_top:47.27, 
+
+temp_bottom:46.41, temp_top:47.40, 
+
+temp_bottom:46.41, temp_top:47.40, 
+
+temp_bottom:46.41, temp_top:47.40, 
+
+temp_bottom:46.54, temp_top:47.40, 
+
+temp_bottom:46.54, temp_top:47.52, 
+
+temp_bottom:46.54, temp_top:47.52, 
+
+temp_bottom:46.54, temp_top:47.52, 
+
+temp_bottom:46.54, temp_top:47.52, 
+
+temp_bottom:46.54, temp_top:47.52, 
+
+temp_bottom:46.54, temp_top:47.52, 
+
+temp_bottom:46.54, temp_top:47.65, 
+
+temp_bottom:46.66, temp_top:47.65, 
+
+temp_bottom:46.66, temp_top:47.65, 
+
+temp_bottom:46.66, temp_top:47.65, 
+
+temp_bottom:46.66, temp_top:47.65, 
+
+temp_bottom:46.66, temp_top:47.65, 
+
+temp_bottom:46.78, temp_top:47.65, 
+
+temp_bottom:46.78, temp_top:47.65, 
+
+temp_bottom:46.78, temp_top:47.77, 
+
+temp_bottom:46.78, temp_top:47.77, 
+
+temp_bottom:46.78, temp_top:47.77, 
+
+temp_bottom:46.78, temp_top:47.77, 
+
+temp_bottom:46.90, temp_top:47.77, 
+
+temp_bottom:46.78, temp_top:47.90, 
+
+temp_bottom:46.90, temp_top:47.77, 
+
+temp_bottom:46.90, temp_top:47.77, 
+
+temp_bottom:46.90, temp_top:47.90, 
+
+temp_bottom:46.90, temp_top:47.77, 
+
+temp_bottom:46.90, temp_top:47.90, 
+
+temp_bottom:47.03, temp_top:47.77, 
+
+temp_bottom:47.03, temp_top:47.90, 
+
+temp_bottom:47.03, temp_top:47.90, 
+
+temp_bottom:47.03, temp_top:47.90, 
+
+temp_bottom:47.03, temp_top:47.90, 
+
+temp_bottom:47.03, temp_top:47.90, 
+
+temp_bottom:47.15, temp_top:48.03, 
+
+temp_bottom:47.15, temp_top:48.03, 
+
+temp_bottom:47.15, temp_top:48.03, 
+
+temp_bottom:47.15, temp_top:48.03, 
+
+temp_bottom:47.15, temp_top:48.03, 
+
+temp_bottom:47.15, temp_top:48.03, 
+
+temp_bottom:47.15, temp_top:48.03, 
+
+temp_bottom:47.27, temp_top:48.15, 
+
+temp_bottom:47.27, temp_top:48.15, 
+
+temp_bottom:47.27, temp_top:48.15, 
+
+temp_bottom:47.27, temp_top:48.15, 
+
+temp_bottom:47.27, temp_top:48.28, 
+
+temp_bottom:47.27, temp_top:48.28, 
+
+temp_bottom:47.40, temp_top:48.15, 
+
+temp_bottom:47.40, temp_top:48.28, 
+
+temp_bottom:47.40, temp_top:48.28, 
+
+temp_bottom:47.40, temp_top:48.28, 
+
+temp_bottom:47.40, temp_top:48.28, 
+
+temp_bottom:47.40, temp_top:48.28, 
+
+temp_bottom:47.40, temp_top:48.41, 
+
+temp_bottom:47.40, temp_top:48.28, 
+
+temp_bottom:47.52, temp_top:48.41, 
+
+temp_bottom:47.52, temp_top:48.41, 
+
+temp_bottom:47.52, temp_top:48.41, 
+
+temp_bottom:47.52, temp_top:48.41, 
+
+temp_bottom:47.52, temp_top:48.41, 
+
+temp_bottom:47.52, temp_top:48.41, 
+
+temp_bottom:47.65, temp_top:48.41, 
+
+temp_bottom:47.65, temp_top:48.41, 
+
+temp_bottom:47.65, temp_top:48.41, 
+
+temp_bottom:47.65, temp_top:48.41, 
+
+temp_bottom:47.65, temp_top:48.41, 
+
+temp_bottom:47.65, temp_top:48.41, 
+
+temp_bottom:47.65, temp_top:48.41, 
+
+temp_bottom:47.65, temp_top:48.41, 
+
+temp_bottom:47.77, temp_top:48.41, 
+
+temp_bottom:47.77, temp_top:48.41, 
+
+temp_bottom:47.77, temp_top:48.41, 
+
+temp_bottom:47.77, temp_top:48.41, 
+
+temp_bottom:47.77, temp_top:48.54, 
+
+temp_bottom:47.77, temp_top:48.54, 
+
+temp_bottom:47.90, temp_top:48.54, 
+
+temp_bottom:47.90, temp_top:48.54, 
+
+temp_bottom:47.90, temp_top:48.54, 
+
+temp_bottom:47.90, temp_top:48.66, 
+
+temp_bottom:47.90, temp_top:48.66, 
+
+temp_bottom:47.90, temp_top:48.66, 
+
+temp_bottom:47.90, temp_top:48.66, 
+
+temp_bottom:47.90, temp_top:48.66, 
+
+temp_bottom:47.90, temp_top:48.66, 
+
+temp_bottom:48.03, temp_top:48.66, 
+
+temp_bottom:48.03, temp_top:48.79, 
+
+temp_bottom:48.03, temp_top:48.79, 
+
+temp_bottom:48.03, temp_top:48.79, 
+
+temp_bottom:48.03, temp_top:48.79, 
+
+temp_bottom:48.03, temp_top:48.79, 
+
+temp_bottom:48.15, temp_top:48.79, 
+
+temp_bottom:48.15, temp_top:48.79, 
+
+temp_bottom:48.15, temp_top:48.79, 
+
+temp_bottom:48.15, temp_top:48.79, 
+
+temp_bottom:48.15, temp_top:48.79, 
+
+temp_bottom:48.15, temp_top:48.79, 
+
+temp_bottom:48.15, temp_top:48.79, 
+
+temp_bottom:48.15, temp_top:48.92, 
+
+temp_bottom:48.15, temp_top:48.92, 
+
+temp_bottom:48.28, temp_top:48.92, 
+
+temp_bottom:48.28, temp_top:48.92, 
+
+temp_bottom:48.28, temp_top:48.92, 
+
+temp_bottom:48.28, temp_top:48.92, 
+
+temp_bottom:48.28, temp_top:49.05, 
+
+temp_bottom:48.28, temp_top:49.05, 
+
+temp_bottom:48.41, temp_top:49.05, 
+
+temp_bottom:48.41, temp_top:49.18, 
+
+temp_bottom:48.41, temp_top:49.18, 
+
+temp_bottom:48.41, temp_top:49.18, 
+
+temp_bottom:48.41, temp_top:49.18, 
+
+temp_bottom:48.41, temp_top:49.18, 
+
+temp_bottom:48.41, temp_top:49.18, 
+
+temp_bottom:48.41, temp_top:49.18, 
+
+temp_bottom:48.41, temp_top:49.31, 
+
+temp_bottom:48.54, temp_top:49.31, 
+
+temp_bottom:48.54, temp_top:49.31, 
+
+temp_bottom:48.54, temp_top:49.31, 
+
+temp_bottom:48.54, temp_top:49.31, 
+
+temp_bottom:48.54, temp_top:49.31, 
+
+temp_bottom:48.54, temp_top:49.31, 
+
+temp_bottom:48.54, temp_top:49.31, 
+
+temp_bottom:48.66, temp_top:49.31, 
+
+temp_bottom:48.66, temp_top:49.44, 
+
+temp_bottom:48.66, temp_top:49.44, 
+
+temp_bottom:48.66, temp_top:49.44, 
+
+temp_bottom:48.66, temp_top:49.44, 
+
+temp_bottom:48.66, temp_top:49.44, 
+
+temp_bottom:48.66, temp_top:49.44, 
+
+temp_bottom:48.66, temp_top:49.57, 
+
+temp_bottom:48.79, temp_top:49.57, 
+
+temp_bottom:48.79, temp_top:49.57, 
+
+temp_bottom:48.79, temp_top:49.57, 
+
+temp_bottom:48.79, temp_top:49.57, 
+
+temp_bottom:48.79, temp_top:49.57, 
+
+temp_bottom:48.79, temp_top:49.57, 
+
+temp_bottom:48.79, temp_top:49.70, 
+
+temp_bottom:48.79, temp_top:49.57, 
+
+temp_bottom:48.92, temp_top:49.70, 
+
+temp_bottom:48.92, temp_top:49.70, 
+
+temp_bottom:48.92, temp_top:49.70, 
+
+temp_bottom:48.92, temp_top:49.70, 
+
+temp_bottom:48.92, temp_top:49.70, 
+
+temp_bottom:48.92, temp_top:49.70, 
+
+temp_bottom:48.92, temp_top:49.70, 
+
+temp_bottom:48.92, temp_top:49.70, 
+
+temp_bottom:49.05, temp_top:49.70, 
+
+temp_bottom:49.05, temp_top:49.70, 
+
+temp_bottom:49.05, temp_top:49.70, 
+
+temp_bottom:49.05, temp_top:49.70, 
+
+temp_bottom:49.05, temp_top:49.83, 
+
+temp_bottom:49.05, temp_top:49.83, 
+
+temp_bottom:49.05, temp_top:49.83, 
+
+temp_bottom:49.05, temp_top:49.83, 
+
+temp_bottom:49.18, temp_top:49.83, 
+
+temp_bottom:49.18, temp_top:49.83, 
+
+temp_bottom:49.05, temp_top:49.83, 
+
+temp_bottom:49.18, temp_top:49.83, 
+
+temp_bottom:49.18, temp_top:49.83, 
+
+temp_bottom:49.18, temp_top:49.83, 
+
+temp_bottom:49.18, temp_top:49.83, 
+
+temp_bottom:49.18, temp_top:49.83, 
+
+temp_bottom:49.18, temp_top:49.83, 
+
+temp_bottom:49.18, temp_top:49.83, 
+
+temp_bottom:49.31, temp_top:49.83, 
+
+temp_bottom:49.31, temp_top:49.83, 
+
+temp_bottom:49.31, temp_top:49.97, 
+
+temp_bottom:49.31, temp_top:49.97, 
+
+temp_bottom:49.31, temp_top:49.97, 
+
+temp_bottom:49.31, temp_top:49.97, 
+
+temp_bottom:49.31, temp_top:49.97, 
+
+temp_bottom:49.44, temp_top:49.97, 
+
+temp_bottom:49.44, temp_top:49.97, 
+
+temp_bottom:49.44, temp_top:50.10, 
+
+temp_bottom:49.31, temp_top:49.97, 
+
+temp_bottom:49.44, temp_top:50.10, 
+
+temp_bottom:49.44, temp_top:50.10, 
+
+temp_bottom:49.44, temp_top:50.10, 
+
+temp_bottom:49.44, temp_top:50.10, 
+
+temp_bottom:49.57, temp_top:50.10, 
+
+temp_bottom:49.57, temp_top:50.10, 
+
+temp_bottom:49.57, temp_top:50.10, 
+
+temp_bottom:49.57, temp_top:50.10, 
+
+temp_bottom:49.57, temp_top:50.10, 
+
+temp_bottom:49.57, temp_top:50.23, 
+
+temp_bottom:49.57, temp_top:50.23, 
+
+temp_bottom:49.70, temp_top:50.23, 
+
+temp_bottom:49.57, temp_top:50.37, 
+
+temp_bottom:49.70, temp_top:50.37, 
+
+temp_bottom:49.70, temp_top:50.37, 
+
+temp_bottom:49.70, temp_top:50.37, 
+
+temp_bottom:49.70, temp_top:50.37, 
+
+temp_bottom:49.70, temp_top:50.37, 
+
+temp_bottom:49.70, temp_top:50.50, 
+
+temp_bottom:49.70, temp_top:50.50, 
+
+temp_bottom:49.70, temp_top:50.37, 
+
+temp_bottom:49.83, temp_top:50.50, 
+
+temp_bottom:49.83, temp_top:50.50, 
+
+temp_bottom:49.83, temp_top:50.50, 
+
+temp_bottom:49.83, temp_top:50.63, 
+
+temp_bottom:49.83, temp_top:50.63, 
+
+temp_bottom:49.83, temp_top:50.50, 
+
+temp_bottom:49.83, temp_top:50.63, 
+
+temp_bottom:49.83, temp_top:50.63, 
+
+temp_bottom:49.83, temp_top:50.63, 
+
+temp_bottom:49.97, temp_top:50.63, 
+
+temp_bottom:49.97, temp_top:50.63, 
+
+temp_bottom:49.97, temp_top:50.63, 
+
+temp_bottom:49.97, temp_top:50.63, 
+
+temp_bottom:49.97, temp_top:50.63, 
+
+temp_bottom:50.10, temp_top:50.77, 
+
+temp_bottom:49.97, temp_top:50.77, 
+
+temp_bottom:49.97, temp_top:50.77, 
+
+temp_bottom:49.97, temp_top:50.77, 
+
+temp_bottom:50.10, temp_top:50.77, 
+
+temp_bottom:50.10, temp_top:50.77, 
+
+temp_bottom:50.10, temp_top:50.77, 
+
+temp_bottom:50.10, temp_top:50.77, 
+
+temp_bottom:50.10, temp_top:50.90, 
+
+temp_bottom:50.10, temp_top:50.90, 
+
+temp_bottom:50.23, temp_top:50.90, 
+
+temp_bottom:50.23, temp_top:50.90, 
+
+temp_bottom:50.23, temp_top:50.90, 
+
+temp_bottom:50.23, temp_top:50.90, 
+
+temp_bottom:50.23, temp_top:50.90, 
+
+temp_bottom:50.23, temp_top:51.04, 
+
+temp_bottom:50.23, temp_top:50.90, 
+
+temp_bottom:50.23, temp_top:51.04, 
+
+temp_bottom:50.23, temp_top:51.04, 
+
+temp_bottom:50.23, temp_top:51.04, 
+
+temp_bottom:50.37, temp_top:51.04, 
+
+temp_bottom:50.37, temp_top:50.90, 
+
+temp_bottom:50.37, temp_top:51.04, 
+
+temp_bottom:50.37, temp_top:50.90, 
+
+temp_bottom:50.37, temp_top:51.04, 
+
+temp_bottom:50.37, temp_top:51.04, 
+
+temp_bottom:50.37, temp_top:51.04, 
+
+temp_bottom:50.37, temp_top:51.04, 
+
+temp_bottom:50.37, temp_top:51.18, 
+
+temp_bottom:50.37, temp_top:51.18, 
+
+temp_bottom:50.37, temp_top:51.18, 
+
+temp_bottom:50.50, temp_top:51.18, 
+
+temp_bottom:50.50, temp_top:51.18, 
+
+temp_bottom:50.50, temp_top:51.18, 
+
+temp_bottom:50.50, temp_top:51.18, 
+
+temp_bottom:50.50, temp_top:51.18, 
+
+temp_bottom:50.50, temp_top:51.18, 
+
+temp_bottom:50.50, temp_top:51.18, 
+
+temp_bottom:50.50, temp_top:51.18, 
+
+temp_bottom:50.63, temp_top:51.18, 
+
+temp_bottom:50.63, temp_top:51.31, 
+
+temp_bottom:50.63, temp_top:51.31, 
+
+temp_bottom:50.63, temp_top:51.18, 
+
+temp_bottom:50.63, temp_top:51.31, 
+
+temp_bottom:50.63, temp_top:51.31, 
+
+temp_bottom:50.63, temp_top:51.31, 
+
+temp_bottom:50.63, temp_top:51.31, 
+
+temp_bottom:50.77, temp_top:51.31, 
+
+temp_bottom:50.63, temp_top:51.31, 
+
+temp_bottom:50.77, temp_top:51.31, 
+
+temp_bottom:50.77, temp_top:51.31, 
+
+temp_bottom:50.77, temp_top:51.45, 
+
+temp_bottom:50.77, temp_top:51.45, 
+
+temp_bottom:50.77, temp_top:51.45, 
+
+temp_bottom:50.77, temp_top:51.45, 
+
+temp_bottom:50.77, temp_top:51.45, 
+
+temp_bottom:50.77, temp_top:51.45, 
+
+temp_bottom:50.77, temp_top:51.45, 
+
+temp_bottom:50.90, temp_top:51.45, 
+
+temp_bottom:50.90, temp_top:51.59, 
+
+temp_bottom:50.90, temp_top:51.59, 
+
+temp_bottom:50.90, temp_top:51.59, 
+
+temp_bottom:50.90, temp_top:51.73, 
+
+temp_bottom:50.90, temp_top:51.73, 
+
+temp_bottom:50.90, temp_top:51.73, 
+
+temp_bottom:50.90, temp_top:51.73, 
+
+temp_bottom:50.90, temp_top:51.73, 
+
+temp_bottom:50.90, temp_top:51.73, 
+
+temp_bottom:51.04, temp_top:51.73, 
+
+temp_bottom:51.04, temp_top:51.73, 
+
+temp_bottom:51.04, temp_top:51.86, 
+
+temp_bottom:51.04, temp_top:51.73, 
+
+temp_bottom:51.04, temp_top:51.73, 
+
+temp_bottom:51.04, temp_top:51.73, 
+
+temp_bottom:51.04, temp_top:51.86, 
+
+temp_bottom:51.04, temp_top:51.73, 
+
+temp_bottom:51.18, temp_top:51.73, 
+
+temp_bottom:51.04, temp_top:51.73, 
+
+temp_bottom:51.18, temp_top:51.86, 
+
+temp_bottom:51.18, temp_top:51.73, 
+
+temp_bottom:51.18, temp_top:51.73, 
+
+temp_bottom:51.18, temp_top:51.73, 
+
+temp_bottom:51.18, temp_top:51.73, 
+
+temp_bottom:51.18, temp_top:51.73, 
+
+temp_bottom:51.18, temp_top:51.73, 
+
+temp_bottom:51.18, temp_top:51.73, 
+
+temp_bottom:51.31, temp_top:51.73, 
+
+temp_bottom:51.18, temp_top:51.73, 
+
+temp_bottom:51.31, temp_top:51.73, 
+
+temp_bottom:51.31, temp_top:51.73, 
+
+temp_bottom:51.31, temp_top:51.73, 
+
+temp_bottom:51.31, temp_top:51.73, 
+
+temp_bottom:51.31, temp_top:51.73, 
+
+temp_bottom:51.31, temp_top:51.73, 
+
+temp_bottom:51.31, temp_top:51.73, 
+
+temp_bottom:51.45, temp_top:51.73, 
+
+temp_bottom:51.31, temp_top:51.86, 
+
+temp_bottom:51.31, temp_top:51.86, 
+
+temp_bottom:51.45, temp_top:51.86, 
+
+temp_bottom:51.45, temp_top:51.86, 
+
+temp_bottom:51.45, temp_top:51.86, 
+
+temp_bottom:51.45, temp_top:51.86, 
+
+temp_bottom:51.45, temp_top:51.86, 
+
+temp_bottom:51.45, temp_top:51.86, 
+
+temp_bottom:51.45, temp_top:51.73, 
+
+temp_bottom:51.45, temp_top:51.73, 
+
+temp_bottom:51.59, temp_top:51.73, 
+
+temp_bottom:51.45, temp_top:51.73, 
+
+temp_bottom:51.59, temp_top:51.73, 
+
+temp_bottom:51.59, temp_top:51.73, 
+
+temp_bottom:51.59, temp_top:51.73, 
+
+temp_bottom:51.59, temp_top:51.73, 
+
+temp_bottom:51.59, temp_top:51.86, 
+
+temp_bottom:51.59, temp_top:51.73, 
+
+temp_bottom:51.59, temp_top:51.86, 
+
+temp_bottom:51.59, temp_top:51.86, 
+
+temp_bottom:51.59, temp_top:51.86, 
+
+temp_bottom:51.73, temp_top:51.86, 
+
+temp_bottom:51.59, temp_top:51.86, 
+
+temp_bottom:51.73, temp_top:52.00, 
+
+temp_bottom:51.73, temp_top:51.86, 
+
+temp_bottom:51.73, temp_top:52.00, 
+
+temp_bottom:51.73, temp_top:52.00, 
+
+temp_bottom:51.73, temp_top:52.00, 
+
+temp_bottom:51.73, temp_top:52.00, 
+
+temp_bottom:51.73, temp_top:52.00, 
+
+temp_bottom:51.73, temp_top:52.14, 
+
+temp_bottom:51.73, temp_top:52.14, 
+
+temp_bottom:51.73, temp_top:52.14, 
+
+temp_bottom:51.73, temp_top:52.14, 
+
+temp_bottom:51.86, temp_top:52.14, 
+
+temp_bottom:51.86, temp_top:52.14, 
+
+temp_bottom:51.86, temp_top:52.14, 
+
+temp_bottom:51.86, temp_top:52.28, 
+
+temp_bottom:51.86, temp_top:52.28, 
+
+temp_bottom:51.86, temp_top:52.28, 
+
+temp_bottom:51.86, temp_top:52.28, 
+
+temp_bottom:51.86, temp_top:52.28, 
+
+temp_bottom:51.86, temp_top:52.28, 
+
+temp_bottom:51.86, temp_top:52.42, 
+
+temp_bottom:52.00, temp_top:52.28, 
+
+temp_bottom:51.86, temp_top:52.42, 
+
+temp_bottom:52.00, temp_top:52.42, 
+
+temp_bottom:51.86, temp_top:52.28, 
+
+temp_bottom:52.00, temp_top:52.42, 
+
+temp_bottom:52.00, temp_top:52.42, 
+
+temp_bottom:52.00, temp_top:52.42, 
+
+temp_bottom:52.00, temp_top:52.42, 
+
+temp_bottom:52.00, temp_top:52.42, 
+
+temp_bottom:52.00, temp_top:52.42, 
+
+temp_bottom:52.00, temp_top:52.42, 
+
+temp_bottom:52.00, temp_top:52.56, 
+
+temp_bottom:52.00, temp_top:52.56, 
+
+temp_bottom:52.14, temp_top:52.56, 
+
+temp_bottom:52.14, temp_top:52.56, 
+
+temp_bottom:52.00, temp_top:52.56, 
+
+temp_bottom:52.14, temp_top:52.56, 
+
+temp_bottom:52.14, temp_top:52.56, 
+
+temp_bottom:52.14, temp_top:52.56, 
+
+temp_bottom:52.14, temp_top:52.56, 
+
+temp_bottom:52.28, temp_top:52.71, 
+
+temp_bottom:52.28, temp_top:52.71, 
+
+temp_bottom:52.28, temp_top:52.71, 
+
+temp_bottom:52.28, temp_top:52.71, 
+
+temp_bottom:52.28, temp_top:52.71, 
+
+temp_bottom:52.28, temp_top:52.71, 
+
+temp_bottom:52.28, temp_top:52.71, 
+
+temp_bottom:52.28, temp_top:52.71, 
+
+temp_bottom:52.28, temp_top:52.85, 
+
+temp_bottom:52.28, temp_top:52.85, 
+
+temp_bottom:52.28, temp_top:52.85, 
+
+temp_bottom:52.28, temp_top:52.85, 
+
+temp_bottom:52.28, temp_top:52.85, 
+
+temp_bottom:52.42, temp_top:52.85, 
+
+temp_bottom:52.42, temp_top:52.85, 
+
+temp_bottom:52.42, temp_top:52.85, 
+
+temp_bottom:52.42, temp_top:52.85, 
+
+temp_bottom:52.42, temp_top:52.85, 
+
+temp_bottom:52.42, temp_top:52.85, 
+
+temp_bottom:52.42, temp_top:52.85, 
+
+temp_bottom:52.42, temp_top:52.85, 
+
+temp_bottom:52.42, temp_top:52.85, 
+
+temp_bottom:52.42, temp_top:52.99, 
+
+temp_bottom:52.56, temp_top:52.99, 
+
+temp_bottom:52.56, temp_top:52.85, 
+
+temp_bottom:52.56, temp_top:52.99, 
+
+temp_bottom:52.56, temp_top:52.99, 
+
+temp_bottom:52.56, temp_top:52.99, 
+
+temp_bottom:52.56, temp_top:52.99, 
+
+temp_bottom:52.56, temp_top:52.99, 
+
+temp_bottom:52.56, temp_top:52.99, 
+
+temp_bottom:52.56, temp_top:52.99, 
+
+temp_bottom:52.56, temp_top:52.99, 
+
+temp_bottom:52.56, temp_top:52.99, 
+
+temp_bottom:52.56, temp_top:52.99, 
+
+temp_bottom:52.71, temp_top:53.13, 
+
+temp_bottom:52.56, temp_top:53.13, 
+
+temp_bottom:52.71, temp_top:53.13, 
+
+temp_bottom:52.71, temp_top:53.13, 
+
+temp_bottom:52.71, temp_top:53.13, 
+
+temp_bottom:52.71, temp_top:53.13, 
+
+temp_bottom:52.71, temp_top:53.13, 
+
+temp_bottom:52.71, temp_top:53.13, 
+
+temp_bottom:52.71, temp_top:53.13, 
+
+temp_bottom:52.85, temp_top:53.13, 
+
+temp_bottom:52.71, temp_top:53.13, 
+
+temp_bottom:52.85, temp_top:53.13, 
+
+temp_bottom:52.85, temp_top:53.13, 
+
+temp_bottom:52.85, temp_top:53.13, 
+
+temp_bottom:52.85, temp_top:53.13, 
+
+temp_bottom:52.85, temp_top:53.13, 
+
+temp_bottom:52.85, temp_top:53.13, 
+
+temp_bottom:52.85, temp_top:53.13, 
+
+temp_bottom:52.85, temp_top:53.13, 
+
+temp_bottom:52.85, temp_top:53.28, 
+
+temp_bottom:52.85, temp_top:53.28, 
+
+temp_bottom:52.85, temp_top:53.28, 
+
+temp_bottom:52.85, temp_top:53.28, 
+
+temp_bottom:52.99, temp_top:53.28, 
+
+temp_bottom:52.85, temp_top:53.28, 
+
+temp_bottom:52.99, temp_top:53.28, 
+
+temp_bottom:52.99, temp_top:53.28, 
+
+temp_bottom:52.99, temp_top:53.28, 
+
+temp_bottom:52.99, temp_top:53.28, 
+
+temp_bottom:52.99, temp_top:53.28, 
+
+temp_bottom:52.99, temp_top:53.13, 
+
+temp_bottom:52.99, temp_top:53.13, 
+
+temp_bottom:52.99, temp_top:53.13, 
+
+temp_bottom:52.99, temp_top:53.13, 
+
+temp_bottom:53.13, temp_top:53.13, 
+
+temp_bottom:53.13, temp_top:52.99, 
+
+temp_bottom:53.13, temp_top:52.99, 
+
+temp_bottom:53.13, temp_top:52.99, 
+
+temp_bottom:53.13, temp_top:52.99, 
+
+temp_bottom:53.13, temp_top:52.99, 
+
+temp_bottom:53.13, temp_top:52.99, 
+
+temp_bottom:53.13, temp_top:52.99, 
+
+temp_bottom:53.13, temp_top:52.99, 
+
+temp_bottom:53.13, temp_top:52.99, 
+
+temp_bottom:53.13, temp_top:52.99, 
+
+temp_bottom:53.13, temp_top:52.99, 
+
+temp_bottom:53.28, temp_top:52.99, 
+
+temp_bottom:53.13, temp_top:52.99, 
+
+temp_bottom:53.13, temp_top:53.13, 
+
+temp_bottom:53.28, temp_top:53.13, 
+
+temp_bottom:53.28, temp_top:53.13, 
+
+temp_bottom:53.28, temp_top:53.13, 
+
+temp_bottom:53.13, temp_top:53.13, 
+
+temp_bottom:53.13, temp_top:53.13, 
+
+temp_bottom:53.28, temp_top:53.13, 
+
+temp_bottom:53.28, temp_top:53.28, 
+
+temp_bottom:53.28, temp_top:53.28, 
+
+temp_bottom:53.28, temp_top:53.28, 
+
+temp_bottom:53.28, temp_top:53.28, 
+
+temp_bottom:53.28, temp_top:53.28, 
+
+temp_bottom:53.28, temp_top:53.28, 
+
+temp_bottom:53.28, temp_top:53.28, 
+
+temp_bottom:53.42, temp_top:53.42, 
+
+temp_bottom:53.42, temp_top:53.42, 
+
+temp_bottom:53.28, temp_top:53.42, 
+
+temp_bottom:53.28, temp_top:53.42, 
+
+temp_bottom:53.42, temp_top:53.56, 
+
+temp_bottom:53.42, temp_top:53.56, 
+
+temp_bottom:53.42, temp_top:53.56, 
+
+temp_bottom:53.42, temp_top:53.56, 
+
+temp_bottom:53.42, temp_top:53.71, 
+
+temp_bottom:53.56, temp_top:53.71, 
+
+temp_bottom:53.42, temp_top:53.71, 
+
+temp_bottom:53.42, temp_top:53.71, 
+
+temp_bottom:53.56, temp_top:53.71, 
+
+temp_bottom:53.42, temp_top:53.71, 
+
+temp_bottom:53.42, temp_top:53.71, 
+
+temp_bottom:53.56, temp_top:53.86, 
+
+temp_bottom:53.56, temp_top:53.86, 
+
+temp_bottom:53.56, temp_top:53.86, 
+
+temp_bottom:53.56, temp_top:53.86, 
+
+temp_bottom:53.56, temp_top:53.86, 
+
+temp_bottom:53.56, temp_top:53.86, 
+
+temp_bottom:53.71, temp_top:54.00, 
+
+temp_bottom:53.71, temp_top:54.00, 
+
+temp_bottom:53.56, temp_top:54.00, 
+
+temp_bottom:53.71, temp_top:54.00, 
+
+temp_bottom:53.71, temp_top:54.00, 
+
+temp_bottom:53.71, temp_top:54.00, 
+
+temp_bottom:53.71, temp_top:54.15, 
+
+temp_bottom:53.71, temp_top:54.15, 
+
+temp_bottom:53.71, temp_top:54.15, 
+
+temp_bottom:53.71, temp_top:54.15, 
+
+temp_bottom:53.71, temp_top:54.15, 
+
+temp_bottom:53.71, temp_top:54.30, 
+
+temp_bottom:53.71, temp_top:54.30, 
+
+temp_bottom:53.86, temp_top:54.30, 
+
+temp_bottom:53.86, temp_top:54.30, 
+
+temp_bottom:53.86, temp_top:54.30, 
+
+temp_bottom:53.86, temp_top:54.30, 
+
+temp_bottom:53.86, temp_top:54.15, 
+
+temp_bottom:53.86, temp_top:54.15, 
+
+temp_bottom:53.86, temp_top:54.00, 
+
+temp_bottom:53.86, temp_top:54.00, 
+
+temp_bottom:53.86, temp_top:53.86, 
+
+temp_bottom:53.86, temp_top:53.86, 
+
+temp_bottom:53.86, temp_top:53.71, 
+
+temp_bottom:53.86, temp_top:53.71, 
+
+temp_bottom:53.86, temp_top:53.56, 
+
+temp_bottom:53.86, temp_top:53.56, 
+
+temp_bottom:53.86, temp_top:53.42, 
+
+temp_bottom:53.86, temp_top:53.56, 
+
+temp_bottom:53.86, temp_top:53.56, 
+
+temp_bottom:54.00, temp_top:53.71, 
+
+temp_bottom:54.00, temp_top:53.71, 
+
+temp_bottom:54.00, temp_top:53.71, 
+
+temp_bottom:54.00, temp_top:53.71, 
+
+temp_bottom:54.00, temp_top:53.86, 
+
+temp_bottom:54.00, temp_top:53.86, 
+
+temp_bottom:54.00, temp_top:53.86, 
+
+temp_bottom:54.00, temp_top:53.86, 
+
+temp_bottom:54.00, temp_top:53.86, 
+
+temp_bottom:54.00, temp_top:53.86, 
+
+temp_bottom:54.00, temp_top:53.86, 
+
+temp_bottom:54.00, temp_top:53.86, 
+
+temp_bottom:54.00, temp_top:53.86, 
+
+temp_bottom:54.00, temp_top:53.86, 
+
+temp_bottom:54.00, temp_top:53.86, 
+
+temp_bottom:54.00, temp_top:53.86, 
+
+temp_bottom:54.00, temp_top:53.71, 
+
+temp_bottom:54.15, temp_top:53.86, 
+
+temp_bottom:54.15, temp_top:53.71, 
+
+temp_bottom:54.15, temp_top:53.71, 
+
+temp_bottom:54.15, temp_top:53.71, 
+
+temp_bottom:54.15, temp_top:53.86, 
+
+temp_bottom:54.15, temp_top:53.86, 
+
+temp_bottom:54.15, temp_top:53.86, 
+
+temp_bottom:54.15, temp_top:53.86, 
+
+temp_bottom:54.15, temp_top:53.86, 
+
+temp_bottom:54.15, temp_top:53.86, 
+
+temp_bottom:54.15, temp_top:53.86, 
+
+temp_bottom:54.15, temp_top:53.86, 
+
+temp_bottom:54.15, temp_top:54.00, 
+
+temp_bottom:54.30, temp_top:54.00, 
+
+temp_bottom:54.15, temp_top:54.00, 
+
+temp_bottom:54.30, temp_top:54.00, 
+
+temp_bottom:54.15, temp_top:54.00, 
+
+temp_bottom:54.30, temp_top:54.15, 
+
+temp_bottom:54.30, temp_top:54.15, 
+
+temp_bottom:54.30, temp_top:54.00, 
+
+temp_bottom:54.30, temp_top:54.15, 
+
+temp_bottom:54.30, temp_top:54.15, 
+
+temp_bottom:54.30, temp_top:54.15, 
+
+temp_bottom:54.30, temp_top:54.15, 
+
+temp_bottom:54.30, temp_top:54.15, 
+
+temp_bottom:54.30, temp_top:54.15, 
+
+temp_bottom:54.30, temp_top:54.30, 
+
+temp_bottom:54.44, temp_top:54.15, 
+
+temp_bottom:54.30, temp_top:54.30, 
+
+temp_bottom:54.44, temp_top:54.30, 
+
+temp_bottom:54.44, temp_top:54.30, 
+
+temp_bottom:54.44, temp_top:54.30, 
+
+temp_bottom:54.44, temp_top:54.30, 
+
+temp_bottom:54.44, temp_top:54.30, 
+
+temp_bottom:54.44, temp_top:54.30, 
+
+temp_bottom:54.44, temp_top:54.30, 
+
+temp_bottom:54.44, temp_top:54.30, 
+
+temp_bottom:54.44, temp_top:54.44, 
+
+temp_bottom:54.44, temp_top:54.30, 
+
+temp_bottom:54.44, temp_top:54.30, 
+
+temp_bottom:54.44, temp_top:54.30, 
+
+temp_bottom:54.44, temp_top:54.30, 
+
+temp_bottom:54.44, temp_top:54.44, 
+
+temp_bottom:54.44, temp_top:54.44, 
+
+temp_bottom:54.59, temp_top:54.30, 
+
+temp_bottom:54.59, temp_top:54.44, 
+
+temp_bottom:54.59, temp_top:54.44, 
+
+temp_bottom:54.59, temp_top:54.44, 
+
+temp_bottom:54.59, temp_top:54.44, 
+
+temp_bottom:54.59, temp_top:54.44, 
+
+temp_bottom:54.59, temp_top:54.44, 
+
+temp_bottom:54.59, temp_top:54.44, 
+
+temp_bottom:54.59, temp_top:54.44, 
+
+temp_bottom:54.59, temp_top:54.44, 
+
+temp_bottom:54.59, temp_top:54.44, 
+
+temp_bottom:54.59, temp_top:54.44, 
+
+temp_bottom:54.74, temp_top:54.59, 
+
+temp_bottom:54.59, temp_top:54.59, 
+
+temp_bottom:54.74, temp_top:54.59, 
+
+temp_bottom:54.74, temp_top:54.59, 
+
+temp_bottom:54.74, temp_top:54.59, 
+
+temp_bottom:54.74, temp_top:54.59, 
+
+temp_bottom:54.74, temp_top:54.74, 
+
+temp_bottom:54.74, temp_top:54.74, 
+
+temp_bottom:54.74, temp_top:54.74, 
+
+temp_bottom:54.74, temp_top:54.74, 
+
+temp_bottom:54.74, temp_top:54.74, 
+
+temp_bottom:54.74, temp_top:54.74, 
+
+temp_bottom:54.74, temp_top:54.89, 
+
+temp_bottom:54.74, temp_top:54.89, 
+
+temp_bottom:54.74, temp_top:54.89, 
+
+temp_bottom:54.89, temp_top:54.89, 
+
+temp_bottom:54.89, temp_top:55.04, 
+
+temp_bottom:54.89, temp_top:55.04, 
+
+temp_bottom:54.89, temp_top:55.04, 
+
+temp_bottom:54.89, temp_top:55.04, 
+
+temp_bottom:54.89, temp_top:55.04, 
+
+temp_bottom:54.89, temp_top:55.04, 
+
+temp_bottom:54.89, temp_top:55.04, 
+
+temp_bottom:54.89, temp_top:55.19, 
+
+temp_bottom:54.89, temp_top:55.04, 
+
+temp_bottom:54.89, temp_top:55.19, 
+
+temp_bottom:54.89, temp_top:55.19, 
+
+temp_bottom:54.89, temp_top:55.19, 
+
+temp_bottom:54.89, temp_top:55.19, 
+
+temp_bottom:54.89, temp_top:55.19, 
+
+temp_bottom:54.89, temp_top:55.19, 
+
+temp_bottom:55.04, temp_top:55.34, 
+
+temp_bottom:55.04, temp_top:55.34, 
+
+temp_bottom:55.04, temp_top:55.34, 
+
+temp_bottom:55.04, temp_top:55.34, 
+
+temp_bottom:55.04, temp_top:55.34, 
+
+temp_bottom:55.04, temp_top:55.34, 
+
+temp_bottom:55.04, temp_top:55.34, 
+
+temp_bottom:55.04, temp_top:55.50, 
+
+temp_bottom:55.04, temp_top:55.50, 
+
+temp_bottom:55.04, temp_top:55.50, 
+
+temp_bottom:55.04, temp_top:55.50, 
+
+temp_bottom:55.04, temp_top:55.50, 
+
+temp_bottom:55.04, temp_top:55.50, 
+
+temp_bottom:55.04, temp_top:55.50, 
+
+temp_bottom:55.19, temp_top:55.50, 
+
+temp_bottom:55.19, temp_top:55.50, 
+
+temp_bottom:55.19, temp_top:55.50, 
+
+temp_bottom:55.19, temp_top:55.50, 
+
+temp_bottom:55.19, temp_top:55.50, 
+
+temp_bottom:55.19, temp_top:55.34, 
+
+temp_bottom:55.19, temp_top:55.50, 
+
+temp_bottom:55.19, temp_top:55.50, 
+
+temp_bottom:55.19, temp_top:55.50, 
+
+temp_bottom:55.19, temp_top:55.50, 
+
+temp_bottom:55.19, temp_top:55.50, 
+
+temp_bottom:55.19, temp_top:55.50, 
+
+temp_bottom:55.19, temp_top:55.50, 
+
+temp_bottom:55.34, temp_top:55.50, 
+
+temp_bottom:55.34, temp_top:55.50, 
+
+temp_bottom:55.34, temp_top:55.50, 
+
+temp_bottom:55.19, temp_top:55.50, 
+
+temp_bottom:55.34, temp_top:55.34, 
+
+temp_bottom:55.34, temp_top:55.50, 
+
+temp_bottom:55.34, temp_top:55.34, 
+
+temp_bottom:55.34, temp_top:55.34, 
+
+temp_bottom:55.34, temp_top:55.50, 
+
+temp_bottom:55.34, temp_top:55.50, 
+
+temp_bottom:55.34, temp_top:55.50, 
+
+temp_bottom:55.34, temp_top:55.50, 
+
+temp_bottom:55.34, temp_top:55.50, 
+
+temp_bottom:55.34, temp_top:55.65, 
+
+temp_bottom:55.34, temp_top:55.65, 
+
+temp_bottom:55.34, temp_top:55.65, 
+
+temp_bottom:55.50, temp_top:55.65, 
+
+temp_bottom:55.34, temp_top:55.65, 
+
+temp_bottom:55.50, temp_top:55.65, 
+
+temp_bottom:55.50, temp_top:55.65, 
+
+temp_bottom:55.50, temp_top:55.80, 
+
+temp_bottom:55.34, temp_top:55.65, 
+
+temp_bottom:55.50, temp_top:55.80, 
+
+temp_bottom:55.50, temp_top:55.80, 
+
+temp_bottom:55.50, temp_top:55.80, 
+
+temp_bottom:55.50, temp_top:55.80, 
+
+temp_bottom:55.50, temp_top:55.80, 
+
+temp_bottom:55.50, temp_top:55.96, 
+
+temp_bottom:55.50, temp_top:55.96, 
+
+temp_bottom:55.50, temp_top:55.96, 
+
+temp_bottom:55.50, temp_top:55.96, 
+
+temp_bottom:55.65, temp_top:55.96, 
+
+temp_bottom:55.50, temp_top:55.96, 
+
+temp_bottom:55.65, temp_top:55.96, 
+
+temp_bottom:55.65, temp_top:55.96, 
+
+temp_bottom:55.65, temp_top:55.96, 
+
+temp_bottom:55.65, temp_top:55.96, 
+
+temp_bottom:55.65, temp_top:55.80, 
+
+temp_bottom:55.65, temp_top:55.80, 
+
+temp_bottom:55.65, temp_top:55.80, 
+
+temp_bottom:55.65, temp_top:55.80, 
+
+temp_bottom:55.65, temp_top:55.65, 
+
+temp_bottom:55.65, temp_top:55.65, 
+
+temp_bottom:55.65, temp_top:55.65, 
+
+temp_bottom:55.65, temp_top:55.65, 
+
+temp_bottom:55.65, temp_top:55.65, 
+
+temp_bottom:55.65, temp_top:55.65, 
+
+temp_bottom:55.65, temp_top:55.65, 
+
+temp_bottom:55.65, temp_top:55.65, 
+
+temp_bottom:55.65, temp_top:55.50, 
+
+temp_bottom:55.80, temp_top:55.50, 
+
+temp_bottom:55.80, temp_top:55.50, 
+
+temp_bottom:55.80, temp_top:55.50, 
+
+temp_bottom:55.80, temp_top:55.34, 
+
+temp_bottom:55.80, temp_top:55.34, 
+
+temp_bottom:55.80, temp_top:55.34, 
+
+temp_bottom:55.80, temp_top:55.34, 
+
+temp_bottom:55.80, temp_top:55.34, 
+
+temp_bottom:55.80, temp_top:55.34, 
+
+temp_bottom:55.80, temp_top:55.34, 
+
+temp_bottom:55.80, temp_top:55.19, 
+
+temp_bottom:55.80, temp_top:55.34, 
+
+temp_bottom:55.80, temp_top:55.34, 
+
+temp_bottom:55.80, temp_top:55.34, 
+
+temp_bottom:55.80, temp_top:55.34, 
+
+temp_bottom:55.96, temp_top:55.34, 
+
+temp_bottom:55.80, temp_top:55.34, 
+
+temp_bottom:55.80, temp_top:55.34, 
+
+temp_bottom:55.96, temp_top:55.34, 
+
+temp_bottom:55.80, temp_top:55.34, 
+
+temp_bottom:55.96, temp_top:55.34, 
+
+temp_bottom:55.96, temp_top:55.34, 
+
+temp_bottom:55.96, temp_top:55.50, 
+
+temp_bottom:55.96, temp_top:55.50, 
+
+temp_bottom:55.96, temp_top:55.50, 
+
+temp_bottom:55.96, temp_top:55.65, 
+
+temp_bottom:55.96, temp_top:55.65, 
+
+temp_bottom:55.96, temp_top:55.65, 
+
+temp_bottom:55.96, temp_top:55.65, 
+
+temp_bottom:55.96, temp_top:55.80, 
+
+temp_bottom:55.96, temp_top:55.80, 
+
+temp_bottom:55.96, temp_top:55.80, 
+
+temp_bottom:55.96, temp_top:55.80, 
+
+temp_bottom:55.96, temp_top:55.96, 
+
+temp_bottom:56.11, temp_top:55.96, 
+
+temp_bottom:56.11, temp_top:55.96, 
+
+temp_bottom:56.11, temp_top:56.11, 
+
+temp_bottom:56.11, temp_top:56.11, 
+
+temp_bottom:56.11, temp_top:56.11, 
+
+temp_bottom:56.11, temp_top:56.11, 
+
+temp_bottom:56.11, temp_top:56.11, 
+
+temp_bottom:56.11, temp_top:56.27, 
+
+temp_bottom:56.11, temp_top:56.27, 
+
+temp_bottom:56.11, temp_top:56.27, 
+
+temp_bottom:56.11, temp_top:56.27, 
+
+temp_bottom:56.11, temp_top:56.27, 
+
+temp_bottom:56.11, temp_top:56.27, 
+
+temp_bottom:56.11, temp_top:56.27, 
+
+temp_bottom:56.27, temp_top:56.27, 
+
+temp_bottom:56.11, temp_top:56.42, 
+
+temp_bottom:56.11, temp_top:56.27, 
+
+temp_bottom:56.11, temp_top:56.42, 
+
+temp_bottom:56.11, temp_top:56.42, 
+
+temp_bottom:56.27, temp_top:56.27, 
+
+temp_bottom:56.27, temp_top:56.42, 
+
+temp_bottom:56.27, temp_top:56.27, 
+
+temp_bottom:56.27, temp_top:56.42, 
+
+temp_bottom:56.27, temp_top:56.42, 
+
+temp_bottom:56.27, temp_top:56.42, 
+
+temp_bottom:56.27, temp_top:56.42, 
+
+temp_bottom:56.27, temp_top:56.42, 
+
+temp_bottom:56.27, temp_top:56.42, 
+
+temp_bottom:56.27, temp_top:56.42, 
+
+temp_bottom:56.27, temp_top:56.42, 
+
+temp_bottom:56.27, temp_top:56.42, 
+
+temp_bottom:56.27, temp_top:56.42, 
+
+temp_bottom:56.27, temp_top:56.42, 
+
+temp_bottom:56.27, temp_top:56.42, 
+
+temp_bottom:56.27, temp_top:56.42, 
+
+temp_bottom:56.42, temp_top:56.42, 
+
+temp_bottom:56.27, temp_top:56.42, 
+
+temp_bottom:56.42, temp_top:56.42, 
+
+temp_bottom:56.42, temp_top:56.42, 
+
+temp_bottom:56.42, temp_top:56.58, 
+
+temp_bottom:56.42, temp_top:56.42, 
+
+temp_bottom:56.42, temp_top:56.42, 
+
+temp_bottom:56.42, temp_top:56.42, 
+
+temp_bottom:56.42, temp_top:56.42, 
+
+temp_bottom:56.42, temp_top:56.42, 
+
+temp_bottom:56.42, temp_top:56.42, 
+
+temp_bottom:56.42, temp_top:56.27, 
+
+temp_bottom:56.42, temp_top:56.27, 
+
+temp_bottom:56.42, temp_top:56.27, 
+
+temp_bottom:56.42, temp_top:56.27, 
+
+temp_bottom:56.42, temp_top:56.27, 
+
+temp_bottom:56.42, temp_top:56.27, 
+
+temp_bottom:56.42, temp_top:56.27, 
+
+temp_bottom:56.42, temp_top:56.27, 
+
+temp_bottom:56.58, temp_top:56.27, 
+
+temp_bottom:56.58, temp_top:56.27, 
+
+temp_bottom:56.42, temp_top:56.42, 
+
+temp_bottom:56.58, temp_top:56.42, 
+
+temp_bottom:56.58, temp_top:56.42, 
+
+temp_bottom:56.42, temp_top:56.42, 
+
+temp_bottom:56.58, temp_top:56.42, 
+
+temp_bottom:56.58, temp_top:56.42, 
+
+temp_bottom:56.58, temp_top:56.58, 
+
+temp_bottom:56.58, temp_top:56.42, 
+
+temp_bottom:56.58, temp_top:56.58, 
+
+temp_bottom:56.58, temp_top:56.58, 
+
+temp_bottom:56.58, temp_top:56.58, 
+
+temp_bottom:56.58, temp_top:56.58, 
+
+temp_bottom:56.58, temp_top:56.58, 
+
+temp_bottom:56.58, temp_top:56.73, 
+
+temp_bottom:56.58, temp_top:56.73, 
+
+temp_bottom:56.58, temp_top:56.73, 
+
+temp_bottom:56.58, temp_top:56.73, 
+
+temp_bottom:56.73, temp_top:56.73, 
+
+temp_bottom:56.58, temp_top:56.73, 
+
+temp_bottom:56.73, temp_top:56.73, 
+
+temp_bottom:56.73, temp_top:56.73, 
+
+temp_bottom:56.73, temp_top:56.73, 
+
+temp_bottom:56.73, temp_top:56.89, 
+
+temp_bottom:56.73, temp_top:56.89, 
+
+temp_bottom:56.73, temp_top:56.89, 
+
+temp_bottom:56.73, temp_top:56.89, 
+
+temp_bottom:56.73, temp_top:56.89, 
+
+temp_bottom:56.73, temp_top:56.89, 
+
+temp_bottom:56.73, temp_top:56.89, 
+
+temp_bottom:56.73, temp_top:57.05, 
+
+temp_bottom:56.73, temp_top:57.05, 
+
+temp_bottom:56.73, temp_top:57.05, 
+
+temp_bottom:56.73, temp_top:57.05, 
+
+temp_bottom:56.73, temp_top:57.05, 
+
+temp_bottom:56.73, temp_top:57.05, 
+
+temp_bottom:56.73, temp_top:57.05, 
+
+temp_bottom:56.89, temp_top:57.05, 
+
+temp_bottom:56.89, temp_top:57.05, 
+
+temp_bottom:56.89, temp_top:57.05, 
+
+temp_bottom:56.73, temp_top:57.05, 
+
+temp_bottom:56.89, temp_top:57.05, 
+
+temp_bottom:56.89, temp_top:57.05, 
+
+temp_bottom:56.89, temp_top:57.05, 
+
+temp_bottom:56.89, temp_top:57.05, 
+
+temp_bottom:56.89, temp_top:57.05, 
+
+temp_bottom:56.89, temp_top:57.05, 
+
+temp_bottom:56.89, temp_top:57.05, 
+
+temp_bottom:56.89, temp_top:57.05, 
+
+temp_bottom:56.89, temp_top:57.05, 
+
+temp_bottom:56.89, temp_top:57.05, 
+
+temp_bottom:56.89, temp_top:57.05, 
+
+temp_bottom:56.89, temp_top:57.21, 
+
+temp_bottom:56.89, temp_top:57.05, 
+
+temp_bottom:57.05, temp_top:57.05, 
+
+temp_bottom:57.05, temp_top:57.05, 
+
+temp_bottom:56.89, temp_top:57.05, 
+
+temp_bottom:57.05, temp_top:57.05, 
+
+temp_bottom:57.05, temp_top:57.05, 
+
+temp_bottom:57.05, temp_top:57.05, 
+
+temp_bottom:57.05, temp_top:57.05, 
+
+temp_bottom:57.05, temp_top:57.05, 
+
+temp_bottom:57.05, temp_top:56.89, 
+
+temp_bottom:57.05, temp_top:57.05, 
+
+temp_bottom:57.05, temp_top:56.89, 
+
+temp_bottom:57.05, temp_top:56.89, 
+
+temp_bottom:57.05, temp_top:56.89, 
+
+temp_bottom:57.05, temp_top:56.89, 
+
+temp_bottom:57.05, temp_top:56.89, 
+
+temp_bottom:57.05, temp_top:56.89, 
+
+temp_bottom:57.05, temp_top:56.89, 
+
+temp_bottom:57.05, temp_top:56.89, 
+
+temp_bottom:57.05, temp_top:56.89, 
+
+temp_bottom:57.05, temp_top:56.89, 
+
+temp_bottom:57.21, temp_top:56.89, 
+
+temp_bottom:57.05, temp_top:56.89, 
+
+temp_bottom:57.05, temp_top:56.89, 
+
+temp_bottom:57.21, temp_top:56.89, 
+
+temp_bottom:57.21, temp_top:56.73, 
+
+temp_bottom:57.21, temp_top:56.89, 
+
+temp_bottom:57.21, temp_top:56.89, 
+
+temp_bottom:57.21, temp_top:56.89, 
+
+temp_bottom:57.21, temp_top:56.89, 
+
+temp_bottom:57.05, temp_top:56.89, 
+
+temp_bottom:57.21, temp_top:57.05, 
+
+temp_bottom:57.21, temp_top:57.05, 
+
+temp_bottom:57.21, temp_top:57.05, 
+
+temp_bottom:57.21, temp_top:57.05, 
+
+temp_bottom:57.21, temp_top:57.05, 
+
+temp_bottom:57.21, temp_top:57.05, 
+
+temp_bottom:57.21, temp_top:57.05, 
+
+temp_bottom:57.21, temp_top:57.05, 
+
+temp_bottom:57.21, temp_top:57.05, 
+
+temp_bottom:57.21, temp_top:57.21, 
+
+temp_bottom:57.21, temp_top:57.21, 
+
+temp_bottom:57.21, temp_top:57.21, 
+
+temp_bottom:57.21, temp_top:57.21, 
+
+temp_bottom:57.21, temp_top:57.21, 
+
+temp_bottom:57.21, temp_top:57.21, 
+
+temp_bottom:57.37, temp_top:57.21, 
+
+temp_bottom:57.37, temp_top:57.21, 
+
+temp_bottom:57.37, temp_top:57.21, 
+
+temp_bottom:57.37, temp_top:57.21, 
+
+temp_bottom:57.37, temp_top:57.21, 
+
+temp_bottom:57.37, temp_top:57.21, 
+
+temp_bottom:57.37, temp_top:57.21, 
+
+temp_bottom:57.37, temp_top:57.21, 
+
+temp_bottom:57.37, temp_top:57.21, 
+
+temp_bottom:57.37, temp_top:57.21, 
+
+temp_bottom:57.37, temp_top:57.37, 
+
+temp_bottom:57.37, temp_top:57.21, 
+
+temp_bottom:57.37, temp_top:57.37, 
+
+temp_bottom:57.37, temp_top:57.37, 
+
+temp_bottom:57.37, temp_top:57.37, 
+
+temp_bottom:57.37, temp_top:57.37, 
+
+temp_bottom:57.37, temp_top:57.21, 
+
+temp_bottom:57.37, temp_top:57.37, 
+
+temp_bottom:57.37, temp_top:57.21, 
+
+temp_bottom:57.37, temp_top:57.21, 
+
+temp_bottom:57.37, temp_top:57.21, 
+
+temp_bottom:57.37, temp_top:57.21, 
+
+temp_bottom:57.37, temp_top:57.21, 
+
+temp_bottom:57.37, temp_top:57.21, 
+
+temp_bottom:57.53, temp_top:57.21, 
+
+temp_bottom:57.37, temp_top:57.21, 
+
+temp_bottom:57.53, temp_top:57.21, 
+
+temp_bottom:57.53, temp_top:57.21, 
+
+temp_bottom:57.53, temp_top:57.21, 
+
+temp_bottom:57.53, temp_top:57.21, 
+
+temp_bottom:57.53, temp_top:57.21, 
+
+temp_bottom:57.53, temp_top:57.37, 
+
+temp_bottom:57.53, temp_top:57.37, 
+
+temp_bottom:57.53, temp_top:57.37, 
+
+temp_bottom:57.53, temp_top:57.37, 
+
+temp_bottom:57.53, temp_top:57.37, 
+
+temp_bottom:57.53, temp_top:57.37, 
+
+temp_bottom:57.53, temp_top:57.37, 
+
+temp_bottom:57.53, temp_top:57.37, 
+
+temp_bottom:57.53, temp_top:57.21, 
+
+temp_bottom:57.69, temp_top:57.37, 
+
+temp_bottom:57.53, temp_top:57.37, 
+
+temp_bottom:57.53, temp_top:57.37, 
+
+temp_bottom:57.53, temp_top:57.37, 
+
+temp_bottom:57.53, temp_top:57.37, 
+
+temp_bottom:57.53, temp_top:57.37, 
+
+temp_bottom:57.69, temp_top:57.37, 
+
+temp_bottom:57.53, temp_top:57.37, 
+
+temp_bottom:57.69, temp_top:57.21, 
+
+temp_bottom:57.69, temp_top:57.37, 
+
+temp_bottom:57.69, temp_top:57.37, 
+
+temp_bottom:57.69, temp_top:57.37, 
+
+temp_bottom:57.69, temp_top:57.37, 
+
+temp_bottom:57.69, temp_top:57.37, 
+
+temp_bottom:57.69, temp_top:57.37, 
+
+temp_bottom:57.69, temp_top:57.53, 
+
+temp_bottom:57.69, temp_top:57.53, 
+
+temp_bottom:57.69, temp_top:57.53, 
+
+temp_bottom:57.69, temp_top:57.53, 
+
+temp_bottom:57.69, temp_top:57.53, 
+
+temp_bottom:57.69, temp_top:57.53, 
+
+temp_bottom:57.69, temp_top:57.53, 
+
+temp_bottom:57.69, temp_top:57.53, 
+
+temp_bottom:57.69, temp_top:57.53, 
+
+temp_bottom:57.69, temp_top:57.69, 
+
+temp_bottom:57.69, temp_top:57.69, 
+
+temp_bottom:57.69, temp_top:57.69, 
+
+temp_bottom:57.69, temp_top:57.69, 
+
+temp_bottom:57.85, temp_top:57.69, 
+
+temp_bottom:57.69, temp_top:57.69, 
+
+temp_bottom:57.85, temp_top:57.69, 
+
+temp_bottom:57.85, temp_top:57.69, 
+
+temp_bottom:57.85, temp_top:57.69, 
+
+temp_bottom:57.85, temp_top:57.69, 
+
+temp_bottom:57.85, temp_top:57.69, 
+
+temp_bottom:57.85, temp_top:57.69, 
+
+temp_bottom:57.85, temp_top:57.69, 
+
+temp_bottom:57.85, temp_top:57.69, 
+
+temp_bottom:57.85, temp_top:57.69, 
+
+temp_bottom:57.85, temp_top:57.69, 
+
+temp_bottom:57.85, temp_top:57.85, 
+
+temp_bottom:57.85, temp_top:57.85, 
+
+temp_bottom:57.85, temp_top:57.85, 
+
+temp_bottom:57.85, temp_top:57.85, 
+
+temp_bottom:57.85, temp_top:57.85, 
+
+temp_bottom:57.85, temp_top:57.85, 
+
+temp_bottom:57.85, temp_top:58.02, 
+
+temp_bottom:57.85, temp_top:58.02, 
+
+temp_bottom:57.85, temp_top:58.02, 
+
+temp_bottom:57.85, temp_top:58.02, 
+
+temp_bottom:57.85, temp_top:58.02, 
+
+temp_bottom:58.02, temp_top:58.02, 
+
+temp_bottom:58.02, temp_top:58.02, 
+
+temp_bottom:57.85, temp_top:58.02, 
+
+temp_bottom:58.02, temp_top:58.18, 
+
+temp_bottom:58.02, temp_top:58.18, 
+
+temp_bottom:58.02, temp_top:58.18, 
+
+temp_bottom:58.02, temp_top:58.02, 
+
+temp_bottom:58.02, temp_top:58.02, 
+
+temp_bottom:58.02, temp_top:58.02, 
+
+temp_bottom:58.02, temp_top:58.02, 
+
+temp_bottom:58.02, temp_top:58.02, 
+
+temp_bottom:58.02, temp_top:58.02, 
+
+temp_bottom:58.02, temp_top:58.02, 
+
+temp_bottom:58.02, temp_top:58.02, 
+
+temp_bottom:58.02, temp_top:58.02, 
+
+temp_bottom:58.02, temp_top:58.02, 
+
+temp_bottom:58.02, temp_top:58.02, 
+
+temp_bottom:58.02, temp_top:58.02, 
+
+temp_bottom:58.02, temp_top:58.02, 
+
+temp_bottom:58.02, temp_top:58.02, 
+
+temp_bottom:58.18, temp_top:57.85, 
+
+temp_bottom:58.02, temp_top:57.85, 
+
+temp_bottom:58.02, temp_top:57.85, 
+
+temp_bottom:58.02, temp_top:57.85, 
+
+temp_bottom:58.02, temp_top:57.85, 
+
+temp_bottom:58.18, temp_top:57.85, 
+
+temp_bottom:58.02, temp_top:57.85, 
+
+temp_bottom:58.18, temp_top:57.85, 
+
+temp_bottom:58.18, temp_top:57.69, 
+
+temp_bottom:58.18, temp_top:57.69, 
+
+temp_bottom:58.18, temp_top:57.69, 
+
+temp_bottom:58.18, temp_top:57.85, 
+
+temp_bottom:58.18, temp_top:57.85, 
+
+temp_bottom:58.18, temp_top:57.85, 
+
+temp_bottom:58.18, temp_top:57.85, 
+
+temp_bottom:58.18, temp_top:57.85, 
+
+temp_bottom:58.18, temp_top:57.85, 
+
+temp_bottom:58.18, temp_top:57.85, 
+
+temp_bottom:58.18, temp_top:57.85, 
+
+temp_bottom:58.18, temp_top:57.85, 
+
+temp_bottom:58.18, temp_top:57.85, 
+
+temp_bottom:58.18, temp_top:58.02, 
+
+temp_bottom:58.18, temp_top:58.02, 
+
+temp_bottom:58.18, temp_top:58.02, 
+
+temp_bottom:58.18, temp_top:58.02, 
+
+temp_bottom:58.18, temp_top:58.02, 
+
+temp_bottom:58.18, temp_top:58.02, 
+
+temp_bottom:58.18, temp_top:58.18, 
+
+temp_bottom:58.18, temp_top:58.02, 
+
+temp_bottom:58.34, temp_top:58.18, 
+
+temp_bottom:58.34, temp_top:58.02, 
+
+temp_bottom:58.34, temp_top:58.18, 
+
+temp_bottom:58.34, temp_top:58.02, 
+
+temp_bottom:58.34, temp_top:58.18, 
+
+temp_bottom:58.34, temp_top:58.18, 
+
+temp_bottom:58.34, temp_top:58.02, 
+
+temp_bottom:58.34, temp_top:58.18, 
+
+temp_bottom:58.34, temp_top:58.18, 
+
+temp_bottom:58.34, temp_top:58.18, 
+
+temp_bottom:58.34, temp_top:58.18, 
+
+temp_bottom:58.34, temp_top:58.18, 
+
+temp_bottom:58.34, temp_top:58.18, 
+
+temp_bottom:58.34, temp_top:58.18, 
+
+temp_bottom:58.34, temp_top:58.34, 
+
+temp_bottom:58.34, temp_top:58.34, 
+
+temp_bottom:58.34, temp_top:58.34, 
+
+temp_bottom:58.34, temp_top:58.34, 
+
+temp_bottom:58.34, temp_top:58.34, 
+
+temp_bottom:58.34, temp_top:58.34, 
+
+temp_bottom:58.34, temp_top:58.34, 
+
+temp_bottom:58.34, temp_top:58.51, 
+
+temp_bottom:58.34, temp_top:58.51, 
+
+temp_bottom:58.51, temp_top:58.51, 
+
+temp_bottom:58.51, temp_top:58.34, 
+
+temp_bottom:58.34, temp_top:58.51, 
+
+temp_bottom:58.51, temp_top:58.51, 
+
+temp_bottom:58.51, temp_top:58.67, 
+
+temp_bottom:58.51, temp_top:58.51, 
+
+temp_bottom:58.51, temp_top:58.67, 
+
+temp_bottom:58.51, temp_top:58.67, 
+
+temp_bottom:58.51, temp_top:58.67, 
+
+temp_bottom:58.51, temp_top:58.67, 
+
+temp_bottom:58.34, temp_top:58.67, 
+
+temp_bottom:58.51, temp_top:58.67, 
+
+temp_bottom:58.51, temp_top:58.67, 
+
+temp_bottom:58.51, temp_top:58.67, 
+
+temp_bottom:58.51, temp_top:58.84, 
+
+temp_bottom:58.51, temp_top:58.84, 
+
+temp_bottom:58.51, temp_top:58.84, 
+
+temp_bottom:58.51, temp_top:58.84, 
+
+temp_bottom:58.51, temp_top:58.84, 
+
+temp_bottom:58.51, temp_top:58.84, 
+
+temp_bottom:58.51, temp_top:58.84, 
+
+temp_bottom:58.51, temp_top:58.84, 
+
+temp_bottom:58.51, temp_top:58.84, 
+
+temp_bottom:58.67, temp_top:58.84, 
+
+temp_bottom:58.67, temp_top:58.84, 
+
+temp_bottom:58.67, temp_top:58.67, 
+
+temp_bottom:58.67, temp_top:58.67, 
+
+temp_bottom:58.67, temp_top:58.84, 
+
+temp_bottom:58.67, temp_top:58.67, 
+
+temp_bottom:58.67, temp_top:58.67, 
+
+temp_bottom:58.67, temp_top:58.67, 
+
+temp_bottom:58.67, temp_top:58.67, 
+
+temp_bottom:58.67, temp_top:58.67, 
+
+temp_bottom:58.51, temp_top:58.67, 
+
+temp_bottom:58.67, temp_top:58.67, 
+
+temp_bottom:58.67, temp_top:58.67, 
+
+temp_bottom:58.67, temp_top:58.84, 
+
+temp_bottom:58.67, temp_top:58.67, 
+
+temp_bottom:58.67, temp_top:58.84, 
+
+temp_bottom:58.67, temp_top:58.84, 
+
+temp_bottom:58.67, temp_top:58.84, 
+
+temp_bottom:58.67, temp_top:58.67, 
+
+temp_bottom:58.67, temp_top:58.67, 
+
+temp_bottom:58.84, temp_top:58.67, 
+
+temp_bottom:58.67, temp_top:58.84, 
+
+temp_bottom:58.84, temp_top:58.67, 
+
+temp_bottom:58.67, temp_top:58.67, 
+
+temp_bottom:58.84, temp_top:58.84, 
+
+temp_bottom:58.84, temp_top:58.84, 
+
+temp_bottom:58.84, temp_top:58.84, 
+
+temp_bottom:58.67, temp_top:58.84, 
+
+temp_bottom:58.84, temp_top:58.84, 
+
+temp_bottom:58.84, temp_top:58.84, 
+
+temp_bottom:58.84, temp_top:58.84, 
+
+temp_bottom:58.84, temp_top:58.84, 
+
+temp_bottom:58.84, temp_top:58.67, 
+
+temp_bottom:58.84, temp_top:58.67, 
+
+temp_bottom:58.84, temp_top:58.67, 
+
+temp_bottom:58.84, temp_top:58.67, 
+
+temp_bottom:58.84, temp_top:58.84, 
+
+temp_bottom:58.84, temp_top:58.84, 
+
+temp_bottom:58.84, temp_top:58.84, 
+
+temp_bottom:58.84, temp_top:58.84, 
+
+temp_bottom:58.84, temp_top:58.84, 
+
+temp_bottom:58.84, temp_top:58.84, 
+
+temp_bottom:58.84, temp_top:58.84, 
+
+temp_bottom:58.84, temp_top:58.84, 
+
+temp_bottom:58.84, temp_top:59.01, 
+
+temp_bottom:58.84, temp_top:59.01, 
+
+temp_bottom:58.84, temp_top:59.01, 
+
+temp_bottom:58.84, temp_top:59.01, 
+
+temp_bottom:58.84, temp_top:59.01, 
+
+temp_bottom:58.84, temp_top:59.01, 
+
+temp_bottom:59.01, temp_top:59.01, 
+
+temp_bottom:58.84, temp_top:59.17, 
+
+temp_bottom:59.01, temp_top:59.17, 
+
+temp_bottom:59.01, temp_top:59.17, 
+
+temp_bottom:58.84, temp_top:59.17, 
+
+temp_bottom:59.01, temp_top:59.17, 
+
+temp_bottom:58.84, temp_top:59.34, 
+
+temp_bottom:59.01, temp_top:59.17, 
+
+temp_bottom:59.01, temp_top:59.34, 
+
+temp_bottom:59.01, temp_top:59.34, 
+
+temp_bottom:59.01, temp_top:59.34, 
+
+temp_bottom:59.01, temp_top:59.34, 
+
+temp_bottom:59.01, temp_top:59.34, 
+
+temp_bottom:59.01, temp_top:59.34, 
+
+temp_bottom:59.01, temp_top:59.34, 
+
+temp_bottom:59.01, temp_top:59.34, 
+
+temp_bottom:59.01, temp_top:59.34, 
+
+temp_bottom:59.01, temp_top:59.34, 
+
+temp_bottom:59.01, temp_top:59.34, 
+
+temp_bottom:59.01, temp_top:59.34, 
+
+temp_bottom:59.01, temp_top:59.34, 
+
+temp_bottom:59.01, temp_top:59.34, 
+
+temp_bottom:59.01, temp_top:59.34, 
+
+temp_bottom:59.01, temp_top:59.34, 
+
+temp_bottom:59.01, temp_top:59.17, 
+
+temp_bottom:59.01, temp_top:59.34, 
+
+temp_bottom:59.01, temp_top:59.17, 
+
+temp_bottom:59.01, temp_top:59.17, 
+
+temp_bottom:59.01, temp_top:59.17, 
+
+temp_bottom:59.01, temp_top:59.01, 
+
+temp_bottom:59.17, temp_top:59.01, 
+
+temp_bottom:59.01, temp_top:59.01, 
+
+temp_bottom:59.01, temp_top:59.01, 
+
+temp_bottom:59.17, temp_top:58.84, 
+
+temp_bottom:59.17, temp_top:58.84, 
+
+temp_bottom:59.17, temp_top:58.84, 
+
+temp_bottom:59.17, temp_top:58.84, 
+
+temp_bottom:59.17, temp_top:58.84, 
+
+temp_bottom:59.17, temp_top:58.67, 
+
+temp_bottom:59.17, temp_top:58.67, 
+
+temp_bottom:59.17, temp_top:58.67, 
+
+temp_bottom:59.17, temp_top:58.67, 
+
+temp_bottom:59.17, temp_top:58.67, 
+
+temp_bottom:59.17, temp_top:58.67, 
+
+temp_bottom:59.17, temp_top:58.67, 
+
+temp_bottom:59.17, temp_top:58.67, 
+
+temp_bottom:59.17, temp_top:58.67, 
+
+temp_bottom:59.17, temp_top:58.84, 
+
+temp_bottom:59.17, temp_top:58.84, 
+
+temp_bottom:59.17, temp_top:58.67, 
+
+temp_bottom:59.17, temp_top:58.84, 
+
+temp_bottom:59.17, temp_top:58.84, 
+
+temp_bottom:59.17, temp_top:58.67, 
+
+temp_bottom:59.17, temp_top:58.84, 
+
+temp_bottom:59.17, temp_top:58.84, 
+
+temp_bottom:59.17, temp_top:58.84, 
+
+temp_bottom:59.17, temp_top:58.84, 
+
+temp_bottom:59.17, temp_top:58.84, 
+
+temp_bottom:59.17, temp_top:58.67, 
+
+temp_bottom:59.17, temp_top:58.84, 
+
+temp_bottom:59.17, temp_top:58.84, 
+
+temp_bottom:59.34, temp_top:58.67, 
+
+temp_bottom:59.17, temp_top:58.67, 
+
+temp_bottom:59.17, temp_top:58.67, 
+
+temp_bottom:59.17, temp_top:58.67, 
+
+temp_bottom:59.17, temp_top:58.67, 
+
+temp_bottom:59.34, temp_top:58.67, 
+
+temp_bottom:59.34, temp_top:58.67, 
+
+temp_bottom:59.34, temp_top:58.67, 
+
+temp_bottom:59.34, temp_top:58.67, 
+
+temp_bottom:59.34, temp_top:58.51, 
+
+temp_bottom:59.34, temp_top:58.67, 
+
+temp_bottom:59.17, temp_top:58.67, 
+
+temp_bottom:59.34, temp_top:58.67, 
+
+temp_bottom:59.34, temp_top:58.51, 
+
+temp_bottom:59.34, temp_top:58.51, 
+
+temp_bottom:59.34, temp_top:58.51, 
+
+temp_bottom:59.34, temp_top:58.51, 
+
+temp_bottom:59.34, temp_top:58.51, 
+
+temp_bottom:59.34, temp_top:58.51, 
+
+temp_bottom:59.34, temp_top:58.51, 
+
+temp_bottom:59.17, temp_top:58.51, 
+
+temp_bottom:59.34, temp_top:58.51, 
+
+temp_bottom:59.34, temp_top:58.51, 
+
+temp_bottom:59.34, temp_top:58.51, 
+
+temp_bottom:59.34, temp_top:58.51, 
+
+temp_bottom:59.34, temp_top:58.51, 
+
+temp_bottom:59.34, temp_top:58.51, 
+
+temp_bottom:59.34, temp_top:58.67, 
+
+temp_bottom:59.34, temp_top:58.67, 
+
+temp_bottom:59.34, temp_top:58.67, 
+
+temp_bottom:59.34, temp_top:58.67, 
+
+temp_bottom:59.34, temp_top:58.67, 
+
+temp_bottom:59.34, temp_top:58.67, 
+
+temp_bottom:59.34, temp_top:58.67, 
+
+temp_bottom:59.51, temp_top:58.67, 
+
+temp_bottom:59.34, temp_top:58.67, 
+
+temp_bottom:59.51, temp_top:58.67, 
+
+temp_bottom:59.34, temp_top:58.67, 
+
+temp_bottom:59.34, temp_top:58.67, 
+
+temp_bottom:59.34, temp_top:58.67, 
+
+temp_bottom:59.51, temp_top:58.67, 
+
+temp_bottom:59.34, temp_top:58.84, 
+
+temp_bottom:59.34, temp_top:58.84, 
+
+temp_bottom:59.51, temp_top:58.84, 
+
+temp_bottom:59.51, temp_top:58.84, 
+
+temp_bottom:59.51, temp_top:58.84, 
+
+temp_bottom:59.51, temp_top:59.01, 
+
+temp_bottom:59.51, temp_top:59.01, 
+
+temp_bottom:59.51, temp_top:59.01, 
+
+temp_bottom:59.51, temp_top:59.01, 
+
+temp_bottom:59.51, temp_top:59.01, 
+
+temp_bottom:59.51, temp_top:59.01, 
+
+temp_bottom:59.51, temp_top:59.17, 
+
+temp_bottom:59.51, temp_top:59.17, 
+
+temp_bottom:59.51, temp_top:59.17, 
+
+temp_bottom:59.51, temp_top:59.17, 
+
+temp_bottom:59.51, temp_top:59.17, 
+
+temp_bottom:59.51, temp_top:59.17, 
+
+temp_bottom:59.51, temp_top:59.17, 
+
+temp_bottom:59.51, temp_top:59.34, 
+
+temp_bottom:59.51, temp_top:59.17, 
+
+temp_bottom:59.51, temp_top:59.34, 
+
+temp_bottom:59.51, temp_top:59.34, 
+
+temp_bottom:59.51, temp_top:59.34, 
+
+temp_bottom:59.51, temp_top:59.34, 
+
+temp_bottom:59.51, temp_top:59.34, 
+
+temp_bottom:59.51, temp_top:59.34, 
+
+temp_bottom:59.51, temp_top:59.34, 
+
+temp_bottom:59.51, temp_top:59.34, 
+
+temp_bottom:59.51, temp_top:59.34, 
+
+temp_bottom:59.51, temp_top:59.34, 
+
+temp_bottom:59.51, temp_top:59.34, 
+
+temp_bottom:59.68, temp_top:59.34, 
+
+temp_bottom:59.68, temp_top:59.34, 
+
+temp_bottom:59.68, temp_top:59.34, 
+
+temp_bottom:59.68, temp_top:59.34, 
+
+temp_bottom:59.68, temp_top:59.51, 
+
+temp_bottom:59.68, temp_top:59.51, 
+
+temp_bottom:59.68, temp_top:59.51, 
+
+temp_bottom:59.68, temp_top:59.51, 
+
+temp_bottom:59.68, temp_top:59.51, 
+
+temp_bottom:59.68, temp_top:59.51, 
+
+temp_bottom:59.68, temp_top:59.51, 
+
+temp_bottom:59.68, temp_top:59.51, 
+
+temp_bottom:59.68, temp_top:59.68, 
+
+temp_bottom:59.68, temp_top:59.68, 
+
+temp_bottom:59.68, temp_top:59.68, 
+
+temp_bottom:59.68, temp_top:59.68, 
+
+temp_bottom:59.68, temp_top:59.68, 
+
+temp_bottom:59.68, temp_top:59.68, 
+
+temp_bottom:59.68, temp_top:59.68, 
+
+temp_bottom:59.68, temp_top:59.68, 
+
+temp_bottom:59.68, temp_top:59.68, 
+
+temp_bottom:59.68, temp_top:59.68, 
+
+temp_bottom:59.68, temp_top:59.68, 
+
+temp_bottom:59.68, temp_top:59.68, 
+
+temp_bottom:59.68, temp_top:59.68, 
+
+temp_bottom:59.68, temp_top:59.51, 
+
+temp_bottom:59.68, temp_top:59.51, 
+
+temp_bottom:59.68, temp_top:59.51, 
+
+temp_bottom:59.85, temp_top:59.51, 
+
+temp_bottom:59.68, temp_top:59.51, 
+
+temp_bottom:59.68, temp_top:59.34, 
+
+temp_bottom:59.85, temp_top:59.51, 
+
+temp_bottom:59.68, temp_top:59.51, 
+
+temp_bottom:59.68, temp_top:59.51, 
+
+temp_bottom:59.85, temp_top:59.34, 
+
+temp_bottom:59.85, temp_top:59.34, 
+
+temp_bottom:59.85, temp_top:59.51, 
+
+temp_bottom:59.68, temp_top:59.51, 
+
+temp_bottom:59.85, temp_top:59.51, 
+
+temp_bottom:59.85, temp_top:59.51, 
+
+temp_bottom:59.68, temp_top:59.51, 
+
+temp_bottom:59.85, temp_top:59.51, 
+
+temp_bottom:59.85, temp_top:59.51, 
+
+temp_bottom:59.85, temp_top:59.51, 
+
+temp_bottom:59.85, temp_top:59.51, 
+
+temp_bottom:59.85, temp_top:59.51, 
+
+temp_bottom:59.85, temp_top:59.51, 
+
+temp_bottom:59.85, temp_top:59.51, 
+
+temp_bottom:59.85, temp_top:59.51, 
+
+temp_bottom:59.85, temp_top:59.51, 
+
+temp_bottom:59.85, temp_top:59.51, 
+
+temp_bottom:59.85, temp_top:59.51, 
+
+temp_bottom:59.85, temp_top:59.51, 
+
+temp_bottom:59.85, temp_top:59.34, 
+
+temp_bottom:59.85, temp_top:59.51, 
+
+temp_bottom:59.85, temp_top:59.51, 
+
+temp_bottom:59.85, temp_top:59.51, 
+
+temp_bottom:59.85, temp_top:59.51, 
+
+temp_bottom:59.85, temp_top:59.51, 
+
+temp_bottom:59.85, temp_top:59.68, 
+
+temp_bottom:59.85, temp_top:59.68, 
+
+temp_bottom:59.85, temp_top:59.68, 
+
+temp_bottom:59.85, temp_top:59.51, 
+
+temp_bottom:59.85, temp_top:59.68, 
+
+temp_bottom:59.85, temp_top:59.68, 
+
+temp_bottom:59.85, temp_top:59.68, 
+
+temp_bottom:59.85, temp_top:59.68, 
+
+temp_bottom:59.85, temp_top:59.68, 
+
+temp_bottom:59.85, temp_top:59.68, 
+
+temp_bottom:59.85, temp_top:59.85, 
+
+temp_bottom:59.85, temp_top:59.85, 
+
+temp_bottom:60.03, temp_top:59.85, 
+
+temp_bottom:60.03, temp_top:59.85, 
+
+temp_bottom:60.03, temp_top:60.03, 
+
+temp_bottom:60.03, temp_top:60.03, 
+
+temp_bottom:60.03, temp_top:60.03, 
+
+temp_bottom:60.03, temp_top:60.03, 
+
+temp_bottom:60.03, temp_top:60.03, 
+
+temp_bottom:60.03, temp_top:60.03, 
+
+temp_bottom:60.03, temp_top:60.03, 
+
+temp_bottom:60.03, temp_top:60.03, 
+
+temp_bottom:60.03, temp_top:60.03, 
+
+temp_bottom:60.03, temp_top:60.03, 
+
+temp_bottom:60.03, temp_top:60.03, 
+
+temp_bottom:60.03, temp_top:60.03, 
+
+temp_bottom:60.03, temp_top:60.03, 
+
+temp_bottom:60.03, temp_top:60.20, 
+
+temp_bottom:60.03, temp_top:60.20, 
+
+temp_bottom:60.03, temp_top:60.20, 
+
+temp_bottom:60.03, temp_top:60.20, 
+
+temp_bottom:60.03, temp_top:60.20, 
+
+temp_bottom:60.03, temp_top:60.20, 
+
+temp_bottom:60.03, temp_top:60.20, 
+
+temp_bottom:60.03, temp_top:60.20, 
+
+temp_bottom:60.03, temp_top:60.20, 
+
+temp_bottom:60.03, temp_top:60.37, 
+
+temp_bottom:60.20, temp_top:60.20, 
+
+temp_bottom:60.03, temp_top:60.37, 
+
+temp_bottom:60.20, temp_top:60.37, 
+
+temp_bottom:60.03, temp_top:60.37, 
+
+temp_bottom:60.20, temp_top:60.37, 
+
+temp_bottom:60.20, temp_top:60.37, 
+
+temp_bottom:60.03, temp_top:60.37, 
+
+temp_bottom:60.20, temp_top:60.20, 
+
+temp_bottom:60.20, temp_top:60.37, 
+
+temp_bottom:60.20, temp_top:60.20, 
+
+temp_bottom:60.03, temp_top:60.20, 
+
+temp_bottom:60.20, temp_top:60.20, 
+
+temp_bottom:60.20, temp_top:60.20, 
+
+temp_bottom:60.20, temp_top:60.37, 
+
+temp_bottom:60.20, temp_top:60.20, 
+
+temp_bottom:60.20, temp_top:60.20, 
+
+temp_bottom:60.20, temp_top:60.20, 
+
+temp_bottom:60.20, temp_top:60.20, 
+
+temp_bottom:60.20, temp_top:60.20, 
+
+temp_bottom:60.20, temp_top:60.20, 
+
+temp_bottom:60.20, temp_top:60.37, 
+
+temp_bottom:60.20, temp_top:60.37, 
+
+temp_bottom:60.20, temp_top:60.37, 
+
+temp_bottom:60.20, temp_top:60.37, 
+
+temp_bottom:60.20, temp_top:60.37, 
+
+temp_bottom:60.20, temp_top:60.37, 
+
+temp_bottom:60.20, temp_top:60.55, 
+
+temp_bottom:60.20, temp_top:60.55, 
+
+temp_bottom:60.20, temp_top:60.55, 
+
+temp_bottom:60.20, temp_top:60.55, 
+
+temp_bottom:60.20, temp_top:60.55, 
+
+temp_bottom:60.20, temp_top:60.55, 
+
+temp_bottom:60.37, temp_top:60.55, 
+
+temp_bottom:60.37, temp_top:60.55, 
+
+temp_bottom:60.20, temp_top:60.55, 
+
+temp_bottom:60.20, temp_top:60.55, 
+
+temp_bottom:60.37, temp_top:60.55, 
+
+temp_bottom:60.20, temp_top:60.55, 
+
+temp_bottom:60.37, temp_top:60.55, 
+
+temp_bottom:60.20, temp_top:60.37, 
+
+temp_bottom:60.37, temp_top:60.55, 
+
+temp_bottom:60.37, temp_top:60.55, 
+
+temp_bottom:60.37, temp_top:60.55, 
+
+temp_bottom:60.37, temp_top:60.55, 
+
+temp_bottom:60.37, temp_top:60.55, 
+
+temp_bottom:60.37, temp_top:60.55, 
+
+temp_bottom:60.37, temp_top:60.55, 
+
+temp_bottom:60.37, temp_top:60.55, 
+
+temp_bottom:60.37, temp_top:60.72, 
+
+temp_bottom:60.37, temp_top:60.55, 
+
+temp_bottom:60.37, temp_top:60.55, 
+
+temp_bottom:60.37, temp_top:60.55, 
+
+temp_bottom:60.37, temp_top:60.55, 
+
+temp_bottom:60.37, temp_top:60.55, 
+
+temp_bottom:60.37, temp_top:60.55, 
+
+temp_bottom:60.37, temp_top:60.55, 
+
+temp_bottom:60.37, temp_top:60.72, 
+
+temp_bottom:60.37, temp_top:60.55, 
+
+temp_bottom:60.37, temp_top:60.55, 
+
+temp_bottom:60.37, temp_top:60.55, 
+
+temp_bottom:60.37, temp_top:60.55, 
+
+temp_bottom:60.37, temp_top:60.55, 
+
+temp_bottom:60.55, temp_top:60.72, 
+
+temp_bottom:60.37, temp_top:60.55, 
+
+temp_bottom:60.37, temp_top:60.72, 
+
+temp_bottom:60.37, temp_top:60.55, 
+
+temp_bottom:60.55, temp_top:60.72, 
+
+temp_bottom:60.37, temp_top:60.55, 
+
+temp_bottom:60.37, temp_top:60.55, 
+
+temp_bottom:60.55, temp_top:60.55, 
+
+temp_bottom:60.55, temp_top:60.55, 
+
+temp_bottom:60.37, temp_top:60.55, 
+
+temp_bottom:60.55, temp_top:60.55, 
+
+temp_bottom:60.55, temp_top:60.55, 
+
+temp_bottom:60.55, temp_top:60.55, 
+
+temp_bottom:60.55, temp_top:60.55, 
+
+temp_bottom:60.55, temp_top:60.55, 
+
+temp_bottom:60.37, temp_top:60.55, 
+
+temp_bottom:60.55, temp_top:60.37, 
+
+temp_bottom:60.55, temp_top:60.37, 
+
+temp_bottom:60.55, temp_top:60.37, 
+
+temp_bottom:60.55, temp_top:60.37, 
+
+temp_bottom:60.55, temp_top:60.37, 
+
+temp_bottom:60.55, temp_top:60.37, 
+
+temp_bottom:60.55, temp_top:60.37, 
+
+temp_bottom:60.55, temp_top:60.37, 
+
+temp_bottom:60.55, temp_top:60.37, 
+
+temp_bottom:60.55, temp_top:60.37, 
+
+temp_bottom:60.55, temp_top:60.37, 
+
+temp_bottom:60.55, temp_top:60.37, 
+
+temp_bottom:60.55, temp_top:60.37, 
+
+temp_bottom:60.55, temp_top:60.55, 
+
+temp_bottom:60.55, temp_top:60.55, 
+
+temp_bottom:60.55, temp_top:60.55, 
+
+temp_bottom:60.55, temp_top:60.55, 
+
+temp_bottom:60.55, temp_top:60.55, 
+
+temp_bottom:60.55, temp_top:60.55, 
+
+temp_bottom:60.55, temp_top:60.55, 
+
+temp_bottom:60.55, temp_top:60.55, 
+
+temp_bottom:60.55, temp_top:60.55, 
+
+temp_bottom:60.55, temp_top:60.55, 
+
+temp_bottom:60.55, temp_top:60.55, 
+
+temp_bottom:60.55, temp_top:60.55, 
+
+temp_bottom:60.55, temp_top:60.55, 
+
+temp_bottom:60.72, temp_top:60.55, 
+
+temp_bottom:60.55, temp_top:60.55, 
+
+temp_bottom:60.55, temp_top:60.37, 
+
+temp_bottom:60.55, temp_top:60.55, 
+
+temp_bottom:60.55, temp_top:60.55, 
+
+temp_bottom:60.55, temp_top:60.55, 
+
+temp_bottom:60.72, temp_top:60.55, 
+
+temp_bottom:60.72, temp_top:60.55, 
+
+temp_bottom:60.55, temp_top:60.55, 
+
+temp_bottom:60.72, temp_top:60.55, 
+
+temp_bottom:60.72, temp_top:60.55, 
+
+temp_bottom:60.72, temp_top:60.55, 
+
+temp_bottom:60.72, temp_top:60.72, 
+
+temp_bottom:60.72, temp_top:60.72, 
+
+temp_bottom:60.72, temp_top:60.72, 
+
+temp_bottom:60.72, temp_top:60.72, 
+
+temp_bottom:60.72, temp_top:60.90, 
+
+temp_bottom:60.72, temp_top:60.72, 
+
+temp_bottom:60.72, temp_top:60.72, 
+
+temp_bottom:60.72, temp_top:60.90, 
+
+temp_bottom:60.72, temp_top:60.90, 
+
+temp_bottom:60.72, temp_top:60.72, 
+
+temp_bottom:60.72, temp_top:60.90, 
+
+temp_bottom:60.72, temp_top:60.90, 
+
+temp_bottom:60.72, temp_top:60.72, 
+
+temp_bottom:60.72, temp_top:60.72, 
+
+temp_bottom:60.72, temp_top:60.90, 
+
+temp_bottom:60.90, temp_top:60.72, 
+
+temp_bottom:60.72, temp_top:60.72, 
+
+temp_bottom:60.72, temp_top:60.90, 
+
+temp_bottom:60.72, temp_top:60.72, 
+
+temp_bottom:60.90, temp_top:60.90, 
+
+temp_bottom:60.72, temp_top:60.90, 
+
+temp_bottom:60.72, temp_top:60.90, 
+
+temp_bottom:60.90, temp_top:60.90, 
+
+temp_bottom:60.72, temp_top:60.90, 
+
+temp_bottom:60.72, temp_top:60.90, 
+
+temp_bottom:60.72, temp_top:60.90, 
+
+temp_bottom:60.72, temp_top:60.90, 
+
+temp_bottom:60.72, temp_top:60.90, 
+
+temp_bottom:60.90, temp_top:60.90, 
+
+temp_bottom:60.72, temp_top:60.90, 
+
+temp_bottom:60.72, temp_top:60.90, 
+
+temp_bottom:60.90, temp_top:60.90, 
+
+temp_bottom:60.90, temp_top:60.90, 
+
+temp_bottom:60.90, temp_top:60.90, 
+
+temp_bottom:60.90, temp_top:60.90, 
+
+temp_bottom:60.90, temp_top:60.90, 
+
+temp_bottom:60.90, temp_top:60.90, 
+
+temp_bottom:60.90, temp_top:60.90, 
+
+temp_bottom:60.90, temp_top:60.90, 
+
+temp_bottom:60.90, temp_top:60.90, 
+
+temp_bottom:60.90, temp_top:60.90, 
+
+temp_bottom:60.90, temp_top:60.90, 
+
+temp_bottom:60.90, temp_top:60.90, 
+
+temp_bottom:60.90, temp_top:60.90, 
+
+temp_bottom:60.90, temp_top:60.72, 
+
+temp_bottom:60.90, temp_top:60.90, 
+
+temp_bottom:60.90, temp_top:60.90, 
+
+temp_bottom:60.90, temp_top:60.90, 
+
+temp_bottom:60.90, temp_top:60.90, 
+
+temp_bottom:60.90, temp_top:60.90, 
+
+temp_bottom:60.90, temp_top:60.90, 
+
+temp_bottom:60.90, temp_top:60.90, 
+
+temp_bottom:60.90, temp_top:60.90, 
+
+temp_bottom:60.90, temp_top:60.90, 
+
+temp_bottom:60.90, temp_top:60.90, 
+
+temp_bottom:60.90, temp_top:60.90, 
+
+temp_bottom:60.90, temp_top:60.90, 
+
+temp_bottom:60.90, temp_top:60.72, 
+
+temp_bottom:60.90, temp_top:60.90, 
+
+temp_bottom:60.90, temp_top:60.90, 
+
+temp_bottom:60.90, temp_top:60.90, 
+
+temp_bottom:61.07, temp_top:60.72, 
+
+temp_bottom:61.07, temp_top:60.72, 
+
+temp_bottom:60.90, temp_top:60.72, 
+
+temp_bottom:61.07, temp_top:60.72, 
+
+temp_bottom:60.90, temp_top:60.72, 
+
+temp_bottom:60.90, temp_top:60.72, 
+
+temp_bottom:61.07, temp_top:60.72, 
+
+temp_bottom:60.90, temp_top:60.72, 
+
+temp_bottom:60.90, temp_top:60.90, 
+
+temp_bottom:61.07, temp_top:60.90, 
+
+temp_bottom:61.07, temp_top:60.90, 
+
+temp_bottom:61.07, temp_top:60.90, 
+
+temp_bottom:61.07, temp_top:60.90, 
+
+temp_bottom:61.07, temp_top:60.90, 
+
+temp_bottom:61.07, temp_top:60.90, 
+
+temp_bottom:61.07, temp_top:60.90, 
+
+temp_bottom:61.07, temp_top:60.90, 
+
+temp_bottom:61.07, temp_top:60.90, 
+
+temp_bottom:61.07, temp_top:61.07, 
+
+temp_bottom:61.07, temp_top:61.07, 
+
+temp_bottom:61.07, temp_top:60.90, 
+
+temp_bottom:61.07, temp_top:61.07, 
+
+temp_bottom:61.07, temp_top:61.07, 
+
+temp_bottom:61.07, temp_top:61.07, 
+
+temp_bottom:61.07, temp_top:61.07, 
+
+temp_bottom:61.07, temp_top:61.07, 
+
+temp_bottom:61.07, temp_top:61.07, 
+
+temp_bottom:61.07, temp_top:61.07, 
+
+temp_bottom:61.07, temp_top:61.07, 
+
+temp_bottom:61.07, temp_top:61.07, 
+
+temp_bottom:61.07, temp_top:61.25, 
+
+temp_bottom:61.07, temp_top:61.25, 
+
+temp_bottom:61.07, temp_top:61.25, 
+
+temp_bottom:61.07, temp_top:61.25, 
+
+temp_bottom:61.07, temp_top:61.25, 
+
+temp_bottom:61.07, temp_top:61.25, 
+
+temp_bottom:61.07, temp_top:61.07, 
+
+temp_bottom:61.07, temp_top:61.25, 
+
+temp_bottom:61.07, temp_top:61.25, 
+
+temp_bottom:61.07, temp_top:61.25, 
+
+temp_bottom:61.07, temp_top:61.25, 
+
+temp_bottom:61.07, temp_top:61.25, 
+
+temp_bottom:61.07, temp_top:61.07, 
+
+temp_bottom:61.25, temp_top:61.25, 
+
+temp_bottom:61.25, temp_top:61.25, 
+
+temp_bottom:61.07, temp_top:61.25, 
+
+temp_bottom:61.07, temp_top:61.25, 
+
+temp_bottom:61.25, temp_top:61.07, 
+
+temp_bottom:61.25, temp_top:61.25, 
+
+temp_bottom:61.25, temp_top:61.07, 
+
+temp_bottom:61.25, temp_top:61.07, 
+
+temp_bottom:61.25, temp_top:61.07, 
+
+temp_bottom:61.25, temp_top:61.07, 
+
+temp_bottom:61.25, temp_top:61.07, 
+
+temp_bottom:61.25, temp_top:61.07, 
+
+temp_bottom:61.25, temp_top:61.25, 
+
+temp_bottom:61.25, temp_top:61.25, 
+
+temp_bottom:61.25, temp_top:61.25, 
+
+temp_bottom:61.25, temp_top:61.25, 
+
+temp_bottom:61.25, temp_top:61.25, 
+
+temp_bottom:61.25, temp_top:61.25, 
+
+temp_bottom:61.07, temp_top:61.25, 
+
+temp_bottom:61.25, temp_top:61.43, 
+
+temp_bottom:61.25, temp_top:61.25, 
+
+temp_bottom:61.25, temp_top:61.43, 
+
+temp_bottom:61.25, temp_top:61.25, 
+
+temp_bottom:61.25, temp_top:61.43, 
+
+temp_bottom:61.25, temp_top:61.25, 
+
+temp_bottom:61.25, temp_top:61.43, 
+
+temp_bottom:61.25, temp_top:61.43, 
+
+temp_bottom:61.25, temp_top:61.43, 
+
+temp_bottom:61.25, temp_top:61.43, 
+
+temp_bottom:61.25, temp_top:61.43, 
+
+temp_bottom:61.25, temp_top:61.43, 
+
+temp_bottom:61.25, temp_top:61.43, 
+
+temp_bottom:61.25, temp_top:61.43, 
+
+temp_bottom:61.25, temp_top:61.43, 
+
+temp_bottom:61.25, temp_top:61.25, 
+
+temp_bottom:61.25, temp_top:61.43, 
+
+temp_bottom:61.25, temp_top:61.25, 
+
+temp_bottom:61.25, temp_top:61.25, 
+
+temp_bottom:61.25, temp_top:61.25, 
+
+temp_bottom:61.25, temp_top:61.25, 
+
+temp_bottom:61.43, temp_top:61.25, 
+
+temp_bottom:61.25, temp_top:61.25, 
+
+temp_bottom:61.43, temp_top:61.25, 
+
+temp_bottom:61.43, temp_top:61.25, 
+
+temp_bottom:61.43, temp_top:61.25, 
+
+temp_bottom:61.25, temp_top:61.25, 
+
+temp_bottom:61.25, temp_top:61.25, 
+
+temp_bottom:61.43, temp_top:61.25, 
+
+temp_bottom:61.43, temp_top:61.25, 
+
+temp_bottom:61.43, temp_top:61.25, 
+
+temp_bottom:61.25, temp_top:61.25, 
+
+temp_bottom:61.43, temp_top:61.25, 
+
+temp_bottom:61.43, temp_top:61.25, 
+
+temp_bottom:61.43, temp_top:61.25, 
+
+temp_bottom:61.43, temp_top:61.25, 
+
+temp_bottom:61.43, temp_top:61.25, 
+
+temp_bottom:61.43, temp_top:61.25, 
+
+temp_bottom:61.43, temp_top:61.25, 
+
+temp_bottom:61.43, temp_top:61.25, 
+
+temp_bottom:61.43, temp_top:61.25, 
+
+temp_bottom:61.43, temp_top:61.25, 
+
+temp_bottom:61.43, temp_top:61.07, 
+
+temp_bottom:61.43, temp_top:61.25, 
+
+temp_bottom:61.43, temp_top:61.25, 
+
+temp_bottom:61.43, temp_top:61.25, 
+
+temp_bottom:61.43, temp_top:61.25, 
+
+temp_bottom:61.43, temp_top:61.25, 
+
+temp_bottom:61.43, temp_top:61.25, 
+
+temp_bottom:61.43, temp_top:61.25, 
+
+temp_bottom:61.43, temp_top:61.25, 
+
+temp_bottom:61.43, temp_top:61.25, 
+
+temp_bottom:61.43, temp_top:61.25, 
+
+temp_bottom:61.43, temp_top:61.25, 
+
+temp_bottom:61.43, temp_top:61.25, 
+
+temp_bottom:61.43, temp_top:61.43, 
+
+temp_bottom:61.43, temp_top:61.25, 
+
+temp_bottom:61.43, temp_top:61.43, 
+
+temp_bottom:61.43, temp_top:61.43, 
+
+temp_bottom:61.43, temp_top:61.25, 
+
+temp_bottom:61.43, temp_top:61.43, 
+
+temp_bottom:61.43, temp_top:61.43, 
+
+temp_bottom:61.43, temp_top:61.43, 
+
+temp_bottom:61.43, temp_top:61.43, 
+
+temp_bottom:61.61, temp_top:61.43, 
+
+temp_bottom:61.43, temp_top:61.43, 
+
+temp_bottom:61.61, temp_top:61.43, 
+
+temp_bottom:61.43, temp_top:61.43, 
+
+temp_bottom:61.43, temp_top:61.43, 
+
+temp_bottom:61.61, temp_top:61.43, 
+
+temp_bottom:61.43, temp_top:61.43, 
+
+temp_bottom:61.61, temp_top:61.43, 
+
+temp_bottom:61.43, temp_top:61.43, 
+
+temp_bottom:61.61, temp_top:61.43, 
+
+temp_bottom:61.61, temp_top:61.43, 
+
+temp_bottom:61.43, temp_top:61.43, 
+
+temp_bottom:61.43, temp_top:61.43, 
+
+temp_bottom:61.43, temp_top:61.43, 
+
+temp_bottom:61.43, temp_top:61.43, 
+
+temp_bottom:61.61, temp_top:61.43, 
+
+temp_bottom:61.61, temp_top:61.43, 
+
+temp_bottom:61.61, temp_top:61.43, 
+
+temp_bottom:61.43, temp_top:61.43, 
+
+temp_bottom:61.61, temp_top:61.43, 
+
+temp_bottom:61.61, temp_top:61.43, 
+
+temp_bottom:61.61, temp_top:61.43, 
+
+temp_bottom:61.61, temp_top:61.61, 
+
+temp_bottom:61.61, temp_top:61.43, 
+
+temp_bottom:61.61, temp_top:61.61, 
+
+temp_bottom:61.61, temp_top:61.61, 
+
+temp_bottom:61.61, temp_top:61.61, 
+
+temp_bottom:61.61, temp_top:61.61, 
+
+temp_bottom:61.61, temp_top:61.61, 
+
+temp_bottom:61.61, temp_top:61.61, 
+
+temp_bottom:61.61, temp_top:61.61, 
+
+temp_bottom:61.61, temp_top:61.61, 
+
+temp_bottom:61.61, temp_top:61.79, 
+
+temp_bottom:61.61, temp_top:61.61, 
+
+temp_bottom:61.61, temp_top:61.61, 
+
+temp_bottom:61.61, temp_top:61.79, 
+
+temp_bottom:61.61, temp_top:61.61, 
+
+temp_bottom:61.61, temp_top:61.79, 
+
+temp_bottom:61.61, temp_top:61.79, 
+
+temp_bottom:61.61, temp_top:61.79, 
+
+temp_bottom:61.61, temp_top:61.79, 
+
+temp_bottom:61.61, temp_top:61.79, 
+
+temp_bottom:61.61, temp_top:61.79, 
+
+temp_bottom:61.61, temp_top:61.79, 
+
+temp_bottom:61.61, temp_top:61.79, 
+
+temp_bottom:61.61, temp_top:61.79, 
+
+temp_bottom:61.61, temp_top:61.79, 
+
+temp_bottom:61.61, temp_top:61.79, 
+
+temp_bottom:61.61, temp_top:61.79, 
+
+temp_bottom:61.61, temp_top:61.79, 
+
+temp_bottom:61.61, temp_top:61.79, 
+
+temp_bottom:61.61, temp_top:61.79, 
+
+temp_bottom:61.79, temp_top:61.79, 
+
+temp_bottom:61.79, temp_top:61.79, 
+
+temp_bottom:61.61, temp_top:61.79, 
+
+temp_bottom:61.79, temp_top:61.79, 
+
+temp_bottom:61.61, temp_top:61.79, 
+
+temp_bottom:61.79, temp_top:61.61, 
+
+temp_bottom:61.79, temp_top:61.79, 
+
+temp_bottom:61.79, temp_top:61.79, 
+
+temp_bottom:61.79, temp_top:61.61, 
+
+temp_bottom:61.79, temp_top:61.79, 
+
+temp_bottom:61.79, temp_top:61.61, 
+
+temp_bottom:61.79, temp_top:61.79, 
+
+temp_bottom:61.79, temp_top:61.79, 
+
+temp_bottom:61.79, temp_top:61.79, 
+
+temp_bottom:61.79, temp_top:61.61, 
+
+temp_bottom:61.79, temp_top:61.79, 
+
+temp_bottom:61.79, temp_top:61.79, 
+
+temp_bottom:61.79, temp_top:61.79, 
+
+temp_bottom:61.79, temp_top:61.79, 
+
+temp_bottom:61.79, temp_top:61.79, 
+
+temp_bottom:61.79, temp_top:61.79, 
+
+temp_bottom:61.79, temp_top:61.79, 
+
+temp_bottom:61.79, temp_top:61.79, 
+
+temp_bottom:61.79, temp_top:61.79, 
+
+temp_bottom:61.79, temp_top:61.79, 
+
+temp_bottom:61.79, temp_top:61.79, 
+
+temp_bottom:61.79, temp_top:61.79, 
+
+temp_bottom:61.79, temp_top:61.97, 
+
+temp_bottom:61.79, temp_top:61.97, 
+
+temp_bottom:61.79, temp_top:61.79, 
+
+temp_bottom:61.79, temp_top:61.97, 
+
+temp_bottom:61.79, temp_top:61.97, 
+
+temp_bottom:61.79, temp_top:61.97, 
+
+temp_bottom:61.79, temp_top:61.97, 
+
+temp_bottom:61.79, temp_top:61.97, 
+
+temp_bottom:61.79, temp_top:61.97, 
+
+temp_bottom:61.97, temp_top:61.97, 
+
+temp_bottom:61.79, temp_top:61.97, 
+
+temp_bottom:61.79, temp_top:61.97, 
+
+temp_bottom:61.79, temp_top:61.97, 
+
+temp_bottom:61.79, temp_top:61.97, 
+
+temp_bottom:61.79, temp_top:61.79, 
+
+temp_bottom:61.79, temp_top:61.79, 
+
+temp_bottom:61.97, temp_top:61.79, 
+
+temp_bottom:61.79, temp_top:61.79, 
+
+temp_bottom:61.97, temp_top:61.79, 
+
+temp_bottom:61.97, temp_top:61.79, 
+
+temp_bottom:61.79, temp_top:61.79, 
+
+temp_bottom:61.97, temp_top:61.79, 
+
+temp_bottom:61.79, temp_top:61.79, 
+
+temp_bottom:61.79, temp_top:61.79, 
+
+temp_bottom:61.97, temp_top:61.79, 
+
+temp_bottom:61.97, temp_top:61.79, 
+
+temp_bottom:61.97, temp_top:61.61, 
+
+temp_bottom:61.97, temp_top:61.79, 
+
+temp_bottom:61.97, temp_top:61.61, 
+
+temp_bottom:61.97, temp_top:61.61, 
+
+temp_bottom:61.79, temp_top:61.61, 
+
+temp_bottom:61.97, temp_top:61.61, 
+
+temp_bottom:61.97, temp_top:61.61, 
+
+temp_bottom:61.97, temp_top:61.61, 
+
+temp_bottom:61.97, temp_top:61.61, 
+
+temp_bottom:61.97, temp_top:61.61, 
+
+temp_bottom:61.97, temp_top:61.61, 
+
+temp_bottom:61.97, temp_top:61.43, 
+
+temp_bottom:61.97, temp_top:61.61, 
+
+temp_bottom:61.97, temp_top:61.61, 
+
+temp_bottom:61.97, temp_top:61.61, 
+
+temp_bottom:61.97, temp_top:61.61, 
+
+temp_bottom:61.97, temp_top:61.61, 
+
+temp_bottom:61.97, temp_top:61.61, 
+
+temp_bottom:61.97, temp_top:61.43, 
+
+temp_bottom:61.97, temp_top:61.61, 
+
+temp_bottom:61.97, temp_top:61.43, 
+
+temp_bottom:61.97, temp_top:61.43, 
+
+temp_bottom:61.97, temp_top:61.43, 
+
+temp_bottom:61.97, temp_top:61.43, 
+
+temp_bottom:61.97, temp_top:61.43, 
+
+temp_bottom:61.97, temp_top:61.43, 
+
+temp_bottom:61.97, temp_top:61.43, 
+
+temp_bottom:61.97, temp_top:61.25, 
+
+temp_bottom:61.97, temp_top:61.43, 
+
+temp_bottom:61.97, temp_top:61.25, 
+
+temp_bottom:61.97, temp_top:61.43, 
+
+temp_bottom:61.97, temp_top:61.25, 
+
+temp_bottom:61.97, temp_top:61.25, 
+
+temp_bottom:61.97, temp_top:61.43, 
+
+temp_bottom:61.97, temp_top:61.43, 
+
+temp_bottom:61.97, temp_top:61.43, 
+
+temp_bottom:61.97, temp_top:61.43, 
+
+temp_bottom:61.97, temp_top:61.43, 
+
+temp_bottom:61.97, temp_top:61.25, 
+
+temp_bottom:61.97, temp_top:61.25, 
+
+temp_bottom:61.97, temp_top:61.43, 
+
+temp_bottom:61.97, temp_top:61.25, 
+
+temp_bottom:61.97, temp_top:61.43, 
+
+temp_bottom:61.97, temp_top:61.43, 
+
+temp_bottom:61.97, temp_top:61.25, 
+
+temp_bottom:61.97, temp_top:61.25, 
+
+temp_bottom:61.97, temp_top:61.25, 
+
+temp_bottom:61.97, temp_top:61.43, 
+
+temp_bottom:61.97, temp_top:61.25, 
+
+temp_bottom:61.97, temp_top:61.43, 
+
+temp_bottom:61.97, temp_top:61.43, 
+
+temp_bottom:61.97, temp_top:61.43, 
+
+temp_bottom:61.97, temp_top:61.43, 
+
+temp_bottom:61.97, temp_top:61.43, 
+
+temp_bottom:61.97, temp_top:61.43, 
+
+temp_bottom:61.97, temp_top:61.43, 
+
+temp_bottom:61.97, temp_top:61.43, 
+
+temp_bottom:61.97, temp_top:61.61, 
+
+temp_bottom:61.97, temp_top:61.43, 
+
+temp_bottom:61.97, temp_top:61.61, 
+
+temp_bottom:61.97, temp_top:61.61, 
+
+temp_bottom:61.97, temp_top:61.61, 
+
+temp_bottom:62.15, temp_top:61.61, 
+
+temp_bottom:61.97, temp_top:61.61, 
+
+temp_bottom:61.97, temp_top:61.61, 
+
+temp_bottom:61.97, temp_top:61.61, 
+
+temp_bottom:61.97, temp_top:61.61, 
+
+temp_bottom:62.15, temp_top:61.61, 
+
+temp_bottom:62.15, temp_top:61.61, 
+
+temp_bottom:61.97, temp_top:61.61, 
+
+temp_bottom:62.15, temp_top:61.61, 
+
+temp_bottom:61.97, temp_top:61.61, 
+
+temp_bottom:62.15, temp_top:61.61, 
+
+temp_bottom:62.15, temp_top:61.61, 
+
+temp_bottom:62.15, temp_top:61.79, 
+
+temp_bottom:62.15, temp_top:61.61, 
+
+temp_bottom:61.97, temp_top:61.79, 
+
+temp_bottom:62.15, temp_top:61.79, 
+
+temp_bottom:62.15, temp_top:61.79, 
+
+temp_bottom:62.15, temp_top:61.79, 
+
+temp_bottom:62.15, temp_top:61.79, 
+
+temp_bottom:62.15, temp_top:61.79, 
+
+temp_bottom:62.15, temp_top:61.79, 
+
+temp_bottom:62.15, temp_top:61.79, 
+
+temp_bottom:62.15, temp_top:61.79, 
+
+temp_bottom:62.15, temp_top:61.79, 
+
+temp_bottom:62.15, temp_top:61.79, 
+
+temp_bottom:62.15, temp_top:61.61, 
+
+temp_bottom:62.15, temp_top:61.61, 
+
+temp_bottom:62.15, temp_top:61.61, 
+
+temp_bottom:62.15, temp_top:61.61, 
+
+temp_bottom:62.15, temp_top:61.43, 
+
+temp_bottom:62.15, temp_top:61.43, 
+
+temp_bottom:62.15, temp_top:61.43, 
+
+temp_bottom:62.15, temp_top:61.43, 
+
+temp_bottom:62.15, temp_top:61.25, 
+
+temp_bottom:62.15, temp_top:61.25, 
+
+temp_bottom:62.15, temp_top:61.25, 
+
+temp_bottom:62.15, temp_top:61.25, 
+
+temp_bottom:62.15, temp_top:61.25, 
+
+temp_bottom:62.15, temp_top:61.25, 
+
+temp_bottom:62.15, temp_top:61.25, 
+
+temp_bottom:62.15, temp_top:61.25, 
+
+temp_bottom:62.15, temp_top:61.07, 
+
+temp_bottom:62.15, temp_top:61.07, 
+
+temp_bottom:61.97, temp_top:61.07, 
+
+temp_bottom:62.15, temp_top:61.07, 
+
+temp_bottom:62.15, temp_top:61.07, 
+
+temp_bottom:62.15, temp_top:61.07, 
+
+temp_bottom:62.15, temp_top:61.07, 
+
+temp_bottom:62.15, temp_top:61.07, 
+
+temp_bottom:62.15, temp_top:61.07, 
+
+temp_bottom:62.15, temp_top:61.07, 
+
+temp_bottom:62.15, temp_top:60.90, 
+
+temp_bottom:62.15, temp_top:61.07, 
+
+temp_bottom:62.15, temp_top:61.07, 
+
+temp_bottom:62.15, temp_top:61.07, 
+
+temp_bottom:62.15, temp_top:61.07, 
+
+temp_bottom:62.15, temp_top:60.90, 
+
+temp_bottom:62.15, temp_top:60.90, 
+
+temp_bottom:62.15, temp_top:60.90, 
+
+temp_bottom:62.15, temp_top:60.90, 
+
+temp_bottom:62.15, temp_top:60.90, 
+
+temp_bottom:62.15, temp_top:60.90, 
+
+temp_bottom:62.15, temp_top:60.90, 
+
+temp_bottom:62.15, temp_top:60.90, 
+
+temp_bottom:62.15, temp_top:60.90, 
+
+temp_bottom:62.15, temp_top:60.90, 
+
+temp_bottom:62.15, temp_top:60.90, 
+
+temp_bottom:61.97, temp_top:60.72, 
+
+temp_bottom:62.15, temp_top:60.72, 
+
+temp_bottom:62.15, temp_top:60.72, 
+
+temp_bottom:62.15, temp_top:60.72, 
+
+temp_bottom:62.15, temp_top:60.55, 
+
+temp_bottom:62.15, temp_top:60.72, 
+
+temp_bottom:62.15, temp_top:60.72, 
+
+temp_bottom:61.97, temp_top:60.72, 
+
+temp_bottom:62.15, temp_top:60.72, 
+
+temp_bottom:62.15, temp_top:60.72, 
+
+temp_bottom:62.15, temp_top:60.72, 
+
+temp_bottom:61.97, temp_top:60.72, 
+
+temp_bottom:62.15, temp_top:60.72, 
+
+temp_bottom:62.15, temp_top:60.72, 
+
+temp_bottom:62.15, temp_top:60.72, 
+
+temp_bottom:61.97, temp_top:60.90, 
+
+temp_bottom:62.15, temp_top:60.90, 
+
+temp_bottom:62.15, temp_top:60.72, 
+
+temp_bottom:62.15, temp_top:60.72, 
+
+temp_bottom:62.15, temp_top:60.72, 
+
+temp_bottom:62.15, temp_top:60.72, 
+
+temp_bottom:62.15, temp_top:60.55, 
+
+temp_bottom:62.15, temp_top:60.55, 
+
+temp_bottom:62.15, temp_top:60.55, 
+
+temp_bottom:62.15, temp_top:60.55, 
+
+temp_bottom:62.15, temp_top:60.72, 
+
+temp_bottom:62.15, temp_top:60.72, 
+
+temp_bottom:62.15, temp_top:60.72, 
+
+temp_bottom:61.97, temp_top:60.72, 
+
+temp_bottom:62.15, temp_top:60.72, 
+
+temp_bottom:62.15, temp_top:60.90, 
+
+temp_bottom:62.15, temp_top:60.90, 
+
+temp_bottom:62.15, temp_top:60.72, 
+
+temp_bottom:62.15, temp_top:60.72, 
+
+temp_bottom:62.15, temp_top:60.90, 
+
+temp_bottom:62.15, temp_top:60.72, 
+
+temp_bottom:61.97, temp_top:60.90, 
+
+temp_bottom:61.97, temp_top:60.90, 
+
+temp_bottom:61.97, temp_top:60.90, 
+
+temp_bottom:61.97, temp_top:60.90, 
+
+temp_bottom:62.15, temp_top:60.90, 
+
+temp_bottom:62.15, temp_top:60.90, 
+
+temp_bottom:62.15, temp_top:61.07, 
+
+temp_bottom:62.15, temp_top:61.07, 
+
+temp_bottom:62.15, temp_top:61.07, 
+
+temp_bottom:62.15, temp_top:61.07, 
+
+temp_bottom:62.15, temp_top:61.07, 
+
+temp_bottom:62.15, temp_top:61.07, 
+
+temp_bottom:62.15, temp_top:61.07, 
+
+temp_bottom:62.15, temp_top:61.07, 
+
+temp_bottom:62.15, temp_top:61.07, 
+
+temp_bottom:62.15, temp_top:61.07, 
+
+temp_bottom:62.15, temp_top:61.07, 
+
+temp_bottom:62.15, temp_top:61.07, 
+
+temp_bottom:62.15, temp_top:61.07, 
+
+temp_bottom:62.15, temp_top:61.07, 
+
+temp_bottom:62.15, temp_top:61.07, 
+
+temp_bottom:61.97, temp_top:61.07, 
+
+temp_bottom:62.15, temp_top:61.25, 
+
+temp_bottom:62.15, temp_top:61.25, 
+
+temp_bottom:62.15, temp_top:61.25, 
+
+temp_bottom:62.15, temp_top:61.25, 
+
+temp_bottom:62.15, temp_top:61.25, 
+
+temp_bottom:62.15, temp_top:61.25, 
+
+temp_bottom:62.15, temp_top:61.07, 
+
+temp_bottom:62.15, temp_top:61.25, 
+
+temp_bottom:62.15, temp_top:61.07, 
+
+temp_bottom:62.15, temp_top:61.07, 
+
+temp_bottom:62.15, temp_top:61.07, 
+
+temp_bottom:62.15, temp_top:60.90, 
+
+temp_bottom:62.15, temp_top:61.07, 
+
+temp_bottom:62.15, temp_top:61.07, 
+
+temp_bottom:62.15, temp_top:61.07, 
+
+temp_bottom:62.15, temp_top:61.07, 
+
+temp_bottom:62.15, temp_top:61.07, 
+
+temp_bottom:62.15, temp_top:61.07, 
+
+temp_bottom:62.15, temp_top:61.07, 
+
+temp_bottom:62.15, temp_top:61.07, 
+
+temp_bottom:62.15, temp_top:61.25, 
+
+temp_bottom:62.15, temp_top:61.25, 
+
+temp_bottom:62.15, temp_top:61.25, 
+
+temp_bottom:62.15, temp_top:61.25, 
+
+temp_bottom:61.97, temp_top:61.25, 
+
+temp_bottom:62.15, temp_top:61.25, 
+
+temp_bottom:62.15, temp_top:61.25, 
+
+temp_bottom:62.15, temp_top:61.25, 
+
+temp_bottom:62.15, temp_top:61.43, 
+
+temp_bottom:62.15, temp_top:61.43, 
+
+temp_bottom:62.15, temp_top:61.43, 
+
+temp_bottom:62.15, temp_top:61.43, 
+
+temp_bottom:62.15, temp_top:61.61, 
+
+temp_bottom:62.15, temp_top:61.61, 
+
+temp_bottom:62.15, temp_top:61.61, 
+
+temp_bottom:62.15, temp_top:61.61, 
+
+temp_bottom:62.15, temp_top:61.61, 
+
+temp_bottom:62.15, temp_top:61.61, 
+
+temp_bottom:62.15, temp_top:61.79, 
+
+temp_bottom:62.15, temp_top:61.79, 
+
+temp_bottom:62.15, temp_top:61.79, 
+
+temp_bottom:62.15, temp_top:61.79, 
+
+temp_bottom:62.15, temp_top:61.79, 
+
+temp_bottom:62.15, temp_top:61.97, 
+
+temp_bottom:62.15, temp_top:61.97, 
+
+temp_bottom:62.15, temp_top:61.97, 
+
+temp_bottom:62.15, temp_top:61.97, 
+
+temp_bottom:62.15, temp_top:61.97, 
+
+temp_bottom:62.15, temp_top:61.97, 
+
+temp_bottom:62.15, temp_top:62.15, 
+
+temp_bottom:62.15, temp_top:62.15, 
+
+temp_bottom:62.15, temp_top:62.15, 
+
+temp_bottom:62.15, temp_top:62.15, 
+
+temp_bottom:62.15, temp_top:62.15, 
+
+temp_bottom:62.15, temp_top:62.34, 
+
+temp_bottom:62.15, temp_top:62.15, 
+
+temp_bottom:62.15, temp_top:62.15, 
+
+temp_bottom:62.34, temp_top:62.34, 
+
+temp_bottom:62.15, temp_top:62.15, 
+
+temp_bottom:62.34, temp_top:62.15, 
+
+temp_bottom:62.34, temp_top:62.34, 
+
+temp_bottom:62.15, temp_top:62.15, 
+
+temp_bottom:62.15, temp_top:62.15, 
+
+temp_bottom:62.15, temp_top:62.15, 
+
+temp_bottom:62.34, temp_top:62.15, 
+
+temp_bottom:62.15, temp_top:62.15, 
+
+temp_bottom:62.15, temp_top:62.15, 
+
+temp_bottom:62.15, temp_top:62.15, 
+
+temp_bottom:62.15, temp_top:62.15, 
+
+temp_bottom:62.34, temp_top:61.97, 
+
+temp_bottom:62.34, temp_top:62.15, 
+
+temp_bottom:62.15, temp_top:62.15, 
+
+temp_bottom:62.34, temp_top:62.15, 
+
+temp_bottom:62.15, temp_top:62.15, 
+
+temp_bottom:62.34, temp_top:61.97, 
+
+temp_bottom:62.34, temp_top:62.15, 
+
+temp_bottom:62.34, temp_top:62.15, 
+
+temp_bottom:62.34, temp_top:62.15, 
+
+temp_bottom:62.34, temp_top:62.15, 
+
+temp_bottom:62.15, temp_top:62.15, 
+
+temp_bottom:62.34, temp_top:62.15, 
+
+temp_bottom:62.34, temp_top:62.15, 
+
+temp_bottom:62.34, temp_top:62.15, 
+
+temp_bottom:62.34, temp_top:62.15, 
+
+temp_bottom:62.15, temp_top:62.34, 
+
+temp_bottom:62.34, temp_top:62.15, 
+
+temp_bottom:62.15, temp_top:62.15, 
+
+temp_bottom:62.34, temp_top:62.34, 
+
+temp_bottom:62.34, temp_top:62.15, 
+
+temp_bottom:62.34, temp_top:62.34, 
+
+temp_bottom:62.34, temp_top:62.34, 
+
+temp_bottom:62.34, temp_top:62.34, 
+
+temp_bottom:62.34, temp_top:62.34, 
+
+temp_bottom:62.34, temp_top:62.34, 
+
+temp_bottom:62.34, temp_top:62.34, 
+
+temp_bottom:62.34, temp_top:62.34, 
+
+temp_bottom:62.34, temp_top:62.15, 
+
+temp_bottom:62.34, temp_top:62.34, 
+
+temp_bottom:62.34, temp_top:62.34, 
+
+temp_bottom:62.34, temp_top:62.34, 
+
+temp_bottom:62.34, temp_top:62.34, 
+
+temp_bottom:62.34, temp_top:62.34, 
+
+temp_bottom:62.34, temp_top:62.34, 
+
+temp_bottom:62.34, temp_top:62.34, 
+
+temp_bottom:62.34, temp_top:62.34, 
+
+temp_bottom:62.34, temp_top:62.34, 
+
+temp_bottom:62.34, temp_top:62.34, 
+
+temp_bottom:62.34, temp_top:62.34, 
+
+temp_bottom:62.34, temp_top:62.15, 
+
+temp_bottom:62.34, temp_top:62.34, 
+
+temp_bottom:62.34, temp_top:62.34, 
+
+temp_bottom:62.34, temp_top:62.34, 
+
+temp_bottom:62.34, temp_top:62.34, 
+
+temp_bottom:62.34, temp_top:62.34, 
+
+temp_bottom:62.34, temp_top:62.52, 
+
+temp_bottom:62.34, temp_top:62.34, 
+
+temp_bottom:62.52, temp_top:62.52, 
+
+temp_bottom:62.52, temp_top:62.52, 
+
+temp_bottom:62.34, temp_top:62.52, 
+
+temp_bottom:62.52, temp_top:62.52, 
+
+temp_bottom:62.34, temp_top:62.52, 
+
+temp_bottom:62.34, temp_top:62.71, 
+
+temp_bottom:62.52, temp_top:62.71, 
+
+temp_bottom:62.52, temp_top:62.71, 
+
+temp_bottom:62.52, temp_top:62.71, 
+
+temp_bottom:62.34, temp_top:62.71, 
+
+temp_bottom:62.52, temp_top:62.71, 
+
+temp_bottom:62.52, temp_top:62.71, 
+
+temp_bottom:62.52, temp_top:62.71, 
+
+temp_bottom:62.52, temp_top:62.71, 
+
+temp_bottom:62.52, temp_top:62.71, 
+
+temp_bottom:62.52, temp_top:62.71, 
+
+temp_bottom:62.52, temp_top:62.71, 
+
+temp_bottom:62.52, temp_top:62.71, 
+
+temp_bottom:62.52, temp_top:62.71, 
+
+temp_bottom:62.52, temp_top:62.71, 
+
+temp_bottom:62.52, temp_top:62.71, 
+
+temp_bottom:62.52, temp_top:62.71, 
+
+temp_bottom:62.34, temp_top:62.71, 
+
+temp_bottom:62.52, temp_top:62.71, 
+
+temp_bottom:62.52, temp_top:62.52, 
+
+temp_bottom:62.34, temp_top:62.52, 
+
+temp_bottom:62.52, temp_top:62.71, 
+
+temp_bottom:62.52, temp_top:62.71, 
+
+temp_bottom:62.52, temp_top:62.52, 
+
+temp_bottom:62.52, temp_top:62.71, 
+
+temp_bottom:62.52, temp_top:62.52, 
+
+temp_bottom:62.52, temp_top:62.52, 
+
+temp_bottom:62.52, temp_top:62.71, 
+
+temp_bottom:62.52, temp_top:62.71, 
+
+temp_bottom:62.52, temp_top:62.71, 
+
+temp_bottom:62.52, temp_top:62.71, 
+
+temp_bottom:62.52, temp_top:62.71, 
+
+temp_bottom:62.52, temp_top:62.71, 
+
+temp_bottom:62.52, temp_top:62.71, 
+
+temp_bottom:62.34, temp_top:62.71, 
+
+temp_bottom:62.52, temp_top:62.71, 
+
+temp_bottom:62.52, temp_top:62.71, 
+
+temp_bottom:62.52, temp_top:62.71, 
+
+temp_bottom:62.52, temp_top:62.71, 
+
+temp_bottom:62.52, temp_top:62.71, 
+
+temp_bottom:62.52, temp_top:62.71, 
+
+temp_bottom:62.52, temp_top:62.71, 
+
+temp_bottom:62.52, temp_top:62.71, 
+
+temp_bottom:62.52, temp_top:62.71, 
+
+temp_bottom:62.52, temp_top:62.71, 
+
+temp_bottom:62.52, temp_top:62.71, 
+
+temp_bottom:62.52, temp_top:62.71, 
+
+temp_bottom:62.52, temp_top:62.71, 
+
+temp_bottom:62.52, temp_top:62.71, 
+
+temp_bottom:62.52, temp_top:62.71, 
+
+temp_bottom:62.52, temp_top:62.71, 
+
+temp_bottom:62.71, temp_top:62.71, 
+
+temp_bottom:62.52, temp_top:62.71, 
+
+temp_bottom:62.52, temp_top:62.71, 
+
+temp_bottom:62.52, temp_top:62.71, 
+
+temp_bottom:62.52, temp_top:62.71, 
+
+temp_bottom:62.52, temp_top:62.71, 
+
+temp_bottom:62.71, temp_top:62.71, 
+
+temp_bottom:62.71, temp_top:62.71, 
+
+temp_bottom:62.71, temp_top:62.71, 
+
+temp_bottom:62.71, temp_top:62.71, 
+
+temp_bottom:62.52, temp_top:62.71, 
+
+temp_bottom:62.71, temp_top:62.71, 
+
+temp_bottom:62.71, temp_top:62.71, 
+
+temp_bottom:62.71, temp_top:62.71, 
+
+temp_bottom:62.71, temp_top:62.52, 
+
+temp_bottom:62.71, temp_top:62.71, 
+
+temp_bottom:62.71, temp_top:62.71, 
+
+temp_bottom:62.71, temp_top:62.71, 
+
+temp_bottom:62.52, temp_top:62.71, 
+
+temp_bottom:62.71, temp_top:62.71, 
+
+temp_bottom:62.71, temp_top:62.71, 
+
+temp_bottom:62.71, temp_top:62.71, 
+
+temp_bottom:62.52, temp_top:62.71, 
+
+temp_bottom:62.71, temp_top:62.52, 
+
+temp_bottom:62.71, temp_top:62.52, 
+
+temp_bottom:62.71, temp_top:62.52, 
+
+temp_bottom:62.71, temp_top:62.52, 
+
+temp_bottom:62.71, temp_top:62.52, 
+
+temp_bottom:62.71, temp_top:62.52, 
+
+temp_bottom:62.71, temp_top:62.52, 
+
+temp_bottom:62.71, temp_top:62.52, 
+
+temp_bottom:62.71, temp_top:62.52, 
+
+temp_bottom:62.71, temp_top:62.34, 
+
+temp_bottom:62.71, temp_top:62.34, 
+
+temp_bottom:62.71, temp_top:62.52, 
+
+temp_bottom:62.71, temp_top:62.34, 
+
+temp_bottom:62.71, temp_top:62.34, 
+
+temp_bottom:62.71, temp_top:62.52, 
+
+temp_bottom:62.71, temp_top:62.52, 
+
+temp_bottom:62.71, temp_top:62.52, 
+
+temp_bottom:62.71, temp_top:62.52, 
+
+temp_bottom:62.71, temp_top:62.52, 
+
+temp_bottom:62.71, temp_top:62.52, 
+
+temp_bottom:62.71, temp_top:62.52, 
+
+temp_bottom:62.71, temp_top:62.52, 
+
+temp_bottom:62.71, temp_top:62.52, 
+
+temp_bottom:62.71, temp_top:62.52, 
+
+temp_bottom:62.71, temp_top:62.34, 
+
+temp_bottom:62.71, temp_top:62.34, 
+
+temp_bottom:62.71, temp_top:62.52, 
+
+temp_bottom:62.71, temp_top:62.52, 
+
+temp_bottom:62.71, temp_top:62.52, 
+
+temp_bottom:62.71, temp_top:62.52, 
+
+temp_bottom:62.71, temp_top:62.52, 
+
+temp_bottom:62.71, temp_top:62.34, 
+
+temp_bottom:62.89, temp_top:62.34, 
+
+temp_bottom:62.71, temp_top:62.52, 
+
+temp_bottom:62.71, temp_top:62.52, 
+
+temp_bottom:62.71, temp_top:62.52, 
+
+temp_bottom:62.89, temp_top:62.52, 
+
+temp_bottom:62.71, temp_top:62.52, 
+
+temp_bottom:62.71, temp_top:62.52, 
+
+temp_bottom:62.71, temp_top:62.71, 
+
+temp_bottom:62.89, temp_top:62.52, 
+
+temp_bottom:62.89, temp_top:62.52, 
+
+temp_bottom:62.71, temp_top:62.52, 
+
+temp_bottom:62.71, temp_top:62.52, 
+
+temp_bottom:62.89, temp_top:62.52, 
+
+temp_bottom:62.89, temp_top:62.52, 
+
+temp_bottom:62.71, temp_top:62.52, 
+
+temp_bottom:62.89, temp_top:62.52, 
+
+temp_bottom:62.89, temp_top:62.52, 
+
+temp_bottom:62.71, temp_top:62.52, 
+
+temp_bottom:62.89, temp_top:62.34, 
+
+temp_bottom:62.89, temp_top:62.34, 
+
+temp_bottom:62.89, temp_top:62.52, 
+
+temp_bottom:62.89, temp_top:62.52, 
+
+temp_bottom:62.89, temp_top:62.34, 
+
+temp_bottom:62.71, temp_top:62.52, 
+
+temp_bottom:62.89, temp_top:62.52, 
+
+temp_bottom:62.89, temp_top:62.52, 
+
+temp_bottom:62.89, temp_top:62.52, 
+
+temp_bottom:62.89, temp_top:62.52, 
+
+temp_bottom:62.89, temp_top:62.52, 
+
+temp_bottom:62.89, temp_top:62.71, 
+
+temp_bottom:62.89, temp_top:62.71, 
+
+temp_bottom:62.89, temp_top:62.71, 
+
+temp_bottom:62.89, temp_top:62.71, 
+
+temp_bottom:62.89, temp_top:62.71, 
+
+temp_bottom:62.89, temp_top:62.71, 
+
+temp_bottom:62.89, temp_top:62.71, 
+
+temp_bottom:62.71, temp_top:62.71, 
+
+temp_bottom:62.89, temp_top:62.71, 
+
+temp_bottom:62.89, temp_top:62.71, 
+
+temp_bottom:62.89, temp_top:62.71, 
+
+temp_bottom:62.89, temp_top:62.71, 
+
+temp_bottom:62.89, temp_top:62.71, 
+
+temp_bottom:62.89, temp_top:62.71, 
+
+temp_bottom:62.89, temp_top:62.71, 
+
+temp_bottom:62.89, temp_top:62.71, 
+
+temp_bottom:62.89, temp_top:62.71, 
+
+temp_bottom:62.89, temp_top:62.71, 
+
+temp_bottom:62.89, temp_top:62.71, 
+
+temp_bottom:62.89, temp_top:62.71, 
+
+temp_bottom:62.89, temp_top:62.71, 
+
+temp_bottom:62.89, temp_top:62.71, 
+
+temp_bottom:62.89, temp_top:62.71, 
+
+temp_bottom:62.89, temp_top:62.71, 
+
+temp_bottom:62.89, temp_top:62.52, 
+
+temp_bottom:62.89, temp_top:62.71, 
+
+temp_bottom:62.89, temp_top:62.71, 
+
+temp_bottom:62.89, temp_top:62.71, 
+
+temp_bottom:62.89, temp_top:62.71, 
+
+temp_bottom:62.89, temp_top:62.71, 
+
+temp_bottom:62.89, temp_top:62.71, 
+
+temp_bottom:62.89, temp_top:62.71, 
+
+temp_bottom:62.89, temp_top:62.71, 
+
+temp_bottom:63.08, temp_top:62.71, 
+
+temp_bottom:62.89, temp_top:62.89, 
+
+temp_bottom:62.89, temp_top:62.89, 
+
+temp_bottom:62.89, temp_top:62.89, 
+
+temp_bottom:62.89, temp_top:62.89, 
+
+temp_bottom:62.89, temp_top:62.89, 
+
+temp_bottom:62.89, temp_top:62.89, 
+
+temp_bottom:63.08, temp_top:62.89, 
+
+temp_bottom:62.89, temp_top:62.89, 
+
+temp_bottom:63.08, temp_top:62.89, 
+
+temp_bottom:63.08, temp_top:62.89, 
+
+temp_bottom:62.89, temp_top:62.89, 
+
+temp_bottom:63.08, temp_top:62.89, 
+
+temp_bottom:63.08, temp_top:63.08, 
+
+temp_bottom:63.08, temp_top:63.08, 
+
+temp_bottom:63.08, temp_top:63.08, 
+
+temp_bottom:63.08, temp_top:63.08, 
+
+temp_bottom:63.08, temp_top:63.08, 
+
+temp_bottom:62.89, temp_top:63.08, 
+
+temp_bottom:63.08, temp_top:63.08, 
+
+temp_bottom:63.08, temp_top:63.08, 
+
+temp_bottom:63.08, temp_top:63.08, 
+
+temp_bottom:63.08, temp_top:63.08, 
+
+temp_bottom:63.08, temp_top:63.27, 
+
+temp_bottom:63.08, temp_top:63.27, 
+
+temp_bottom:63.08, temp_top:63.27, 
+
+temp_bottom:63.08, temp_top:63.27, 
+
+temp_bottom:63.08, temp_top:63.27, 
+
+temp_bottom:63.08, temp_top:63.27, 
+
+temp_bottom:63.08, temp_top:63.27, 
+
+temp_bottom:63.08, temp_top:63.27, 
+
+temp_bottom:63.08, temp_top:63.27, 
+
+temp_bottom:63.08, temp_top:63.27, 
+
+temp_bottom:63.08, temp_top:63.27, 
+
+temp_bottom:63.08, temp_top:63.27, 
+
+temp_bottom:63.08, temp_top:63.27, 
+
+temp_bottom:63.08, temp_top:63.27, 
+
+temp_bottom:63.08, temp_top:63.27, 
+
+temp_bottom:63.08, temp_top:63.27, 
+
+temp_bottom:63.08, temp_top:63.08, 
+
+temp_bottom:63.08, temp_top:63.08, 
+
+temp_bottom:63.08, temp_top:63.27, 
+
+temp_bottom:63.08, temp_top:63.27, 
+
+temp_bottom:63.08, temp_top:63.27, 
+
+temp_bottom:63.08, temp_top:63.27, 
+
+temp_bottom:63.08, temp_top:63.27, 
+
+temp_bottom:63.08, temp_top:63.27, 
+
+temp_bottom:63.08, temp_top:63.27, 
+
+temp_bottom:63.08, temp_top:63.27, 
+
+temp_bottom:63.08, temp_top:63.27, 
+
+temp_bottom:63.08, temp_top:63.27, 
+
+temp_bottom:63.08, temp_top:63.27, 
+
+temp_bottom:63.08, temp_top:63.27, 
+
+temp_bottom:63.08, temp_top:63.27, 
+
+temp_bottom:63.08, temp_top:63.27, 
+
+temp_bottom:63.08, temp_top:63.46, 
+
+temp_bottom:63.08, temp_top:63.27, 
+
+temp_bottom:63.08, temp_top:63.46, 
+
+temp_bottom:63.27, temp_top:63.27, 
+
+temp_bottom:63.08, temp_top:63.46, 
+
+temp_bottom:63.27, temp_top:63.27, 
+
+temp_bottom:63.27, temp_top:63.46, 
+
+temp_bottom:63.08, temp_top:63.46, 
+
+temp_bottom:63.27, temp_top:63.46, 
+
+temp_bottom:63.27, temp_top:63.46, 
+
+temp_bottom:63.08, temp_top:63.27, 
+
+temp_bottom:63.08, temp_top:63.46, 
+
+temp_bottom:63.08, temp_top:63.27, 
+
+temp_bottom:63.08, temp_top:63.27, 
+
+temp_bottom:63.27, temp_top:63.27, 
+
+temp_bottom:63.27, temp_top:63.27, 
+
+temp_bottom:63.27, temp_top:63.27, 
+
+temp_bottom:63.27, temp_top:63.27, 
+
+temp_bottom:63.27, temp_top:63.27, 
+
+temp_bottom:63.27, temp_top:63.27, 
+
+temp_bottom:63.27, temp_top:63.27, 
+
+temp_bottom:63.27, temp_top:63.27, 
+
+temp_bottom:63.27, temp_top:63.27, 
+
+temp_bottom:63.27, temp_top:63.27, 
+
+temp_bottom:63.27, temp_top:63.08, 
+
+temp_bottom:63.08, temp_top:63.08, 
+
+temp_bottom:63.27, temp_top:63.08, 
+
+temp_bottom:63.27, temp_top:63.08, 
+
+temp_bottom:63.27, temp_top:63.08, 
+
+temp_bottom:63.27, temp_top:63.08, 
+
+temp_bottom:63.27, temp_top:63.08, 
+
+temp_bottom:63.27, temp_top:63.08, 
+
+temp_bottom:63.27, temp_top:63.08, 
+
+temp_bottom:63.27, temp_top:63.08, 
+
+temp_bottom:63.27, temp_top:62.89, 
+
+temp_bottom:63.27, temp_top:62.89, 
+
+temp_bottom:63.27, temp_top:62.89, 
+
+temp_bottom:63.27, temp_top:62.89, 
+
+temp_bottom:63.27, temp_top:62.89, 
+
+temp_bottom:63.27, temp_top:62.89, 
+
+temp_bottom:63.27, temp_top:62.71, 
+
+temp_bottom:63.27, temp_top:62.71, 
+
+temp_bottom:63.27, temp_top:62.71, 
+
+temp_bottom:63.27, temp_top:62.89, 
+
+temp_bottom:63.27, temp_top:62.89, 
+
+temp_bottom:63.27, temp_top:62.89, 
+
+temp_bottom:63.27, temp_top:62.89, 
+
+temp_bottom:63.27, temp_top:62.89, 
+
+temp_bottom:63.27, temp_top:62.89, 
+
+temp_bottom:63.27, temp_top:62.89, 
+
+temp_bottom:63.27, temp_top:62.89, 
+
+temp_bottom:63.27, temp_top:62.89, 
+
+temp_bottom:63.27, temp_top:62.89, 
+
+temp_bottom:63.27, temp_top:62.89, 
+
+temp_bottom:63.27, temp_top:62.89, 
+
+temp_bottom:63.27, temp_top:62.89, 
+
+temp_bottom:63.27, temp_top:62.89, 
+
+temp_bottom:63.27, temp_top:62.89, 
+
+temp_bottom:63.27, temp_top:62.89, 
+
+temp_bottom:63.27, temp_top:62.89, 
+
+temp_bottom:63.27, temp_top:62.89, 
+
+temp_bottom:63.27, temp_top:62.71, 
+
+temp_bottom:63.27, temp_top:62.89, 
+
+temp_bottom:63.27, temp_top:62.71, 
+
+temp_bottom:63.27, temp_top:62.89, 
+
+temp_bottom:63.27, temp_top:62.89, 
+
+temp_bottom:63.27, temp_top:62.89, 
+
+temp_bottom:63.27, temp_top:62.89, 
+
+temp_bottom:63.27, temp_top:62.89, 
+
+temp_bottom:63.27, temp_top:62.89, 
+
+temp_bottom:63.27, temp_top:62.89, 
+
+temp_bottom:63.27, temp_top:62.89, 
+
+temp_bottom:63.27, temp_top:62.89, 
+
+temp_bottom:63.27, temp_top:62.89, 
+
+temp_bottom:63.27, temp_top:62.89, 
+
+temp_bottom:63.27, temp_top:63.08, 
+
+temp_bottom:63.27, temp_top:63.08, 
+
+temp_bottom:63.27, temp_top:63.08, 
+
+temp_bottom:63.27, temp_top:63.08, 
+
+temp_bottom:63.27, temp_top:63.08, 
+
+temp_bottom:63.27, temp_top:63.08, 
+
+temp_bottom:63.27, temp_top:63.08, 
+
+temp_bottom:63.27, temp_top:63.27, 
+
+temp_bottom:63.27, temp_top:63.27, 
+
+temp_bottom:63.46, temp_top:63.27, 
+
+temp_bottom:63.27, temp_top:63.27, 
+
+temp_bottom:63.46, temp_top:63.27, 
+
+temp_bottom:63.46, temp_top:63.27, 
+
+temp_bottom:63.46, temp_top:63.27, 
+
+temp_bottom:63.27, temp_top:63.27, 
+
+temp_bottom:63.46, temp_top:63.27, 
+
+temp_bottom:63.46, temp_top:63.27, 
+
+temp_bottom:63.27, temp_top:63.27, 
+
+temp_bottom:63.46, temp_top:63.27, 
+
+temp_bottom:63.46, temp_top:63.27, 
+
+temp_bottom:63.46, temp_top:63.27, 
+
+temp_bottom:63.46, temp_top:63.27, 
+
+temp_bottom:63.46, temp_top:63.27, 
+
+temp_bottom:63.46, temp_top:63.27, 
+
+temp_bottom:63.46, temp_top:63.27, 
+
+temp_bottom:63.46, temp_top:63.27, 
+
+temp_bottom:63.46, temp_top:63.27, 
+
+temp_bottom:63.46, temp_top:63.27, 
+
+temp_bottom:63.46, temp_top:63.27, 
+
+temp_bottom:63.46, temp_top:63.27, 
+
+temp_bottom:63.46, temp_top:63.27, 
+
+temp_bottom:63.46, temp_top:63.27, 
+
+temp_bottom:63.46, temp_top:63.46, 
+
+temp_bottom:63.46, temp_top:63.27, 
+
+temp_bottom:63.46, temp_top:63.46, 
+
+temp_bottom:63.46, temp_top:63.46, 
+
+temp_bottom:63.46, temp_top:63.46, 
+
+temp_bottom:63.46, temp_top:63.46, 
+
+temp_bottom:63.46, temp_top:63.46, 
+
+temp_bottom:63.46, temp_top:63.46, 
+
+temp_bottom:63.46, temp_top:63.46, 
+
+temp_bottom:63.46, temp_top:63.46, 
+
+temp_bottom:63.46, temp_top:63.46, 
+
+temp_bottom:63.46, temp_top:63.46, 
+
+temp_bottom:63.46, temp_top:63.46, 
+
+temp_bottom:63.46, temp_top:63.46, 
+
+temp_bottom:63.46, temp_top:63.46, 
+
+temp_bottom:63.46, temp_top:63.46, 
+
+temp_bottom:63.46, temp_top:63.46, 
+
+temp_bottom:63.46, temp_top:63.46, 
+
+temp_bottom:63.46, temp_top:63.46, 
+
+temp_bottom:63.46, temp_top:63.65, 
+
+temp_bottom:63.46, temp_top:63.46, 
+
+temp_bottom:63.46, temp_top:63.46, 
+
+temp_bottom:63.46, temp_top:63.46, 
+
+temp_bottom:63.46, temp_top:63.46, 
+
+temp_bottom:63.46, temp_top:63.46, 
+
+temp_bottom:63.46, temp_top:63.46, 
+
+temp_bottom:63.46, temp_top:63.46, 
+
+temp_bottom:63.46, temp_top:63.46, 
+
+temp_bottom:63.46, temp_top:63.46, 
+
+temp_bottom:63.46, temp_top:63.46, 
+
+temp_bottom:63.46, temp_top:63.46, 
+
+temp_bottom:63.46, temp_top:63.46, 
+
+temp_bottom:63.46, temp_top:63.46, 
+
+temp_bottom:63.46, temp_top:63.46, 
+
+temp_bottom:63.46, temp_top:63.46, 
+
+temp_bottom:63.46, temp_top:63.46, 
+
+temp_bottom:63.65, temp_top:63.46, 
+
+temp_bottom:63.46, temp_top:63.46, 
+
+temp_bottom:63.46, temp_top:63.46, 
+
+temp_bottom:63.46, temp_top:63.65, 
+
+temp_bottom:63.46, temp_top:63.46, 
+
+temp_bottom:63.46, temp_top:63.65, 
+
+temp_bottom:63.46, temp_top:63.46, 
+
+temp_bottom:63.46, temp_top:63.46, 
+
+temp_bottom:63.46, temp_top:63.46, 
+
+temp_bottom:63.46, temp_top:63.46, 
+
+temp_bottom:63.65, temp_top:63.46, 
+
+temp_bottom:63.46, temp_top:63.46, 
+
+temp_bottom:63.46, temp_top:63.46, 
+
+temp_bottom:63.46, temp_top:63.46, 
+
+temp_bottom:63.46, temp_top:63.46, 
+
+temp_bottom:63.65, temp_top:63.46, 
+
+temp_bottom:63.65, temp_top:63.46, 
+
+temp_bottom:63.46, temp_top:63.46, 
+
+temp_bottom:63.65, temp_top:63.46, 
+
+temp_bottom:63.46, temp_top:63.46, 
+
+temp_bottom:63.46, temp_top:63.46, 
+
+temp_bottom:63.65, temp_top:63.46, 
+
+temp_bottom:63.65, temp_top:63.46, 
+
+temp_bottom:63.65, temp_top:63.46, 
+
+temp_bottom:63.65, temp_top:63.46, 
+
+temp_bottom:63.65, temp_top:63.46, 
+
+temp_bottom:63.46, temp_top:63.65, 
+
+temp_bottom:63.46, temp_top:63.65, 
+
+temp_bottom:63.46, temp_top:63.46, 
+
+temp_bottom:63.65, temp_top:63.46, 
+
+temp_bottom:63.65, temp_top:63.65, 
+
+temp_bottom:63.65, temp_top:63.65, 
+
+temp_bottom:63.65, temp_top:63.65, 
+
+temp_bottom:63.65, temp_top:63.65, 
+
+temp_bottom:63.65, temp_top:63.65, 
+
+temp_bottom:63.65, temp_top:63.65, 
+
+temp_bottom:63.65, temp_top:63.65, 
+
+temp_bottom:63.65, temp_top:63.65, 
+
+temp_bottom:63.65, temp_top:63.65, 
+
+temp_bottom:63.65, temp_top:63.65, 
+
+temp_bottom:63.46, temp_top:63.65, 
+
+temp_bottom:63.65, temp_top:63.65, 
+
+temp_bottom:63.65, temp_top:63.65, 
+
+temp_bottom:63.65, temp_top:63.65, 
+
+temp_bottom:63.65, temp_top:63.65, 
+
+temp_bottom:63.65, temp_top:63.65, 
+
+temp_bottom:63.65, temp_top:63.65, 
+
+temp_bottom:63.65, temp_top:63.65, 
+
+temp_bottom:63.65, temp_top:63.65, 
+
+temp_bottom:63.65, temp_top:63.65, 
+
+temp_bottom:63.65, temp_top:63.65, 
+
+temp_bottom:63.65, temp_top:63.65, 
+
+temp_bottom:63.65, temp_top:63.65, 
+
+temp_bottom:63.65, temp_top:63.46, 
+
+temp_bottom:63.65, temp_top:63.46, 
+
+temp_bottom:63.65, temp_top:63.65, 
+
+temp_bottom:63.65, temp_top:63.65, 
+
+temp_bottom:63.65, temp_top:63.65, 
+
+temp_bottom:63.65, temp_top:63.65, 
+
+temp_bottom:63.65, temp_top:63.65, 
+
+temp_bottom:63.65, temp_top:63.65, 
+
+temp_bottom:63.65, temp_top:63.65, 
+
+temp_bottom:63.65, temp_top:63.65, 
+
+temp_bottom:63.65, temp_top:63.65, 
+
+temp_bottom:63.65, temp_top:63.65, 
+
+temp_bottom:63.65, temp_top:63.65, 
+
+temp_bottom:63.65, temp_top:63.84, 
+
+temp_bottom:63.65, temp_top:63.84, 
+
+temp_bottom:63.65, temp_top:63.84, 
+
+temp_bottom:63.65, temp_top:63.84, 
+
+temp_bottom:63.65, temp_top:63.84, 
+
+temp_bottom:63.65, temp_top:63.84, 
+
+temp_bottom:63.65, temp_top:63.84, 
+
+temp_bottom:63.65, temp_top:63.84, 
+
+temp_bottom:63.65, temp_top:63.84, 
+
+temp_bottom:63.65, temp_top:64.03, 
+
+temp_bottom:63.65, temp_top:63.84, 
+
+temp_bottom:63.65, temp_top:63.84, 
+
+temp_bottom:63.65, temp_top:63.84, 
+
+temp_bottom:63.65, temp_top:64.03, 
+
+temp_bottom:63.65, temp_top:63.84, 
+
+temp_bottom:63.65, temp_top:63.84, 
+
+temp_bottom:63.65, temp_top:63.84, 
+
+temp_bottom:63.65, temp_top:63.84, 
+
+temp_bottom:63.65, temp_top:63.84, 
+
+temp_bottom:63.65, temp_top:63.84, 
+
+temp_bottom:63.65, temp_top:63.84, 
+
+temp_bottom:63.65, temp_top:63.84, 
+
+temp_bottom:63.65, temp_top:63.84, 
+
+temp_bottom:63.65, temp_top:63.84, 
+
+temp_bottom:63.65, temp_top:63.84, 
+
+temp_bottom:63.65, temp_top:63.84, 
+
+temp_bottom:63.65, temp_top:63.84, 
+
+temp_bottom:63.65, temp_top:63.84, 
+
+temp_bottom:63.84, temp_top:63.84, 
+
+temp_bottom:63.65, temp_top:63.84, 
+
+temp_bottom:63.65, temp_top:64.03, 
+
+temp_bottom:63.65, temp_top:63.84, 
+
+temp_bottom:63.84, temp_top:63.84, 
+
+temp_bottom:63.65, temp_top:63.84, 
+
+temp_bottom:63.65, temp_top:63.84, 
+
+temp_bottom:63.65, temp_top:63.84, 
+
+temp_bottom:63.84, temp_top:63.84, 
+
+temp_bottom:63.65, temp_top:63.84, 
+
+temp_bottom:63.65, temp_top:63.84, 
+
+temp_bottom:63.65, temp_top:63.84, 
+
+temp_bottom:63.84, temp_top:63.84, 
+
+temp_bottom:63.65, temp_top:63.65, 
+
+temp_bottom:63.65, temp_top:63.84, 
+
+temp_bottom:63.65, temp_top:63.65, 
+
+temp_bottom:63.84, temp_top:63.65, 
+
+temp_bottom:63.84, temp_top:63.84, 
+
+temp_bottom:63.84, temp_top:63.65, 
+
+temp_bottom:63.84, temp_top:63.65, 
+
+temp_bottom:63.84, temp_top:63.65, 
+
+temp_bottom:63.65, temp_top:63.65, 
+
+temp_bottom:63.84, temp_top:63.65, 
+
+temp_bottom:63.84, temp_top:63.65, 
+
+temp_bottom:63.65, temp_top:63.65, 
+
+temp_bottom:63.84, temp_top:63.65, 
+
+temp_bottom:63.84, temp_top:63.84, 
+
+temp_bottom:63.65, temp_top:63.65, 
+
+temp_bottom:63.84, temp_top:63.84, 
+
+temp_bottom:63.65, temp_top:63.84, 
+
+temp_bottom:63.65, temp_top:63.84, 
+
+temp_bottom:63.84, temp_top:63.84, 
+
+temp_bottom:63.84, temp_top:63.84, 
+
+temp_bottom:63.65, temp_top:63.84, 
+
+temp_bottom:63.84, temp_top:63.84, 
+
+temp_bottom:63.84, temp_top:63.84, 
+
+temp_bottom:63.84, temp_top:63.84, 
+
+temp_bottom:63.65, temp_top:63.84, 
+
+temp_bottom:63.84, temp_top:63.84, 
+
+temp_bottom:63.84, temp_top:63.84, 
+
+temp_bottom:63.84, temp_top:63.84, 
+
+temp_bottom:63.84, temp_top:63.84, 
+
+temp_bottom:63.84, temp_top:63.84, 
+
+temp_bottom:63.84, temp_top:63.84, 
+
+temp_bottom:63.84, temp_top:63.84, 
+
+temp_bottom:63.84, temp_top:64.03, 
+
+temp_bottom:63.84, temp_top:63.84, 
+
+temp_bottom:63.84, temp_top:63.84, 
+
+temp_bottom:63.84, temp_top:63.84, 
+
+temp_bottom:63.84, temp_top:63.84, 
+
+temp_bottom:63.84, temp_top:64.03, 
+
+temp_bottom:63.84, temp_top:64.03, 
+
+temp_bottom:63.84, temp_top:64.03, 
+
+temp_bottom:63.65, temp_top:64.03, 
+
+temp_bottom:63.84, temp_top:64.03, 
+
+temp_bottom:63.84, temp_top:64.03, 
+
+temp_bottom:63.84, temp_top:63.84, 
+
+temp_bottom:63.84, temp_top:63.84, 
+
+temp_bottom:63.84, temp_top:63.84, 
+
+temp_bottom:63.84, temp_top:64.03, 
+
+temp_bottom:63.84, temp_top:63.84, 
+
+temp_bottom:63.84, temp_top:63.84, 
+
+temp_bottom:63.84, temp_top:63.84, 
+
+temp_bottom:63.84, temp_top:63.84, 
+
+temp_bottom:63.84, temp_top:63.84, 
+
+temp_bottom:63.84, temp_top:64.03, 
+
+temp_bottom:63.84, temp_top:63.84, 
+
+temp_bottom:63.84, temp_top:63.84, 
+
+temp_bottom:63.84, temp_top:64.03, 
+
+temp_bottom:63.84, temp_top:64.03, 
+
+temp_bottom:63.84, temp_top:64.03, 
+
+temp_bottom:63.84, temp_top:64.03, 
+
+temp_bottom:63.84, temp_top:64.03, 
+
+temp_bottom:64.03, temp_top:64.03, 
+
+temp_bottom:63.84, temp_top:64.03, 
+
+temp_bottom:63.84, temp_top:64.03, 
+
+temp_bottom:64.03, temp_top:64.03, 
+
+temp_bottom:63.84, temp_top:64.03, 
+
+temp_bottom:63.84, temp_top:64.03, 
+
+temp_bottom:63.84, temp_top:64.03, 
+
+temp_bottom:63.84, temp_top:64.03, 
+
+temp_bottom:63.84, temp_top:64.03, 
+
+temp_bottom:63.84, temp_top:64.03, 
+
+temp_bottom:63.84, temp_top:64.03, 
+
+temp_bottom:63.84, temp_top:64.03, 
+
+temp_bottom:63.84, temp_top:64.03, 
+
+temp_bottom:63.84, temp_top:64.03, 
+
+temp_bottom:63.84, temp_top:64.03, 
+
+temp_bottom:63.84, temp_top:64.03, 
+
+temp_bottom:63.84, temp_top:64.03, 
+
+temp_bottom:63.84, temp_top:64.03, 
+
+temp_bottom:63.84, temp_top:64.03, 
+
+temp_bottom:63.84, temp_top:64.03, 
+
+temp_bottom:63.84, temp_top:64.03, 
+
+temp_bottom:63.84, temp_top:64.03, 
+
+temp_bottom:63.84, temp_top:63.84, 
+
+temp_bottom:63.84, temp_top:63.84, 
+
+temp_bottom:63.84, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:63.84, temp_top:63.84, 
+
+temp_bottom:63.84, temp_top:63.84, 
+
+temp_bottom:63.84, temp_top:63.84, 
+
+temp_bottom:63.84, temp_top:63.84, 
+
+temp_bottom:63.84, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:63.84, temp_top:63.84, 
+
+temp_bottom:63.84, temp_top:63.84, 
+
+temp_bottom:63.84, temp_top:63.84, 
+
+temp_bottom:63.84, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:63.84, temp_top:63.84, 
+
+temp_bottom:63.84, temp_top:63.84, 
+
+temp_bottom:63.84, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:63.84, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.65, 
+
+temp_bottom:63.84, temp_top:63.65, 
+
+temp_bottom:64.03, temp_top:63.65, 
+
+temp_bottom:63.84, temp_top:63.65, 
+
+temp_bottom:63.84, temp_top:63.65, 
+
+temp_bottom:63.84, temp_top:63.65, 
+
+temp_bottom:64.03, temp_top:63.65, 
+
+temp_bottom:64.03, temp_top:63.65, 
+
+temp_bottom:63.84, temp_top:63.65, 
+
+temp_bottom:63.84, temp_top:63.65, 
+
+temp_bottom:64.03, temp_top:63.65, 
+
+temp_bottom:64.03, temp_top:63.65, 
+
+temp_bottom:63.84, temp_top:63.65, 
+
+temp_bottom:64.03, temp_top:63.65, 
+
+temp_bottom:64.03, temp_top:63.65, 
+
+temp_bottom:64.03, temp_top:63.65, 
+
+temp_bottom:64.03, temp_top:63.65, 
+
+temp_bottom:64.03, temp_top:63.65, 
+
+temp_bottom:64.03, temp_top:63.65, 
+
+temp_bottom:63.84, temp_top:63.46, 
+
+temp_bottom:64.03, temp_top:63.46, 
+
+temp_bottom:63.84, temp_top:63.46, 
+
+temp_bottom:64.03, temp_top:63.46, 
+
+temp_bottom:64.03, temp_top:63.46, 
+
+temp_bottom:64.03, temp_top:63.46, 
+
+temp_bottom:63.84, temp_top:63.46, 
+
+temp_bottom:63.84, temp_top:63.46, 
+
+temp_bottom:64.03, temp_top:63.46, 
+
+temp_bottom:64.03, temp_top:63.46, 
+
+temp_bottom:64.03, temp_top:63.46, 
+
+temp_bottom:64.03, temp_top:63.46, 
+
+temp_bottom:64.03, temp_top:63.46, 
+
+temp_bottom:64.03, temp_top:63.65, 
+
+temp_bottom:64.03, temp_top:63.46, 
+
+temp_bottom:64.03, temp_top:63.46, 
+
+temp_bottom:64.03, temp_top:63.65, 
+
+temp_bottom:64.03, temp_top:63.46, 
+
+temp_bottom:64.03, temp_top:63.46, 
+
+temp_bottom:64.03, temp_top:63.65, 
+
+temp_bottom:64.03, temp_top:63.46, 
+
+temp_bottom:64.03, temp_top:63.65, 
+
+temp_bottom:63.84, temp_top:63.65, 
+
+temp_bottom:64.03, temp_top:63.46, 
+
+temp_bottom:64.03, temp_top:63.65, 
+
+temp_bottom:64.03, temp_top:63.65, 
+
+temp_bottom:63.84, temp_top:63.46, 
+
+temp_bottom:64.03, temp_top:63.46, 
+
+temp_bottom:64.03, temp_top:63.65, 
+
+temp_bottom:64.03, temp_top:63.65, 
+
+temp_bottom:63.84, temp_top:63.46, 
+
+temp_bottom:64.03, temp_top:63.65, 
+
+temp_bottom:64.03, temp_top:63.46, 
+
+temp_bottom:64.03, temp_top:63.46, 
+
+temp_bottom:64.03, temp_top:63.46, 
+
+temp_bottom:64.03, temp_top:63.46, 
+
+temp_bottom:64.03, temp_top:63.46, 
+
+temp_bottom:64.03, temp_top:63.46, 
+
+temp_bottom:64.03, temp_top:63.46, 
+
+temp_bottom:64.03, temp_top:63.46, 
+
+temp_bottom:64.03, temp_top:63.46, 
+
+temp_bottom:64.03, temp_top:63.65, 
+
+temp_bottom:64.03, temp_top:63.65, 
+
+temp_bottom:64.03, temp_top:63.46, 
+
+temp_bottom:64.03, temp_top:63.65, 
+
+temp_bottom:63.84, temp_top:63.65, 
+
+temp_bottom:64.03, temp_top:63.65, 
+
+temp_bottom:64.03, temp_top:63.46, 
+
+temp_bottom:64.03, temp_top:63.65, 
+
+temp_bottom:64.03, temp_top:63.65, 
+
+temp_bottom:64.03, temp_top:63.65, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.65, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:63.84, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.65, 
+
+temp_bottom:64.03, temp_top:63.65, 
+
+temp_bottom:64.03, temp_top:63.65, 
+
+temp_bottom:64.03, temp_top:63.65, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.65, 
+
+temp_bottom:64.03, temp_top:63.65, 
+
+temp_bottom:64.03, temp_top:63.65, 
+
+temp_bottom:64.03, temp_top:63.65, 
+
+temp_bottom:64.03, temp_top:63.65, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.65, 
+
+temp_bottom:64.03, temp_top:63.65, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:64.03, 
+
+temp_bottom:64.03, temp_top:64.03, 
+
+temp_bottom:64.03, temp_top:64.03, 
+
+temp_bottom:64.03, temp_top:64.03, 
+
+temp_bottom:64.03, temp_top:64.03, 
+
+temp_bottom:64.03, temp_top:64.03, 
+
+temp_bottom:64.03, temp_top:64.03, 
+
+temp_bottom:64.03, temp_top:64.03, 
+
+temp_bottom:64.03, temp_top:64.03, 
+
+temp_bottom:64.03, temp_top:64.03, 
+
+temp_bottom:64.03, temp_top:64.03, 
+
+temp_bottom:64.03, temp_top:64.03, 
+
+temp_bottom:64.03, temp_top:64.03, 
+
+temp_bottom:64.03, temp_top:64.03, 
+
+temp_bottom:64.03, temp_top:64.03, 
+
+temp_bottom:64.03, temp_top:64.03, 
+
+temp_bottom:64.03, temp_top:64.03, 
+
+temp_bottom:64.03, temp_top:64.03, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.22, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:64.03, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.22, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.22, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.22, temp_top:64.03, 
+
+temp_bottom:64.22, temp_top:64.03, 
+
+temp_bottom:64.03, temp_top:64.03, 
+
+temp_bottom:64.22, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:64.03, 
+
+temp_bottom:64.03, temp_top:64.03, 
+
+temp_bottom:64.03, temp_top:64.03, 
+
+temp_bottom:64.03, temp_top:64.03, 
+
+temp_bottom:64.03, temp_top:64.03, 
+
+temp_bottom:64.22, temp_top:64.03, 
+
+temp_bottom:64.03, temp_top:64.03, 
+
+temp_bottom:64.22, temp_top:64.03, 
+
+temp_bottom:64.22, temp_top:64.03, 
+
+temp_bottom:64.22, temp_top:64.03, 
+
+temp_bottom:64.22, temp_top:64.03, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.22, temp_top:64.03, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.22, temp_top:63.84, 
+
+temp_bottom:64.22, temp_top:63.84, 
+
+temp_bottom:64.22, temp_top:63.84, 
+
+temp_bottom:64.22, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.22, temp_top:63.84, 
+
+temp_bottom:64.22, temp_top:63.84, 
+
+temp_bottom:64.22, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.22, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.22, temp_top:63.84, 
+
+temp_bottom:64.22, temp_top:63.84, 
+
+temp_bottom:64.22, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.22, temp_top:63.84, 
+
+temp_bottom:64.22, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:64.03, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.22, temp_top:63.84, 
+
+temp_bottom:64.22, temp_top:63.84, 
+
+temp_bottom:64.22, temp_top:63.84, 
+
+temp_bottom:64.22, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.22, temp_top:63.84, 
+
+temp_bottom:64.22, temp_top:63.84, 
+
+temp_bottom:64.22, temp_top:63.84, 
+
+temp_bottom:64.22, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.22, temp_top:63.84, 
+
+temp_bottom:64.22, temp_top:63.84, 
+
+temp_bottom:64.22, temp_top:63.84, 
+
+temp_bottom:64.22, temp_top:63.84, 
+
+temp_bottom:64.22, temp_top:63.84, 
+
+temp_bottom:64.22, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:63.84, 
+
+temp_bottom:64.22, temp_top:64.03, 
+
+temp_bottom:64.22, temp_top:63.84, 
+
+temp_bottom:64.03, temp_top:64.03, 
+
+temp_bottom:64.22, temp_top:64.03, 
+
+temp_bottom:64.22, temp_top:64.03, 
+
+temp_bottom:64.03, temp_top:64.03, 
+
+temp_bottom:64.22, temp_top:64.03, 
+
+temp_bottom:64.22, temp_top:64.03, 
+
+temp_bottom:64.22, temp_top:64.03, 
+
+temp_bottom:64.22, temp_top:64.03, 
+
+temp_bottom:64.22, temp_top:64.03, 
+
+temp_bottom:64.03, temp_top:64.03, 
+
+temp_bottom:64.03, temp_top:64.03, 
+
+temp_bottom:64.22, temp_top:64.03, 
+
+temp_bottom:64.22, temp_top:64.03, 
+
+temp_bottom:64.22, temp_top:64.03, 
+
+temp_bottom:64.22, temp_top:64.22, 
+
+temp_bottom:64.22, temp_top:64.03, 
+
+temp_bottom:64.22, temp_top:64.03, 
+
+temp_bottom:64.22, temp_top:64.03, 
+
+temp_bottom:64.22, temp_top:64.03, 
+
+temp_bottom:64.22, temp_top:64.03, 
+
+temp_bottom:64.03, temp_top:64.22, 
+
+temp_bottom:64.22, temp_top:64.22, 
+
+temp_bottom:64.22, temp_top:64.22, 
+
+temp_bottom:64.22, temp_top:64.22, 
+
+temp_bottom:64.22, temp_top:64.22, 
+
+temp_bottom:64.22, temp_top:64.22, 
+
+temp_bottom:64.22, temp_top:64.22, 
+
+temp_bottom:64.22, temp_top:64.22, 
+
+temp_bottom:64.22, temp_top:64.22, 
+
+temp_bottom:64.22, temp_top:64.22, 
+
+temp_bottom:64.22, temp_top:64.22, 
+
+temp_bottom:64.22, temp_top:64.22, 
+
+temp_bottom:64.22, temp_top:64.22, 
+
+temp_bottom:64.22, temp_top:64.22, 
+
+temp_bottom:64.22, temp_top:64.22, 
+
+temp_bottom:64.22, temp_top:64.42, 
+
+temp_bottom:64.22, temp_top:64.22, 
+
+temp_bottom:64.22, temp_top:64.22, 
+
+temp_bottom:64.22, temp_top:64.22, 
+
+temp_bottom:64.22, temp_top:64.22, 
+
+temp_bottom:64.22, temp_top:64.22, 
+
+temp_bottom:64.22, temp_top:64.22, 
+
+temp_bottom:64.22, temp_top:64.22, 
+
+temp_bottom:64.22, temp_top:64.22, 
+
+temp_bottom:64.22, temp_top:64.22, 
+
+temp_bottom:64.22, temp_top:64.22, 
+
+temp_bottom:64.22, temp_top:64.22, 
+
+temp_bottom:64.22, temp_top:64.22, 
+
+temp_bottom:64.22, temp_top:64.22, 
+
+temp_bottom:64.22, temp_top:64.22, 
+
+temp_bottom:64.03, temp_top:64.22, 
+
+temp_bottom:64.22, temp_top:64.22, 
+
+temp_bottom:64.22, temp_top:64.22, 
+
+temp_bottom:64.22, temp_top:64.22, 
+
+temp_bottom:64.22, temp_top:64.22, 
+
+temp_bottom:64.22, temp_top:64.22, 
+
+temp_bottom:64.22, temp_top:64.22, 
+
+temp_bottom:64.22, temp_top:64.22, 
+
+temp_bottom:64.22, temp_top:64.22, 
+
+temp_bottom:64.22, temp_top:64.22, 
+
+temp_bottom:64.22, temp_top:64.22, 
+
+temp_bottom:64.22, temp_top:64.22, 
+
+temp_bottom:64.22, temp_top:64.22, 
+
+temp_bottom:64.22, temp_top:64.22, 
+
+temp_bottom:64.22, temp_top:64.03, 
+
+temp_bottom:64.22, temp_top:64.03, 
+
+temp_bottom:64.22, temp_top:64.22, 
+
+temp_bottom:64.22, temp_top:64.03, 
+
+temp_bottom:64.22, temp_top:64.22, 
+
+temp_bottom:64.22, temp_top:64.22, 
+
+temp_bottom:64.22, temp_top:64.22, 
+
+temp_bottom:64.22, temp_top:64.22, 
+
+temp_bottom:64.22, temp_top:64.22, 
+
+temp_bottom:64.22, temp_top:64.22, 
+
+temp_bottom:64.22, temp_top:64.22, 
+
+temp_bottom:64.22, temp_top:64.22, 
+
+temp_bottom:64.22, temp_top:64.42, 
+
+temp_bottom:64.22, temp_top:64.42, 
+
+temp_bottom:64.22, temp_top:64.42, 
+
+temp_bottom:64.22, temp_top:64.42, 
+
+temp_bottom:64.22, temp_top:64.42, 
+
+temp_bottom:64.22, temp_top:64.22, 
+
+temp_bottom:64.22, temp_top:64.42, 
+
+temp_bottom:64.22, temp_top:64.22, 
+
+temp_bottom:64.22, temp_top:64.22, 
+
+temp_bottom:64.22, temp_top:64.22, 
+
+temp_bottom:64.22, temp_top:64.22, 
+
+temp_bottom:64.22, temp_top:64.03, 
+
+temp_bottom:64.22, temp_top:64.03, 
+
+temp_bottom:64.22, temp_top:64.03, 
+
+temp_bottom:64.22, temp_top:64.03, 
+
+temp_bottom:64.22, temp_top:64.03, 
+
+temp_bottom:64.42, temp_top:64.03, 
+
+temp_bottom:64.22, temp_top:63.84, 
+
+temp_bottom:64.22, temp_top:63.84, 
+
+temp_bottom:64.22, temp_top:63.84, 
+
+temp_bottom:64.22, temp_top:63.84, 
+
+temp_bottom:64.22, temp_top:63.84, 
+
+temp_bottom:64.22, temp_top:63.84, 
+
+temp_bottom:64.42, temp_top:63.84, 
+
+temp_bottom:64.22, temp_top:63.84, 
+
+temp_bottom:64.22, temp_top:63.84, 
+
+temp_bottom:64.22, temp_top:63.84, 
+
+temp_bottom:64.22, temp_top:63.84, 
+
+temp_bottom:64.42, temp_top:63.84, 
+
+temp_bottom:64.22, temp_top:64.03, 
+
+temp_bottom:64.22, temp_top:64.03, 
+
+temp_bottom:64.22, temp_top:64.03, 
+
+temp_bottom:64.22, temp_top:64.03, 
+
+temp_bottom:64.42, temp_top:64.03, 
+
+temp_bottom:64.22, temp_top:64.03, 
+
+temp_bottom:64.22, temp_top:64.03, 
+
+temp_bottom:64.22, temp_top:64.03, 
+
+temp_bottom:64.22, temp_top:64.03, 
+
+temp_bottom:64.22, temp_top:63.84, 
+
+temp_bottom:64.42, temp_top:63.84, 
+
+temp_bottom:64.22, temp_top:63.84, 
+
+temp_bottom:64.42, temp_top:63.84, 
+
+temp_bottom:64.22, temp_top:63.84, 
+
+temp_bottom:64.22, temp_top:63.84, 
+
+temp_bottom:64.42, temp_top:63.84, 
+
+temp_bottom:64.22, temp_top:63.84, 
+
+temp_bottom:64.42, temp_top:63.84, 
+
+temp_bottom:64.22, temp_top:63.84, 
+
+temp_bottom:64.22, temp_top:63.84, 
+
+temp_bottom:64.22, temp_top:63.84, 
+
+temp_bottom:64.22, temp_top:63.84, 
+
+temp_bottom:64.42, temp_top:63.84, 
+
+temp_bottom:64.42, temp_top:63.84, 
+
+temp_bottom:64.22, temp_top:63.84, 
+
+temp_bottom:64.42, temp_top:63.84, 
+
+temp_bottom:64.42, temp_top:63.84, 
+
+temp_bottom:64.22, temp_top:63.84, 
+
+temp_bottom:64.42, temp_top:63.84, 
+
+temp_bottom:64.42, temp_top:63.84, 
+
+temp_bottom:64.22, temp_top:64.03, 
+
+temp_bottom:64.22, temp_top:63.84, 
+
+temp_bottom:64.22, temp_top:63.84, 
+
+temp_bottom:64.42, temp_top:63.84, 
+
+temp_bottom:64.42, temp_top:63.84, 
+
+temp_bottom:64.22, temp_top:63.84, 
+
+temp_bottom:64.42, temp_top:64.03, 
+
+temp_bottom:64.42, temp_top:63.84, 
+
+temp_bottom:64.42, temp_top:64.03, 
+
+temp_bottom:64.42, temp_top:63.84, 
+
