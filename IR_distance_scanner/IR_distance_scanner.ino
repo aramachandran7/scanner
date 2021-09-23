@@ -100,6 +100,7 @@ void read_data_and_filter(){
 bool move_pan(uint8_t target_pos){
   if ((millis()-start_time_pan > total_time_pan) and pan_pos == target_pos){
     first_time_pan = true; 
+    start_pos_pan = pan_pos; 
     return true; 
   }
   if (first_time_pan){
@@ -120,6 +121,7 @@ bool move_pan(uint8_t target_pos){
 bool move_tilt(uint8_t target_pos){
   if ((millis()-start_time_tilt > total_time_tilt) and (tilt_pos == target_pos)){
     first_time_tilt = true; 
+    start_pos_tilt = tilt_pos; 
     return true; 
   }
   if (first_time_tilt){
@@ -146,25 +148,59 @@ void scan(){
   
   // collect data over entire SCAN state at 5 Hz for rolling filter
   read_data_and_filter(); 
-  
-  if (tilt_pos < TILT_MAX_RNG){
-    if (move_tilt(start_pos_tilt + TILT_INCR)){
-      // TODO: start_pos_tilt += TILT_INCR
-      // handle async panning and tilting 
-      
-    }
-  }
 
-  if (pan_pos < PAN_MAX_RNG){
-    if (move_pan(start_pos_pan + PAN_INCR){
-      
+  // increment PAN within tilt, PAN essentially monitors progress 
+  if (tilt_climbing == true){
+    // tilt climbing 
+    if (tilt_pos < TILT_MAX_RNG){
+      if (move_tilt(start_pos_tilt + TILT_INCR)){
+        // move has completed, send data
+        send_packet(); 
+      }
+    } else {
+        if (pan_pos < PAN_MAX_RNG){
+          // increment PAN
+          if move_pan(start_pos_pan + PAN_INCR){
+            // change state & send packet 
+            send_packet(); 
+            tilt_climbing = true; 
+          }
+        } else {
+          // COMPLETE
+          send_packet(); 
+          exit_scan(); 
+        }
     }
+    
+  } else {
+    // tilt_falling
+    if (tilt_pos> MIN_TILT_RNG){
+      if (move_tilt(start_pos_tilt - TIL_INCR)){
+        // move has completed, send data
+        send_packet(); 
+      }
+    } else {
+      if (pan_pos < PAN_MAX_RNG){
+        // increment PAN
+        if move_pan(start_pos_pan + PAN_INCR){
+          // change state & send packet 
+          send_packet(); 
+          tilt_climbing = true; 
+        }
+      } else {
+        // COMPLETE 
+        send_packet(); 
+        exit_scan(); 
+    } 
   }
-  
-  
-  
-
+  }
   return;
+}
+
+
+/* called on scan completion or exit command */
+void exit_scan(){
+  return;   
 }
 
 /* return servo to home state */
