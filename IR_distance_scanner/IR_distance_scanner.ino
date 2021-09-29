@@ -23,7 +23,7 @@
 *     - command start byte / ACK byte 
 *     - data format (4 byte buffer?) 
 *     - setting settings like overall scan speed / precision 
-*     - start scan() function params send back, to 'set expections on .py side', help progress tracking, etc
+*     - start scan() function params send back, to 'set expections on .py side', help progress tracking, etcB
 *   - fix FSM 
 *     - draw out bubble diagram, fix and clarify transitions based on .py interface 
 */
@@ -183,9 +183,9 @@ void tilt_1_degree(bool climbing){
       send_packet(); 
       tilt_set_point += TILT_INCR; 
       pan_set_point = (climbing) ? (PAN_MAX_RNG - PAN_INCR) : (PAN_MIN_RNG + PAN_INCR); 
-      Serial.println("COMPLETED PAN SWEEP & TILT BUMP, SWITCHING DIRECTION");    
+//      Serial.println("COMPLETED PAN SWEEP & TILT BUMP, SWITCHING DIRECTION");    
 //            Serial.print("new pan_set_point: "); Serial.print(pan_set_point); 
-      Serial.println(); 
+//      Serial.println(); 
       delay(STOP_DELAY); 
     }
   } else if (tilt_pos == TILT_MAX_RNG){ // scan complete 
@@ -243,7 +243,7 @@ void scan(){
 /* called on scan completion or exit command */
 void exit_scan(){
 //  Serial.write(0xFF); // Writes 255 over serial to indicate scan completion 
-  Serial.println("SCANNING COMPLETE >> WAITING"); 
+//  Serial.println("SCANNING COMPLETE >> WAITING"); 
   system_state = WAITING; // HOMING? 
   return;   
 }
@@ -253,14 +253,16 @@ void exit_scan(){
 /* sends packet of 3 bytes over serial: pan angle, tilt angle, distance measurement */
 void send_packet(){  
   
-  uint8_t data_arr[4] = {pan_pos, tilt_pos}; // stick filtered_sensor_val 
+//  uint8_t data_arr[4] = {pan_pos, tilt_pos}; // stick filtered_sensor_val 
 //  Serial.write(data_arr, 4); 
 
 
-  Serial.print("PAN:"); Serial.print(pan_pos); Serial.print(", ");
-  Serial.print("TILT:"); Serial.print(tilt_pos); Serial.print(", ");
-  Serial.print("DATA:"); Serial.print(filtered_sensor_value); Serial.print(", ");
-  Serial.println();
+//  Serial.print("PAN:"); Serial.print(pan_pos); Serial.print(", ");
+//  Serial.print("TILT:"); Serial.print(tilt_pos); Serial.print(", ");
+//  Serial.print("DATA:"); Serial.print(filtered_sensor_value); Serial.print(", ");
+//  Serial.println();
+
+  Serial.print(pan_pos); Serial.print(","); Serial.print(tilt_pos); Serial.print(","); Serial.print(filtered_sensor_value); Serial.print(","); Serial.println(); 
 }
 
 
@@ -268,7 +270,7 @@ void send_packet(){
 void return_to_home(){
   if (move_pan(PAN_MIN_RNG) and move_tilt(TILT_MIN_RNG)){ 
     system_state = SCANNING; // TODO switch to waiting down the line  
-    Serial.println("HOMING COMPLETE>> STARTING SCAN."); 
+//    Serial.println("HOMING COMPLETE>> STARTING SCAN."); 
     delay(500); 
   }
 }
