@@ -6,9 +6,19 @@
 #      *                                                                *
 #      ******************************************************************
 
-
+#get data imports
 import serial
 import keyboard
+
+#data to coord imports
+from math import sin, cos, radians
+import numpy as np
+from StoreAndPlotDummy import dataToDistance
+
+#plotting imports
+import matplotlib.pyplot as plt
+from mpl_toolkits.mplot3d import proj3d
+
 #
 # Note 1: This python script was designed to run with Python 3.
 #
@@ -30,7 +40,7 @@ import keyboard
 # For Windows computers, the name is formatted like: "COM6"
 # For Apple computers, the name is formatted like: "/dev/tty.usbmodemfa141"
 #
-arduinoComPort = "/dev/ttyACM0"
+arduinoComPort = "/dev/ttyUSB0"
 
 
 #
@@ -47,11 +57,13 @@ baudRate = 115200
 #
 serialPort = serial.Serial(arduinoComPort, baudRate, timeout=1)
 
+#defining lists for data storage
+x = []
+y=[]
+z=[]
 
 
-#
-# main loop to read data from the Arduino, then display it
-#
+# main loop to read data from the Arduino, then store & display it
 while True:
     try:  # used try so that if user pressed other than the given key error will not be shown
         if keyboard.is_pressed('q'):  # if key 'q' is pressed
@@ -77,13 +89,25 @@ while True:
     # data was received, convert it into 4 integers
     #
         print(lineOfData)
-        pan_angle = lineOfData[0]
-        tilt_angle = lineOfData[1]
-        sensor_data = lineOfData[2]
-        # calcs ...
-        # compute distnace
+        a = lineOfData.split(",")
+        print(a)
 
-        # compute x y z 
+        #a0=pan angle in degrees, a1=tilt angle in deg, a2=sensor data
+
+        #turn data into coordinates & add to final plotting lists
+        x.append(cos(radians(int(a[0])))*cos(radians(int(a[1])*dataToDistance(int(a[2])))))
+        y.append(sin(radians(int(a[0])))*cos(radians(int(a[1])))*dataToDistance(int(a[2])))
+        z.append(sin(radians(int(a[1])))*dataToDistance(int(a[0])))
+
+    else:
+        # once line of data = 0 (in other words all data is collected), plot
+
+        fig = plt.figure(figsize=(8, 8))
+        ax = fig.add_subplot(111, projection='3d')
+
+        ax.scatter(x, y, z)
+        plt.show()
+
     # therm_a, therm_b = (int(x) for x in lineOfData.split(','))
     #
     # #
