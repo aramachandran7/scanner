@@ -77,6 +77,13 @@ while True:
     # data was received, convert it into 4 integers
     #
         print(lineOfData)
+        pan_angle = lineOfData[0]
+        tilt_angle = lineOfData[1]
+        sensor_data = lineOfData[2]
+        # calcs ...
+        # compute distnace
+
+        # compute x y z 
     # therm_a, therm_b = (int(x) for x in lineOfData.split(','))
     #
     # #
