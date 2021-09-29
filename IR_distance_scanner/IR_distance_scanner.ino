@@ -33,8 +33,8 @@
 #define ROLL_FILTER_SZ            20    // size of rolling / moving avg filter for scan data
 #define SCANNER_POLL_RATE         20    // in Hz
 
-#define SLOW 
-//#define FAST
+//#define SLOW 
+#define FAST
 
 #ifdef  SLOW
 #define SERVO_SPEED               .018  // in deg/ms
@@ -42,15 +42,21 @@
 #define SERVO_SPEED               .024  // in deg/ms
 #endif
 
-#define PAN_INCR                  10
-#define TILT_INCR                 10
+#define PAN_INCR                  2
+#define TILT_INCR                 2
 
-#define PAN_MIN_RNG               40
-#define PAN_MAX_RNG               140
-#define TILT_MIN_RNG              40
-#define TILT_MAX_RNG              140
+#define PAN_MIN_RNG               60
+#define PAN_MAX_RNG               120
+#define TILT_MIN_RNG              70
+#define TILT_MAX_RNG              110
 
-#define STOP_DELAY                50 // delay in ms after stopping at every point for data recording 
+#define STOP_DELAY                200 // delay in ms after stopping at every point for data recording 
+
+
+/* 'communication protocol' definition */
+#define COMM_START_BYTE           173
+#define COMM_STOP_BYTE            177
+//#define COMM_
 
 enum FSM { // system state enum 
   WAITING, 
@@ -95,6 +101,10 @@ bool      first_time_data             = true;
 uint8_t   pan_set_point               = PAN_MIN_RNG + PAN_INCR; 
 uint8_t   tilt_set_point              = TILT_MIN_RNG + TILT_INCR;
 
+uint32_t  start_time_wait             = 0; 
+bool      first_time_wait             = true; 
+
+bool      tilt_is_climbing            = false; 
 Servo pan_servo; 
 Servo tilt_servo; 
 
@@ -130,8 +140,21 @@ void read_data_and_filter(){
   }
 }
 
+/* returns true when time has passed, returns false otherwise - non blocking timing function used in place of delay */
+bool wait_ms(uint32_t wait_time_ms){
+  if (first_time_wait){
+    start_time_wait = millis(); 
+    first_time_wait = false; 
+  }
+  if (millis() - start_time_wait >= wait_time_ms){
+    first_time_wait = true; 
+    return true; 
+  }
+  return false; 
+}
 
-// handles async sweeping pan servo --> ideally only some variables from this should be exposed to scope of this file, also add ability to set speed from this function potentially 
+
+/* handles async sweeping pan servo --> ideally only some variables from this should be exposed to scope of this file, also add ability to set speed from this function potentially */ 
 bool move_pan(uint8_t target_pos){
   // function call exit case
   if (pan_pos == target_pos and ((millis() - start_time_pan) >= total_time_pan)){
@@ -179,16 +202,21 @@ bool move_tilt(uint8_t target_pos){
 void tilt_1_degree(bool climbing){
   if (tilt_pos < TILT_MAX_RNG){
     if (move_tilt(tilt_set_point)){
-      tilt_climbing = !climbing; // switch into alternate conditional
-      send_packet(); 
-      tilt_set_point += TILT_INCR; 
-      pan_set_point = (climbing) ? (PAN_MAX_RNG - PAN_INCR) : (PAN_MIN_RNG + PAN_INCR); 
+      if (wait_ms(STOP_DELAY)){ // WAIT FOR STOP DELAY
+        tilt_climbing = !climbing; // switch into alternate conditional
+        send_packet(); 
+        tilt_set_point += TILT_INCR; 
+        tilt_is_climbing = false; 
+        pan_set_point = (climbing) ? (PAN_MAX_RNG - PAN_INCR) : (PAN_MIN_RNG + PAN_INCR);   
+      }
+      
 //      Serial.println("COMPLETED PAN SWEEP & TILT BUMP, SWITCHING DIRECTION");    
 //            Serial.print("new pan_set_point: "); Serial.print(pan_set_point); 
 //      Serial.println(); 
-      delay(STOP_DELAY); 
+      
     }
   } else if (tilt_pos == TILT_MAX_RNG){ // scan complete 
+    // implement wait_ms()
     send_packet(); 
     exit_scan(); 
   } else {
@@ -209,14 +237,22 @@ void scan(){
         // increment PAN
         if (move_pan(pan_set_point)){ // start_pos_pan + PAN_INCR
           // change state & send packet 
-          send_packet(); 
-          pan_set_point += PAN_INCR; 
-          delay(STOP_DELAY); // for visbility, TODO test if needed for data quality 
+          if (wait_ms(STOP_DELAY)){
+            send_packet(); 
+            pan_set_point += PAN_INCR;   
+          }
+          
+//          delay(STOP_DELAY); // for visbility, TODO test if needed for data quality 
         }
       } else if (pan_pos == PAN_MAX_RNG){
-//        send packet and reverse direction 
-          if (move_pan(PAN_MAX_RNG)){ // move needs to be reset
-            send_packet(); 
+          // execution here is: send data; wait. climb (includes wait & reverse direction). 
+          if (move_pan(PAN_MAX_RNG)){ // move needs to be reset, so we keep this function call here. 
+            if (!tilt_is_climbing){
+              if (wait_ms(STOP_DELAY)){
+                send_packet(); 
+                tilt_is_climbing = true; 
+              }
+            }            
             tilt_1_degree(tilt_climbing); 
           }
       } else {
@@ -226,13 +262,21 @@ void scan(){
     if (pan_pos > PAN_MIN_RNG){
       // decrement PAN
       if (move_pan(pan_set_point)){ 
-        send_packet(); 
-        pan_set_point -= PAN_INCR; 
-        delay(STOP_DELAY); 
+        if (wait_ms(STOP_DELAY)){
+          send_packet(); 
+          pan_set_point -= PAN_INCR; 
+        }
+        
+//        delay(STOP_DELAY); 
       }
     } else if (pan_pos == PAN_MIN_RNG) {
-        send_packet(); // how to avoid repeated packets??
-        tilt_1_degree(tilt_climbing); 
+        if (!tilt_is_climbing){
+          if (wait_ms(STOP_DELAY)){
+            send_packet(); 
+            tilt_is_climbing = true; 
+          }
+        }            
+        tilt_1_degree(tilt_climbing);  
     } else {
       tilt_1_degree(tilt_climbing); 
     }
@@ -244,6 +288,7 @@ void scan(){
 void exit_scan(){
 //  Serial.write(0xFF); // Writes 255 over serial to indicate scan completion 
 //  Serial.println("SCANNING COMPLETE >> WAITING"); 
+  Serial.print(COMM_STOP_BYTE); // STOP byte
   system_state = WAITING; // HOMING? 
   return;   
 }
@@ -270,8 +315,7 @@ void send_packet(){
 void return_to_home(){
   if (move_pan(PAN_MIN_RNG) and move_tilt(TILT_MIN_RNG)){ 
     system_state = SCANNING; // TODO switch to waiting down the line  
-//    Serial.println("HOMING COMPLETE>> STARTING SCAN."); 
-    delay(500); 
+//    Serial.print(COMM_START_BYTE); 
   }
 }
 
