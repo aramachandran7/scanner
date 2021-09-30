@@ -1,0 +1,184 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title "Template Board"
+Date "2019-08-22"
+Rev "1"
+Comp "Olin Electric Motorsports"
+Comment1 "Aditya Sudhakar"
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Text Notes 10600 7650 0    50   ~ 0
+2
+$Comp
+L formula:ATmega328P-AU U1
+U 1 1 615662FA
+P 7500 2350
+F 0 "U1" H 7300 3917 50  0000 C CNN
+F 1 "ATmega328P-AU" H 7300 3826 50  0000 C CNN
+F 2 "Package_QFP:TQFP-32_7x7mm_P0.8mm" H 7300 3900 50  0001 C CIN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf" H 7500 2350 50  0001 C CNN
+F 4 "https://www.digikey.com/product-detail/en/microchip-technology/ATMEGA328P-15AZ/ATMEGA328P-15AZTR-ND/1914586" H 7500 2350 50  0001 C CNN "PurchasingLink"
+F 5 "ATMEGA328P-15AZTR-ND" H 7500 2350 50  0001 C CNN "MPN"
+F 6 "DK" H 7500 2350 50  0001 C CNN "MFN"
+	1    7500 2350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6500 1150 6500 1250
+Wire Wire Line
+	6500 3250 6500 3350
+Connection ~ 6500 3350
+Wire Wire Line
+	6500 3350 6500 3450
+Text Label 8100 2550 0    50   ~ 0
+ir_scanner_data
+$Comp
+L power:+5V #PWR01
+U 1 1 615721B2
+P 6500 1150
+F 0 "#PWR01" H 6500 1000 50  0001 C CNN
+F 1 "+5V" H 6515 1323 50  0000 C CNN
+F 2 "" H 6500 1150 50  0001 C CNN
+F 3 "" H 6500 1150 50  0001 C CNN
+	1    6500 1150
+	1    0    0    -1  
+$EndComp
+Connection ~ 6500 1150
+$Comp
+L power:GND #PWR02
+U 1 1 615730BE
+P 6500 3450
+F 0 "#PWR02" H 6500 3200 50  0001 C CNN
+F 1 "GND" H 6505 3277 50  0000 C CNN
+F 2 "" H 6500 3450 50  0001 C CNN
+F 3 "" H 6500 3450 50  0001 C CNN
+	1    6500 3450
+	1    0    0    -1  
+$EndComp
+Connection ~ 6500 3450
+Text Notes 6625 4225 0    50   ~ 0
+Note: Somewhat incomplete schematic - exlcudes most components\nonboard Arduino Uno board (5V lin reg, headers, jumpers, clock chip,\npassives, etc). 
+Text Label 8100 1350 0    50   ~ 0
+tilt_servo_drive
+Text Label 8100 1250 0    50   ~ 0
+pan_servo_drive
+$Comp
+L Motor:Motor_Servo M1
+U 1 1 6157DA00
+P 10200 1350
+F 0 "M1" H 10532 1415 50  0000 L CNN
+F 1 "Motor_Servo" H 10532 1324 50  0000 L CNN
+F 2 "" H 10200 1160 50  0001 C CNN
+F 3 "http://forums.parallax.com/uploads/attachments/46831/74481.png" H 10200 1160 50  0001 C CNN
+	1    10200 1350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Motor:Motor_Servo M2
+U 1 1 61580D81
+P 10200 1725
+F 0 "M2" H 10532 1790 50  0000 L CNN
+F 1 "Motor_Servo" H 10532 1699 50  0000 L CNN
+F 2 "" H 10200 1535 50  0001 C CNN
+F 3 "http://forums.parallax.com/uploads/attachments/46831/74481.png" H 10200 1535 50  0001 C CNN
+	1    10200 1725
+	1    0    0    -1  
+$EndComp
+Text Label 9725 1250 2    50   ~ 0
+pan_servo_drive
+Text Label 9725 1625 2    50   ~ 0
+tilt_servo_drive
+Wire Wire Line
+	9900 1725 9775 1725
+Wire Wire Line
+	9900 1350 9775 1350
+Wire Wire Line
+	9775 1350 9775 1725
+Wire Wire Line
+	9775 1350 9775 1125
+Connection ~ 9775 1350
+$Comp
+L power:+5V #PWR06
+U 1 1 615931E5
+P 9775 1125
+F 0 "#PWR06" H 9775 975 50  0001 C CNN
+F 1 "+5V" H 9790 1298 50  0000 C CNN
+F 2 "" H 9775 1125 50  0001 C CNN
+F 3 "" H 9775 1125 50  0001 C CNN
+	1    9775 1125
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9900 1450 9850 1450
+Wire Wire Line
+	9850 1450 9850 1825
+Wire Wire Line
+	9850 1825 9900 1825
+$Comp
+L power:GND #PWR07
+U 1 1 61593F9D
+P 9850 1825
+F 0 "#PWR07" H 9850 1575 50  0001 C CNN
+F 1 "GND" H 9855 1652 50  0000 C CNN
+F 2 "" H 9850 1825 50  0001 C CNN
+F 3 "" H 9850 1825 50  0001 C CNN
+	1    9850 1825
+	1    0    0    -1  
+$EndComp
+Connection ~ 9850 1825
+Wire Wire Line
+	9725 1625 9900 1625
+Wire Wire Line
+	9900 1250 9725 1250
+$Comp
+L formula:GP2Y0A02YK0F U3
+U 1 1 615A2EB8
+P 10050 2250
+F 0 "U3" H 10378 2076 50  0000 L CNN
+F 1 "GP2Y0A02YK0F" H 10378 1985 50  0000 L CNN
+F 2 "" H 10050 2250 50  0001 C CNN
+F 3 "" H 10050 2250 50  0001 C CNN
+	1    10050 2250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9900 2350 9750 2350
+Wire Wire Line
+	9750 2350 9750 2275
+Text Label 9750 2550 2    50   ~ 0
+ir_scanner_data
+Wire Wire Line
+	9900 2450 9850 2450
+Wire Wire Line
+	9850 2450 9850 2625
+Wire Wire Line
+	9750 2550 9900 2550
+$Comp
+L power:GND #PWR09
+U 1 1 615A8A06
+P 9850 2625
+F 0 "#PWR09" H 9850 2375 50  0001 C CNN
+F 1 "GND" H 9855 2452 50  0000 C CNN
+F 2 "" H 9850 2625 50  0001 C CNN
+F 3 "" H 9850 2625 50  0001 C CNN
+	1    9850 2625
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR05
+U 1 1 615A8DA3
+P 9750 2275
+F 0 "#PWR05" H 9750 2125 50  0001 C CNN
+F 1 "+5V" H 9765 2448 50  0000 C CNN
+F 2 "" H 9750 2275 50  0001 C CNN
+F 3 "" H 9750 2275 50  0001 C CNN
+	1    9750 2275
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
