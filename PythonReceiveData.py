@@ -59,61 +59,49 @@ serialPort = serial.Serial(arduinoComPort, baudRate, timeout=1)
 
 #defining lists for data storage
 x = []
-y=[]
-z=[]
+y = []
+z = []
 
 
 # main loop to read data from the Arduino, then store & display it
 while True:
-    try:  # used try so that if user pressed other than the given key error will not be shown
-        if keyboard.is_pressed('q'):  # if key 'q' is pressed
-            print('You Pressed A Key!')
-            # break  # finishing the loop
-    except:
-        #
-        # ask for a line of data from the serial port, the ".decode()" converts the
-        # data from an "array of bytes", to a string
-        #
-        lineOfData = serialPort.readline().decode()
+    #
+    # ask for a line of data from the serial port, the ".decode()" converts the
+    # data from an "array of bytes", to a string
+    #
+    lineOfData = serialPort.readline().decode()
+    #decode()
 
-        #
-        # check if data was received
-        #
+    #
+    # check if data was received
+    #
 
-        # distance_measurement = int(lineOfData)
-        # print(distance_measurement)  # if user pressed a key other than the given key the loop will continue
+    # distance_measurement = int(lineOfData)
+    # print(distance_measurement)  # if user pressed a key other than the given key the loop will continue
 
-
-    if len(lineOfData) > 0:
+    if len(lineOfData) > 8:
     #
     # data was received, convert it into 4 integers
-    #
-        print(lineOfData)
+        #print(lineOfData)
         a = lineOfData.split(",")
         print(a)
 
-        #a0=pan angle in degrees, a1=tilt angle in deg, a2=sensor data
+        # #a0=pan angle in degrees, a1=tilt angle in deg, a2=sensor data
 
-        #turn data into coordinates & add to final plotting lists
+        # #turn data into coordinates & add to final plotting lists
         x.append(cos(radians(int(a[0])))*cos(radians(int(a[1])*dataToDistance(int(a[2])))))
         y.append(sin(radians(int(a[0])))*cos(radians(int(a[1])))*dataToDistance(int(a[2])))
-        z.append(sin(radians(int(a[1])))*dataToDistance(int(a[0])))
-
+        z.append(sin(radians(int(a[1])))*dataToDistance(int(a[2])))
+    
+    # once line of data = 3 (in other words all data is collected), plot
+    if len(lineOfData)==3:
+        break
     else:
-        # once line of data = 0 (in other words all data is collected), plot
+        continue
 
-        fig = plt.figure(figsize=(8, 8))
-        ax = fig.add_subplot(111, projection='3d')
+fig = plt.figure(figsize=(10, 10))
 
-        ax.scatter(x, y, z)
-        plt.show()
+ax = fig.add_subplot(111, projection='3d')
 
-    # therm_a, therm_b = (int(x) for x in lineOfData.split(','))
-    #
-    # #
-    # # print the results
-    # #
-    # print("a = " + str(a), end="")
-    # print(", b = " + str(b), end="")
-    # print(", c = " + str(c), end="")
-    # print(", d = " + str(d))
+ax.scatter(x, y, z)
+plt.show()
