@@ -30,11 +30,11 @@
 
 #include <Servo.h>
 
-#define ROLL_FILTER_SZ            20    // size of rolling / moving avg filter for scan data
+#define ROLL_FILTER_SZ            30    // size of rolling / moving avg filter for scan data
 #define SCANNER_POLL_RATE         20    // in Hz
 
-//#define SLOW 
-#define FAST
+#define SLOW 
+//#define FAST
 
 #ifdef  SLOW
 #define SERVO_SPEED               .018  // in deg/ms
@@ -45,8 +45,8 @@
 #define PAN_INCR                  2
 #define TILT_INCR                 2
 
-#define PAN_MIN_RNG               60
-#define PAN_MAX_RNG               120
+#define PAN_MIN_RNG               70
+#define PAN_MAX_RNG               110
 #define TILT_MIN_RNG              70
 #define TILT_MAX_RNG              110
 
@@ -134,7 +134,7 @@ void read_data_and_filter(){
     
     filtered_sensor_value /= ROLL_FILTER_SZ; 
 
-//    distance = (((float)filtered_sensor_value) - 644.0) / (-19.9);
+//    
   } else {
     return; 
   }
@@ -209,11 +209,6 @@ void tilt_1_degree(bool climbing){
         tilt_is_climbing = false; 
         pan_set_point = (climbing) ? (PAN_MAX_RNG - PAN_INCR) : (PAN_MIN_RNG + PAN_INCR);   
       }
-      
-//      Serial.println("COMPLETED PAN SWEEP & TILT BUMP, SWITCHING DIRECTION");    
-//            Serial.print("new pan_set_point: "); Serial.print(pan_set_point); 
-//      Serial.println(); 
-      
     }
   } else if (tilt_pos == TILT_MAX_RNG){ // scan complete 
     // implement wait_ms()
@@ -231,6 +226,30 @@ void scan(){
   
   // collect data over entire SCAN state at 5 Hz for rolling filter
   read_data_and_filter(); 
+  send_packet(); 
+//  send_packet();
+//  if (wait_ms(5)){
+//    read_data_and_filter(); 
+//  }
+//  if (wait_ms(STOP_DELAY)){
+//    
+//    send_packet(); 
+//  }
+
+  // works pretty well, send_packet() effectively happens in every superloop run 
+//  if (pan_pos < PAN_MAX_RNG){
+//    // increment PAN
+//    if (move_pan(pan_set_point)){ // start_pos_pan + PAN_INCR
+//      // change state & send packet 
+//      send_packet();
+//      if (wait_ms(STOP_DELAY)){
+////        send_packet(); 
+//        pan_set_point += PAN_INCR;   
+//      }
+//    }
+//  }
+  
+  
 
   if (tilt_climbing){
       if (pan_pos < PAN_MAX_RNG){
@@ -307,7 +326,15 @@ void send_packet(){
 //  Serial.print("DATA:"); Serial.print(filtered_sensor_value); Serial.print(", ");
 //  Serial.println();
 
-  Serial.print(pan_pos); Serial.print(","); Serial.print(tilt_pos); Serial.print(","); Serial.print(filtered_sensor_value); Serial.print(","); Serial.println(); 
+//  Serial.print(pan_pos); Serial.print(","); Serial.print(tilt_pos); Serial.print(","); Serial.print(filtered_sensor_value); Serial.print(","); Serial.println(); 
+
+
+  /* For calibration */
+  distance = (((float)filtered_sensor_value) - 644.0) / (-19.9);
+  Serial.print("top:"); Serial.print(25); Serial.print(", ");
+  Serial.print("btm:"); Serial.print(6); Serial.print(", ");
+  Serial.print("data:"); Serial.print(distance); Serial.print(", "); 
+  Serial.println(); 
 }
 
 
@@ -351,7 +378,5 @@ void loop() {
     default: 
       break; 
   } 
-//  Serial.print("top:"); Serial.print(700); Serial.print(", ");
-//  Serial.print("btm:"); Serial.print(50); Serial.print(", ");
-//  Serial.print("data:"); Serial.print(filtered_sensor_value); Serial.print(", "); 
+
 }
