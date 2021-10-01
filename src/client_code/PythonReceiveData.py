@@ -9,6 +9,7 @@
 #get data imports
 import serial
 import keyboard
+import pickle 
 
 #data to coord imports
 from math import sin, cos, radians
@@ -17,6 +18,7 @@ from StoreAndPlotDummy import dataToDistance
 
 #plotting imports
 import matplotlib.pyplot as plt
+from mpl_toolkits.mplot3d import Axes3D
 from mpl_toolkits.mplot3d import proj3d
 
 #
@@ -63,45 +65,70 @@ y = []
 z = []
 
 
-# main loop to read data from the Arduino, then store & display it
+# # main loop to read data from the Arduino, then store & display it
 while True:
     #
     # ask for a line of data from the serial port, the ".decode()" converts the
     # data from an "array of bytes", to a string
     #
-    lineOfData = serialPort.readline().decode()
-    #decode()
+    try: 
+        lineOfData = serialPort.readline().decode()
+        #decode()
 
-    #
-    # check if data was received
-    #
+        #
+        # check if data was received
+        #
 
-    # distance_measurement = int(lineOfData)
-    # print(distance_measurement)  # if user pressed a key other than the given key the loop will continue
+        # distance_measurement = int(lineOfData)
+        # print(distance_measurement)  # if user pressed a key other than the given key the loop will continue
 
-    if len(lineOfData) > 8:
-    #
-    # data was received, convert it into 4 integers
-        #print(lineOfData)
-        a = lineOfData.split(",")
-        print(a)
+        if len(lineOfData)==3:
+             break # STOP code
+        else:
+            
+            if len(lineOfData) > 8:
+            #
+            # data was received, convert it into 4 integers
+                #print(lineOfData)
+                a = lineOfData.split(",")
+                print(a)
+                if int(a[2]) < 100:
+                    continue
+                else:
+                    # # #turn data into coordinates & add to final plotting lists
+                    x.append(cos(radians(int(a[0])))*cos(radians(int(a[1])*dataToDistance(int(a[2])))))
+                    y.append(sin(radians(int(a[0])))*cos(radians(int(a[1])))*dataToDistance(int(a[2])))
+                    z.append(sin(radians(int(a[1])))*dataToDistance(int(a[2])))
+                    # #a0=pan angle in degrees, a1=tilt angle in deg, a2=sensor data
 
-        # #a0=pan angle in degrees, a1=tilt angle in deg, a2=sensor data
 
-        # #turn data into coordinates & add to final plotting lists
-        x.append(cos(radians(int(a[0])))*cos(radians(int(a[1])*dataToDistance(int(a[2])))))
-        y.append(sin(radians(int(a[0])))*cos(radians(int(a[1])))*dataToDistance(int(a[2])))
-        z.append(sin(radians(int(a[1])))*dataToDistance(int(a[2])))
+        
+            # once line of data = 3 (in other words all data is collected), plot
+
+    except:
+        pass
     
-    # once line of data = 3 (in other words all data is collected), plot
-    if len(lineOfData)==3:
-        break
-    else:
-        continue
+# x=[1,2,2,3,4,3,2,5,6]
+# y=[1,2,3,4,2,5,3,2,6]
+# z=[1,2,3,4,5,6,7,8,9]
+
+with open("coordinates.pkl", "wb") as f:
+    pickle.dump(x, f)
+    pickle.dump(y, f)
+    pickle.dump(z, f)
 
 fig = plt.figure(figsize=(10, 10))
 
 ax = fig.add_subplot(111, projection='3d')
 
-ax.scatter(x, y, z)
+colmap = plt.cm.ScalarMappable(cmap=plt.cm.hsv)
+colour =colmap.set_array(z)
+
+ax.scatter(x, y, z, c=z, cmap="coolwarm")
+# fig.colorbar(colmap)
+
+ax.set_xlabel('X Direction')
+ax.set_ylabel('Y Direction')
+ax.set_zlabel('Z Direction')
+
 plt.show()
