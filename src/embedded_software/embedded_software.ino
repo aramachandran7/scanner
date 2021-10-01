@@ -326,15 +326,15 @@ void send_packet(){
 //  Serial.print("DATA:"); Serial.print(filtered_sensor_value); Serial.print(", ");
 //  Serial.println();
 
-//  Serial.print(pan_pos); Serial.print(","); Serial.print(tilt_pos); Serial.print(","); Serial.print(filtered_sensor_value); Serial.print(","); Serial.println(); 
+  Serial.print(pan_pos); Serial.print(","); Serial.print(tilt_pos); Serial.print(","); Serial.print(filtered_sensor_value); Serial.print(","); Serial.println(); 
 
 
   /* For calibration */
   distance = (((float)filtered_sensor_value) - 644.0) / (-19.9);
-  Serial.print("top:"); Serial.print(25); Serial.print(", ");
-  Serial.print("btm:"); Serial.print(6); Serial.print(", ");
-  Serial.print("data:"); Serial.print(distance); Serial.print(", "); 
-  Serial.println(); 
+//  Serial.print("top:"); Serial.print(25); Serial.print(", ");
+//  Serial.print("btm:"); Serial.print(6); Serial.print(", ");
+//  Serial.print("data:"); Serial.print(distance); Serial.print(", "); 
+//  Serial.println(); 
 }
 
 
