@@ -37,16 +37,16 @@
 //#define FAST
 
 #ifdef  SLOW
-#define SERVO_SPEED               .018  // in deg/ms
+#define SERVO_SPEED               .032  // in deg/ms
 #else
 #define SERVO_SPEED               .024  // in deg/ms
 #endif
 
-#define PAN_INCR                  2
+#define PAN_INCR                  1 
 #define TILT_INCR                 2
 
-#define PAN_MIN_RNG               70
-#define PAN_MAX_RNG               110
+#define PAN_MIN_RNG               50
+#define PAN_MAX_RNG               130
 #define TILT_MIN_RNG              70
 #define TILT_MAX_RNG              110
 
@@ -226,7 +226,7 @@ void scan(){
   
   // collect data over entire SCAN state at 5 Hz for rolling filter
   read_data_and_filter(); 
-  send_packet(); 
+//  send_packet(); 
 //  send_packet();
 //  if (wait_ms(5)){
 //    read_data_and_filter(); 
@@ -248,6 +248,20 @@ void scan(){
 //      }
 //    }
 //  }
+//  if (pan_pos < PAN_MAX_RNG){
+//    // increment PAN
+//    if (move_pan(pan_set_point)){ // start_pos_pan + PAN_INCR
+//      // change state & send packet 
+//      if (wait_ms(STOP_DELAY)){
+//        send_packet(); 
+//        pan_set_point += PAN_INCR;   
+//      }
+//    }
+//  } else {
+//    exit_scan(); 
+//  }
+  
+  
   
   
 
@@ -330,7 +344,7 @@ void send_packet(){
 
 
   /* For calibration */
-  distance = (((float)filtered_sensor_value) - 644.0) / (-19.9);
+//  distance = (((float)filtered_sensor_value) - 644.0) / (-19.9);
 //  Serial.print("top:"); Serial.print(25); Serial.print(", ");
 //  Serial.print("btm:"); Serial.print(6); Serial.print(", ");
 //  Serial.print("data:"); Serial.print(distance); Serial.print(", "); 
